@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Odcinek 2: Dżdżysta Chioggia I Wenecja"
+title: "Pijackie kanały Wenecji i dżdżysta Chioggia "
 modified:
 categories: Trips
 excerpt:
-tags: []
+tags: [trips italy]
 image:
   feature:
   teaser: wenecja2.jpg
