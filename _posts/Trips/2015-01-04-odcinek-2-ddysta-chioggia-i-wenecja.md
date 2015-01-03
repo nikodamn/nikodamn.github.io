@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser: wenecja.jpg
+  teaser: wenecja2.jpg
   thumb:
 date: 2015-01-04T00:08:53+01:00
 ---
