@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Nikodamn's space
+title: Nikodamn's space  
 description: Learn from this mistake
 logo: logo.jpeg
 teaser: amsterdam.jpg
@@ -22,13 +22,13 @@ gems:
 # Site owner
 owner:
   name: Nikodem Hynek
-  email:  nikodem.hynek@gmail.com
-  twitter:  nikodamn
+  email: nikodem.hynek@gmail.com
+  twitter: nikodamn
   google:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: portfolio.jpg # 160x160 px image for author byline
+  avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
