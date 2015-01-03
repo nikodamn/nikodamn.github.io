@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>Nikodamn's space</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>//nikodamn.github.io/apple-touch-icon-precomposed.png</icon>
+    <subtitle>Learn from this mistake</subtitle>
+    <link href="//nikodamn.github.io/atom.xml" rel="self"/>
+    <link href="//nikodamn.github.io/" rel="alternate" type="text/html"/>
+    <updated>2015-01-03T23:20:04+01:00</updated>
+    <id>//nikodamn.github.io/</id>
+    <author>
+			<name>Nikodem Hynek</name>
+			<uri>//nikodamn.github.io/</uri>
+			<email>nikodem.hynek@gmail.com</email>
+		</author>
+
+    
+</feed>
