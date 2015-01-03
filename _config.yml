@@ -2,10 +2,10 @@
 
 title: Nikodamn's space
 description: Learn from this mistake
-logo: /images/logo.jpeg
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: logo.jpeg
+teaser: amsterdam.jpg
 locale:
-url:
+url: //nikodamn.github.io
 
 # Jekyll configuration
 
