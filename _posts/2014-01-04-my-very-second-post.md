@@ -2,7 +2,7 @@
 layout: post
 title:  "Oto mój pierwszy post!"
 date:   2015-01-04 22:14:21
-categories: personal
+categories: programming
 ---
 Nareszcie. Od kilku lat użerałem się z [blogspotem]. Obiecywałem sobie, że kiedyś w końcu postawię swój własny blog, ale nigdy nie znalazłem do tego odpowiedniej dozy zapału i umiejętności. Teraz nadszedł ten czas. 2015, let's go!
 
