@@ -5,7 +5,17 @@
   excerpt: "My adventures"
   image: trips.jpg
 
-  - title: Football
+- title: Football
   url: /football/
-  excerpt: "About the most beautiful game"
+  excerpt: "The most beautiful game in the world"
+  image:
+
+ - title: Programming
+  url: /programming/
+  excerpt: "About coding"
+  image:
+
+- title: About me
+  url: /about/
+  excerpt:
   image:
