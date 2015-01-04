@@ -15,7 +15,7 @@ date: 2015-01-04T00:08:53+01:00
 Trzeci dzień naszej podróży rozpoczęliśmy w chłodnym wietrze otaczających nas Alp. Była 8 rano, słońce dopiero się budziło, a my zwijaliśmy nasz dwuosobowy, przenośny domek. Jeszcze ostatni gorący prysznic, zapłacić za pole i lecimy do Włoch!
 
 image:
-/wenecja.jpg/
+	feature: wenecja.jpg/
 
 Kilkaset metrów od pola prowadziła droga w kierunku Lienz i dalej przejścia granicznego Austria-Włochy. Na okazję czekaliśmy może 10 minut, gdy zatrzymał się Austriak jadący do pracy. Prosto do Lienz! Dzięki świetnym drogom byliśmy tam już po krótkiej chwili minąwszy kolejne bajkowe, austryjackie uliczki.
 
