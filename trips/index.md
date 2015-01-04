@@ -1,9 +1,9 @@
 ---
-layout: archive
+layout: media
 title: "Tutaj znajdują się moje podróże!"
 date: 
 modified:
-excerpt:
+excerpt: "Małe i duże"
 image:
   feature:
   teaser:
