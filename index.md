@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /
+image: wenecja.jpg
 title: "Ostatnie wpisy: "
 ---
 
