@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Nikodamn's space  
+title: Every day make it Damn!
 description: Learn from this mistake
 logo: logo.jpeg
 teaser: amsterdam.jpg
@@ -27,7 +27,7 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: "Nikodem bla bla bla bla bla bla bla bla bla"
+  bio: "Amator programowania, podróży autostopem i piłki nożnej."
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
