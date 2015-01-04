@@ -1,11 +1,11 @@
 ---
-layout: article
+layout: archive
 title: "Tutaj znajdują się moje podróże!"
 date: 
 modified:
 excerpt:
 image:
-  feature: wenecja.jpg
+  feature:
   teaser:
   thumb:
 ads: false
