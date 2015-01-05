@@ -1,11 +1,6 @@
 # Site navigation links
 
-- title: Trips
+- title: O mnie
   url: /trips/
-  excerpt: "My adventures"
-  image: trips.jpg
-
-- title: Football
-  url: /football/
-  excerpt: "My passion"
-  image: trips.jpg
+  excerpt: ""
+  image: bio-photo.jpg
