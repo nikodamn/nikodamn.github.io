@@ -12,9 +12,9 @@ image:
 date: 2013-12-08T03:37:09+01:00
 ---
 
-<div class="css-full-post-content js-full-post-content">
+
 <br /><br />
-Zakręcony w nowej codzienności wciąż odkładałem pamiętnikowe wyznania po kolejnym R3B. Dziś czas ująć słowa w permutacje kliknięć klawiatury, póki nie umarły jeszcze wszystkie z komórek mojego mózgu.<br /><br />Natknąłem się na słowa trafiające w sedno rzeczy: <i>Dlaczego chodzimy w góry? Bo są.</i> - George Mallory<br /><br />
+Zakręcony w nowej codzienności wciąż odkładałem pamiętnikowe wyznania po kolejnym R3B. Dziś czas ująć słowa w permutacje kliknięć klawiatury, póki nie umarły jeszcze wszystkie z komórek mojego mózgu. Natknąłem się na słowa trafiające w sedno rzeczy: <i>Dlaczego chodzimy w góry? Bo są.</i> - George Mallory<br /><br />
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-yUTx880MBD4/UqTnR6q5wRI/AAAAAAAAHVU/b9cDHDGDcAM/s1600/DSC_0088.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-yUTx880MBD4/UqTnR6q5wRI/AAAAAAAAHVU/b9cDHDGDcAM/s400/DSC_0088.jpg" /></a></div><br />
 
