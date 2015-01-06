@@ -1,21 +1,15 @@
 ---
+layout: article
 title: "XXI R3B: Góry Sowie"
-layout: "post"
-permalink: "/2013/12/xxi-r3b-gory-sowie.html"
-uuid: "2846730554799435695"
-guid: "tag:blogger.com,1999:blog-477730819106719465.post-2846730554799435695"
-date: "2013-12-08 21:08:00"
-updated: "2013-12-25 13:41:03"
-description: 
-blogger:
-    siteid: "477730819106719465"
-    postid: "2846730554799435695"
-    comments: "0"
-categories: 
-author: 
-    name: "nk.damn"
-    url: "http://www.blogger.com/profile/16496628443207835779?rel=author"
-    image: "http://3.bp.blogspot.com/_FdOndfapBfc/TAKvWM5SqII/AAAAAAAAEsU/7_-sIMGrzsw/S220/1275242867233.gif"
+modified:
+categories: trips
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-01-06T03:37:09+01:00
 ---
 
 <div class="css-full-post-content js-full-post-content">
