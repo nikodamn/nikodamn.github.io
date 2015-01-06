@@ -2,14 +2,14 @@
 layout: article
 title: "XXI R3B: Góry Sowie"
 modified:
-categories: trips
-excerpt:
+categories: Trips
+excerpt: " 'laczego chodzimy w góry? Bo są.' "
 tags: []
 image:
   feature:
-  teaser:
+  teaser: wenecja2.jpg
   thumb:
-date: 2015-01-06T03:37:09+01:00
+date: 2013-12-08T03:37:09+01:00
 ---
 
 <div class="css-full-post-content js-full-post-content">
