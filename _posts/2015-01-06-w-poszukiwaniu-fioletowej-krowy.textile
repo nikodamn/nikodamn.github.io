@@ -1,5 +1,0 @@
----
-title: "W poszukiwaniu fioletowej krowy"
-layout: post
-date: 2015-01-06 03:10:13 CET
----
