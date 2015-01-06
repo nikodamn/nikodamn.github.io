@@ -6,7 +6,7 @@ categories: trips
 excerpt: "Długo wyczekiwana podróż w norweskie fiordy spontanicznie przerodziła się w podróż do Włoch. Komfort, pieniądze, ilość samochodów, ale chyba przede wszystkim pogoda - to wszystko przemawiało za tym by krainy wikingów odłożyć na następny raz, a teraz spełnić marzenie o zwiedzaniu Toskanii."
 tags: []
 image:
-  feature: 
+  feature: /fioletowa_krowa/1.jpg
   teaser: wenecja2.jpg
   thumb:
 date: 2014-09-01T03:20:14+01:00
