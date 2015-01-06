@@ -26,7 +26,12 @@ Jak to na autostradzie - ogromna nuda, którą rekompensowała nam rozmowa z Mik
 Przed 20 byliśmy na miejscu. Okazało się, że Mikołaj w raz z innymi lotniarzami śpią na tamtejszym polu campingowym. Stwierdziliśmy, że to doskonała okazja na nocleg, więc zabraliśmy się z nim. Przywitał nas przeszywający do szpiku kości chłód gór. Pole kempingowe położone było w dolnie Alp. Później dowiedzieliśmy się, że w nocy było koło 8 stopni! Szybko rozbiliśmy namiot i zabraliśmy się do picia zakupionych wcześniej austriackich browarów. Były wspaniałe! Wpatrzeni w szczyty gór i niesamowity widok Drogi Mlecznej siedzieliśmy do późna.
 
 
-Mamo, śpimy w Alpach!
+<figure class="half">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/2.jpg">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/3.jpg">
+	<figcaption>Mamo śpimy w Alpach!</figcaption>
+</figure>
+
 
 Następnego dnia wstaliśmy wcześnie, ale już dookoła nas było pełno lotniarzy i paralotniarzy. Chcieliśmy nawet wejść na miejsce ich startu na górze, ale czterogodzinna trasa po asfalcie nie zapowiadała się ciekawie. Patrząc na nich z dołu zrobiliśmy spory spacer po pobliskich malowniczych łąkach i równie bajkowych posiadłościach. Słońce grzało cudownie, gdy wędrowaliśmy sobie między polami kukurydzy a majestatycznymi skałami.
 
