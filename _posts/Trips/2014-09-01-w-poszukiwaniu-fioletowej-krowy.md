@@ -7,7 +7,7 @@ excerpt: "Długo wyczekiwana podróż w norweskie fiordy spontanicznie przerodzi
 tags: []
 image:
   feature: /fioletowa_krowa/1.jpg
-  teaser: wenecja2.jpg
+  teaser: fioletowa_teaser.jpg
   thumb:
 date: 2014-09-01T03:20:14+01:00
 ---
