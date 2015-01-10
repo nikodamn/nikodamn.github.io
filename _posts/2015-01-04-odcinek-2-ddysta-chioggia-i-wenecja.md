@@ -16,6 +16,9 @@ Trzeci dzień naszej podróży rozpoczęliśmy w chłodnym wietrze otaczających
 
 Kilkaset metrów od pola prowadziła droga w kierunku Lienz i dalej przejścia granicznego Austria-Włochy. Na okazję czekaliśmy może 10 minut, gdy zatrzymał się Austriak jadący do pracy. Prosto do Lienz! Dzięki świetnym drogom byliśmy tam już po krótkiej chwili minąwszy kolejne bajkowe, austryjackie uliczki.
 
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/1.jpg">
+</figure>
 
 W Lienz tuż przy rondzie napotkaliśmy dwie osoby łapiące stopa, ale była to jakaś starsza pani i (chyba) robotnik, żadni podróżnicy. Tu również nie czekaliśmy długo, bo po kilku selfies złapaliśmy kolejną parę, również austriaków. Jechali do granicy. Szalenie fajne jest to, że mimo iż nie znali angielskiego albo nie chciało im się gadać to nam pomogli.
 
@@ -23,11 +26,30 @@ W środku miasteczka, na bardzo wąskiej uliczce łapaliśmy dobry kwadrans. Mn�
 
 Chwilę pośmieszkowaliśmy, jakieś zdjęcie i bach - kolejny samochód. A co najlepsze - wymarzony Volkswagen "ogórek". To drugi raz, gdy zatrzymał nam się taki samochód, za pierwszym razem było to przy okazji stopowania do Amsterdamu w maju. Okazało się, że to para z Niemiec, która jedzie prosto do... Wenecji! Niesamowity fuks. Szczęśliwi byliśmy tym bardziej, że mówili świetnie po angielsku. Droga upływała nam w błogiej atmosferze pięknych widoków i miłych rozmów. No i świetnego, wygodnego wnętrza hipisowskiego "ogórka".
 
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/2.jpg">
+</figure>
 
 Gdy dojeżdżaliśmy na miejsce okazało się, że jadą oni nie do Wenecji, bo tam nie można wjeżdżać samochodem, a nieopodal - na plażę. Byli tak uprzejmi, że podrzucili nas na prom. Ostatnie minuty podróży minęły nam w stresie, bo Indze wypadł gdzieś telefon. Mieliśmy nadzieję, że nie na postoju, a w samochodzie. Szczęśliwie telefon znalazł się we wnętrzu samochodu, mogliśmy iść na prom. Był środek dnia, ogromny upał, a my płynęliśmy promem do upragnionej Wenecji!
 
-Gdy wysiedliśmy uderzył nas ogrom turystów i upał. Szybko zjedliśmy coś, zdjęliśmy bluzy i ruszyliśmy zwiedzać. Wenecja rzeczywiście zachwyca urokiem kanałów, uliczek i pięknych katedr. Jednak wspomniane uliczki nabierają klimatu dopiero, gdy wyjdzie się z tych obleganych przez turystów. Po obejrzeniu kilku ważniejszych miejsc poszliśmy po białe wino, które szybko wypiliśmy wpatrzeni w piękne balkony mieszkań.
+Wysiedliśmy i uderzył nas ogrom turystów i upał. Szybko zjedliśmy coś, zdjęliśmy bluzy i ruszyliśmy zwiedzać. Wenecja rzeczywiście zachwyca urokiem kanałów, uliczek i pięknych katedr. Jednak wspomniane uliczki nabierają klimatu dopiero, gdy wyjdzie się z tych obleganych przez turystów. Po obejrzeniu kilku ważniejszych miejsc poszliśmy po białe wino, które szybko wypiliśmy wpatrzeni w piękne balkony mieszkań.
 
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/3.jpg">
+</figure>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/5.jpg">
+</figure>
+
+<figure class="half">
+	<img src="//nikodamn.github.io/images/wenecja/4.jpg">
+	<img src="//nikodamn.github.io/images/wenecja/6.jpg">
+</figure>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/7.jpg">
+</figure>
 
 Potem nadszedł czas na jakiś plan. Vicky mówiła Indze, że koniecznie trzeba znaleźć miejsce zwane Campo S. Margarita, w którym to młodzi ludzie spotykają się żeby jeść pizzę i upijać się winami. Brzmiało dobrze! Z mapą w dłoniach szukaliśmy tego miejsca naprawdę długo. Dzięki temu zwiedziliśmy sporą część Wenecji i trzeba przyznać, że kanały (które, btw, wcale nie śmierdzą!) są tam naprawdę oblegane przez wszystkich mieszkańców. Czym dalej od centrum, tym lepiej było widać naturalną Wenecję - trochę obdrapaną, ale tym bardziej piękną i naturalną.
 
