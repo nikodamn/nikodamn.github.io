@@ -63,8 +63,8 @@ Później poszliśmy nad jeziorko alpejskie (3 euro/os, pozdro bijacz) tuż przy
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/11.jpg">
 </figure>
 
-<b>Dzień 1. i 2.
-Liczba autostopów: 2
+<b>Dzień 1. i 2. <br>
+Liczba autostopów:  <br>
 Przejechanych: 782 km</b>
 
 <figure class>
