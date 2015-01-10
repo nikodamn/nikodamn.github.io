@@ -29,20 +29,26 @@ Przed 20 byliśmy na miejscu. Okazało się, że Mikołaj w raz z innymi lotniar
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/2.jpg">
 </figure>
 
-<figure class="half">
+<figure class>
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/4.jpg">
+</figure>
+
+<figure class>
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/3.jpg">
-	<figcaption>Mamo śpimy w Alpach!</figcaption>
 </figure>
 
 <figure class>
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/5.jpg">
+		<figcaption>Mamo śpimy w Alpach!</figcaption>
 </figure>
 
 Następnego dnia wstaliśmy wcześnie, ale już dookoła nas było pełno lotniarzy i paralotniarzy. Chcieliśmy nawet wejść na miejsce ich startu na górze, ale czterogodzinna trasa po asfalcie nie zapowiadała się ciekawie. Patrząc na nich z dołu zrobiliśmy spory spacer po pobliskich malowniczych łąkach i równie bajkowych posiadłościach. Słońce grzało cudownie, gdy wędrowaliśmy sobie między polami kukurydzy a majestatycznymi skałami.
 
-<figure class="half">
+<figure>
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/6.jpg">
+</figure>
+
+<figure>
 	<img src="//nikodamn.github.io/images/fioletowa_krowa/7.jpg">
 </figure>
 
