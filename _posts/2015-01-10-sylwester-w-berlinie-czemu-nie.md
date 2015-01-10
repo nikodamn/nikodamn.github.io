@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "Sylwester W Berlinie? Czemu Nie?"
+title: "Sylwester W Berlinie? Czemu nie!"
 modified:
 categories: 
 excerpt: "O włoskich przyjaźniach pod Bramą Brandenburską"
 tags: []
 image:
   feature: /berlin/3.jpg
-  teaser:
+  teaser: /berlin/berlin-teaser.jpg
   thumb:
 date: 2015-01-10T23:08:45+01:00
 ---
