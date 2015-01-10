@@ -35,13 +35,32 @@ Przed 20 byliśmy na miejscu. Okazało się, że Mikołaj w raz z innymi lotniar
 	<figcaption>Mamo śpimy w Alpach!</figcaption>
 </figure>
 
+<figure class>
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/5.jpg">
+</figure>
 
 Następnego dnia wstaliśmy wcześnie, ale już dookoła nas było pełno lotniarzy i paralotniarzy. Chcieliśmy nawet wejść na miejsce ich startu na górze, ale czterogodzinna trasa po asfalcie nie zapowiadała się ciekawie. Patrząc na nich z dołu zrobiliśmy spory spacer po pobliskich malowniczych łąkach i równie bajkowych posiadłościach. Słońce grzało cudownie, gdy wędrowaliśmy sobie między polami kukurydzy a majestatycznymi skałami.
 
+<figure class="half">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/6.jpg">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/7.jpg">
+</figure>
 
 Później poszliśmy nad jeziorko alpejskie (3 euro/os, pozdro bijacz) tuż przy naszym ekskluzywnym polu. Woda była przeraźliwie lodowata, ale trochę się popluskaliśmy i pozjeżdżaliśmy do wody. Później słodki, błogi chillout w słońcu aż do wieczora, który był kontynuacją odpoczynku. Był to jeden z ostatnich takich chilloutów w naszej podróży, ale przecież nie mogliśmy tego wtedy wiedzieć!
 
+<figure class>
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/9.jpg">
+</figure>
 
-Dzień 1. i 2.
+<figure class="half">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/10.jpg">
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/11.jpg">
+</figure>
+
+<h2>Dzień 1. i 2.
 Liczba autostopów: 2
-Przejechanych: 782 km
+Przejechanych: 782 km</h2>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/fioletowa_krowa/mapa.jpg">
+</figure>
