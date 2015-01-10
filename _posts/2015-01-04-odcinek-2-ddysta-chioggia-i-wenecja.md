@@ -73,8 +73,11 @@ Zrobiliśmy zakupy i mocno zmęczeni chodzeniem z plecakami w upale zjedliśmy p
 
 Z samego rana wybraliśmy pierwszą lepszą miejscowość z okolicy Wenecji, która leżała nad morzem. W planie mieliśmy odespać tą noc na plaży i trochę popływać. Padło na Chioggię, do której dostaliśmy się autobusem. W autobusie pewien murzyn pokierował nas gdzie wysiąść na przepięknej plaży. Mimo, że dzień był pochmurny i rano trochę padało to słodko odsypaliśmy sobie na tamtejszych leżakach, a później zgodnie z plażem zaliczyliśmy pływanie.
 
-<figure class="half">
+<figure class>
 	<img src="//nikodamn.github.io/images/wenecja/13.jpg">
+</figure>
+
+<figure class>
 	<img src="//nikodamn.github.io/images/wenecja/14.jpg">
 </figure>
 
