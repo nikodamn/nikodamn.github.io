@@ -53,17 +53,47 @@ Wysiedliśmy i uderzył nas ogrom turystów i upał. Szybko zjedliśmy coś, zdj
 
 Potem nadszedł czas na jakiś plan. Vicky mówiła Indze, że koniecznie trzeba znaleźć miejsce zwane Campo S. Margarita, w którym to młodzi ludzie spotykają się żeby jeść pizzę i upijać się winami. Brzmiało dobrze! Z mapą w dłoniach szukaliśmy tego miejsca naprawdę długo. Dzięki temu zwiedziliśmy sporą część Wenecji i trzeba przyznać, że kanały (które, btw, wcale nie śmierdzą!) są tam naprawdę oblegane przez wszystkich mieszkańców. Czym dalej od centrum, tym lepiej było widać naturalną Wenecję - trochę obdrapaną, ale tym bardziej piękną i naturalną.
 
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/9.jpg">
+</figure>
+
+<figure class="half">
+	<img src="//nikodamn.github.io/images/wenecja/10.jpg">
+	<img src="//nikodamn.github.io/images/wenecja/11.jpg">
+</figure>
 
 
-W końcu dotarliśmy na wspomniany plac i nie mogliśmy uwierzyć, że to te miejsce, bo nie było tam żadnej hucznej imprezy. Niedługo zaczynał się wieczór, nie mieliśmy planów na nocleg. Napisaliśmy na facebookowej grupie 'przenocuj mnie, jestem w dupie', bo mój telefon z internetem zaraz miał się rozładować. Żadnego odzewu. Potem okazało się, że odezw był, ale na facebooku nie smsem... Cóż, planem stało się picie całą noc i 'jakoś to przecież będzie'. Zrobiliśmy zakupy i mocno zmęczeni chodzeniem z plecakami w upale zjedliśmy pizzę i zaczęliśmy pić. Dołączyliśmy do grupki metali pijących przy studni i od słowa do słowa nawiązały nam się dość ciekawe dyskusje. W pamięci na pewno zachowam Marco - wielkiego fana black metalu, krytyka religi i polityki swojego państwa. Piliśmy mnóstwo wina, ale spróbowałem też anyżowej wódki. Upiliśmy się nieźle, zrobił się środek nocy. Ekipa powoli zaczęła się zwijać, a my... Zostaliśmy na ławce na Campo, gdzie Ingula przekulała się do rana w moich ramionach.
+W końcu dotarliśmy na wspomniany plac i nie mogliśmy uwierzyć, że to te miejsce, bo nie było tam żadnej hucznej imprezy. Niedługo zaczynał się wieczór, nie mieliśmy planów na nocleg. Napisaliśmy na facebookowej grupie 'przenocuj mnie, jestem w dupie', bo mój telefon z internetem zaraz miał się rozładować. Żadnego odzewu. Potem okazało się, że odezw był, ale na facebooku nie smsem... Cóż, planem stało się picie całą noc i 'jakoś to przecież będzie'. 
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/8.jpg">
+</figure>
+
+Zrobiliśmy zakupy i mocno zmęczeni chodzeniem z plecakami w upale zjedliśmy pizzę i zaczęliśmy pić. Dołączyliśmy do grupki metali pijących przy studni i od słowa do słowa nawiązały nam się dość ciekawe dyskusje. W pamięci na pewno zachowam Marco - wielkiego fana black metalu, krytyka religi i polityki swojego państwa. Piliśmy mnóstwo wina, ale spróbowałem też anyżowej wódki. Upiliśmy się nieźle, zrobił się środek nocy. Ekipa powoli zaczęła się zwijać, a my... Zostaliśmy na ławce na Campo, gdzie Ingula przekulała się do rana w moich ramionach.
 
 Z samego rana wybraliśmy pierwszą lepszą miejscowość z okolicy Wenecji, która leżała nad morzem. W planie mieliśmy odespać tą noc na plaży i trochę popływać. Padło na Chioggię, do której dostaliśmy się autobusem. W autobusie pewien murzyn pokierował nas gdzie wysiąść na przepięknej plaży. Mimo, że dzień był pochmurny i rano trochę padało to słodko odsypaliśmy sobie na tamtejszych leżakach, a później zgodnie z plażem zaliczyliśmy pływanie.
 
+<figure class="half">
+	<img src="//nikodamn.github.io/images/wenecja/13.jpg">
+	<img src="//nikodamn.github.io/images/wenecja/14.jpg">
+</figure>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/15.jpg">
+</figure>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/16.jpg">
+</figure>
 
 Warto wspomnieć, że okolice Wenecji są naprawdę obrzydliwie. Same płaskie, niezagospodarowane tereny lub strefy industrialne. Chioggia natomiast była typowym kurortem. Oprócz hoteli i plaż to miasto nie miało nic do zaoferowania. Na obiad wybraliśmy się na tanie i naprawdę marne jedzenie - carbonarę i lasagne. Zawiodło nas to trochę, więc postanowiliśmy poszukać supermarketu. Błądziliśmy, ale udało się trafić do Lidla, gdzie ogromnie się obłowiliśmy w szelkiej maści owoce, wina i inne smakołyki. Resztę dnia byczliśmy się na plaży, już w trochę lepszej pogodzie. Noc planowaliśmy spędzić na plaży. W końcu rozbiliśmy się pod domkiem ratowniczym w ochronie przed deszczem. Było przyjemnie, mimo sztormu na morzu dopóki nie wypędził nas jakiś dziadek pilnujący prywatnej plaży. Przenieśliśmy się w inne, jak się okazało lepsze miejsce.
 
 Rano nasze humory popsuł szampon, który wylał się w Ingi plecaku i nagły deszcz. Mimo tego tej nocy byliśmy już w cudownej Peruggi, ale o tym w następnym odcinku.
 
-Dzień 3. i 4.
-Liczba autostopów: 4
-Przejechanych: 404 km
+<b>Dzień 3. i 4. <br>
+Liczba autostopów: 4 <br>
+Przejechanych: 404 km</b>
+
+<figure class>
+	<img src="//nikodamn.github.io/images/wenecja/mapa.jpg">
+</figure>
