@@ -47,7 +47,7 @@ Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dró
 	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
 </figure>
 
-<figure class="half">
+<figure>
 	<img src="http://nikodamn.github.io/images/sowie/a4.jpg">
 	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
 </figure>
