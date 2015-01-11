@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Szybko, szybko w Góry "
+title: "Szybko, szybko w góry!"
 modified:
 categories: 
-excerpt:
+excerpt: "Noc na słowackiej granicy, przemiły Algierczyk i nietypowy autostop w środku nocy."
 tags: []
 image:
   feature: /albania/14i15/1.jpg
