@@ -17,15 +17,15 @@ Zakręcony w nowej codzienności wciąż odkładałem pamiętnikowe wyznania po 
 Natknąłem się na słowa trafiające w sedno rzeczy: <br>
 <i>Dlaczego chodzimy w góry? Bo są. - George Mallory</i>
 
+<figure class>
+	<img src="http://nikodamn.github.io/images/sowie/3.jpg">
+</figure>
+
 Podróż zaczęliśmy w czwartek pociągiem relacji Poznań - Wrocław. Postanowiliśmy odwiedzić ekipę Wrocławską przy tej okazji. Dotarliśmy na miejsce przed 12. Po spędzeniu miło kilku godzin położyliśmy się. Na pociąg do Wałbrzycha należało wstać skoro świt.
 
 Gdy dotarliśmy o 8 do Wałbrzycha Głównego czułem się wyjęty z kontekstu. Całą drogę odsypiałem i obudziłem się na pustym, zrujnowanym dworcu po środku niczego. Czy jak kto woli - Wałbrzycha. Mimo, że próbowałem namówić miasto (Wałbrzych bawimy się!) do imprezy to zaczęło rozkręcać się chwilę później, gdy dotarła reszta znajomych. Byliśmy już prawie w komplecie. Końcowy element układanki rajdu stanowiły embriony w liczbie ~25.
 
 Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dróżki. Tak dotarliśmy do długiego na kilka kilometrów tunelu, który przechodziliśmy w świetle latarek. Trzeba przyznać, że niezła frajda! Pogoda była jak na zamówienie, więc szło się wspaniale. Tak przeszliśmy z Wałbrzycha aż do schroniska "Orzeł", gdzie mieliśmy nocować u podnóża Gór Sowich. Zmęczeni całą drogą mogliśmy dać w palnik w schronisku i w tamtejszej knajpie!
-
-<figure class>
-	<img src="http://nikodamn.github.io/images/sowie/3.jpg">
-</figure>
 
 <figure class="half">
 	<img src="http://nikodamn.github.io/images/sowie/4.jpg">
@@ -49,6 +49,10 @@ Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dró
 
 <figure class="half">
 	<img src="http://nikodamn.github.io/images/sowie/a4.jpg">
+	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
+</figure>
+
+<figure>
 	<img src="http://nikodamn.github.io/images/sowie/a6.jpg">
 	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
 </figure>
