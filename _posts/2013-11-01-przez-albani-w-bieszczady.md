@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Przez Albanię... W Bieszczady"
+title: "Przez Albanię... w Bieszczady"
 modified:
 categories: 
 excerpt:
