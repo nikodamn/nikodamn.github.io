@@ -88,9 +88,14 @@ Wykończeni ponad piętnastokilometrową trasą łapaliśmy stopa w trójkę. Pr
 
 Poranek już lżejszy. Przy widoku zamglonych dolinek ruszyliśmy... do podstawionego autobusu, który podwiózł nas spory kawałek. Nasz cel - Szczeliniec, czyli Góry Stołowe. Znowu przygrywała nam piękna pogoda i szło się wspaniale. Może oprócz ostatniego podejścia, ale ono trwało tylko kilkanaście minut. Byliśmy już na obiad. Mogliśmy podziwiać piękne widoki z ponad wielkiej, trochę przerażającej, skały.
 
+<figure>
+	<img src="http://nikodamn.github.io/images/sowie/12.jpg">
+</figure>
 
-
-
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/sowie/13.jpg">
+	<img src="http://nikodamn.github.io/images/sowie/14.jpg">
+</figure>
 
 Wieczorem przy biesiadowaniu przyszli do nas GOPRowcy. Dziewczyny podrywane przez nich "na nocny spacerek" sprytnie zorganizowały wyprawę całej dwudziestce! To dopiero była frajda - chodzić po skalnym piekełku, czyli wąskich szczelinach, między i pod skałami w kompletnej ciemności, ale mając w myślach fakt, że są obok nas GOPRowcy. Potem podziękowaliśmy im piwem. Spędziłem kilka godzin na rozmowach z nimi i czytaniu jakiś starych czasopism science-fiction z '92 roku.
 
