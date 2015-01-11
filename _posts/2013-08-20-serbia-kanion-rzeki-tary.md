@@ -6,8 +6,8 @@ categories:
 excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
 tags: []
 image:
-  feature: /images/albania/12i13/10.jpg
-  teaser: /images/albania/12i13/serbia-teaser.jpg
+  feature: /albania/12i13/10.jpg
+  teaser: /albania/12i13/serbia-teaser.jpg
   thumb:
 date: 2013-08-20T02:10:18+01:00
 ---
