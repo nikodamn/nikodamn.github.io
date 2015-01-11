@@ -9,7 +9,7 @@ image:
   feature: /albania/10i11/4.jpg
   teaser: /albania/10i11/albania-teaser.jpg
   thumb:
-date: 2015-01-11T02:30:54+01:00
+date: 2013-08-13T02:30:54+01:00
 ---
 
 Wyruszyliśmy z samego rana. Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy... się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.
