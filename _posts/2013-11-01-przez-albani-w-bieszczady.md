@@ -6,8 +6,8 @@ categories:
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
+  feature: /albania/16i17/2.jpg
+  teaser: /albania/16i17/alb_b-teaser.jpg
   thumb:
 date: 2013-11-01T01:26:37+01:00
 ---
@@ -18,11 +18,6 @@ Z wybitnie ciężką głową ruszyliśmy z Cisnej w kierunku Rawek. Większość
 
 <figure class>
 	<img src="http://nikodamn.github.io/images/albania/16i17/1.jpg">
-	<figcaption>By Basia Matecka</figcaption>
-</figure>
-
-<figure class>
-	<img src="http://nikodamn.github.io/images/albania/16i17/2.jpg">
 	<figcaption>By Basia Matecka</figcaption>
 </figure>
 
