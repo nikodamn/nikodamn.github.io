@@ -6,7 +6,7 @@ categories:
 excerpt: "O wielkiej gościnności Albańczyków i tragicznych właściwościach rakiji."
 tags: []
 image:
-  feature: /albania/10i11/4.jpg
+  feature: /albania/10i11/5.jpg
   teaser: /albania/10i11/albania-teaser.jpg
   thumb:
 date: 2013-08-13T02:30:54+01:00
