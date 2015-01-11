@@ -7,7 +7,7 @@ excerpt: " 'Dlaczego chodzimy w góry? Bo są.' "
 tags: []
 image:
   feature: /sowie/1.jpg
-  teaser: wenecja2.jpg
+  teaser: /sowie/sowie-teaser.jpg
   thumb:
 date: 2013-12-08T03:37:09+01:00
 ---
