@@ -14,9 +14,6 @@ date: 2013-10-09T01:54:26+01:00
 
 Przez natłok spraw związanych z przeprowadzką do Poznania i nowymi studiami nie potrafiłem usiąść do ostatnich dwóch relacji. Czas najwyższy dokończyć to, co niedokończone. Dzisiaj przedostatni odcinek o najszybszej w historii trasie Sahy - Ustrzyki.
 
-<figure class>
-	<img src="http://nikodamn.github.io/images/albania/14i15/1.jpg">
-</figure>
 
 Obudziliśmy się w słońcu słowackiej granicy. Żwawo zwinęliśmy namiot i przepakowaliśmy plecaki aby ruszyć do pobliskiej restauracji na piwo i frytki. Nie spieszyło nam się do łapania stopa ze świadomością, że ruch dla samochodów ciężarowych jest wstrzymany. Choć zawsze pozostała nadzieja, że zatrzyma się cysterna lub TIR z jedzeniem, których ten przepis nie obowiązuje.
 
@@ -76,16 +73,19 @@ Gadaliśmy jeszcze trochę aż trafiliśmy na wspólne pole namiotowe PTTK. Tam 
 
 Wyspani i wymyci ruszyliśmy na połoninę Caryńską po uprzednim zwiedzeniu sklepu. Początkowo było ciężko wchodzić z naszymi ogromnymi plecakami, ale tylko początkowo. Zostawiliśmy trwały ślad zwieńczający nasz podróż na drewnianym domku dla turystów. Wszystko było warte drzemki na połoninie, prażącego słońca i słodkich brzoskwiń.
 
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/14i15/1.jpg">
+</figure>
 
 Obudził nas nadchodzący deszcz i związany z nim podmuch wiatru. Zeszliśmy na dół i złapaliśmy stopa do samej Cisnej (co w Bieszczadach nie jest żadnym wyczynem). Dotarliśmy do schroniska, gdzie zostaliśmy ciepło przyjęci przez wszystkich znajomych. Cieszyłem się szczególnie ze spotkania Tomka Sęka. Cały wieczór piliśmy piwa, pokazywaliśmy zdjęcia i wygłupialiśmy się przy ognisku. Niby jeszcze przed chwilą kąpaliśmy się w Morzu Jońskim, ale z drugiej strony w te trzy dni działo się tyle rzeczy. Albania wydawała się jednocześnie tak bliska, a tak odległa. Ale najlepsza była satysfakcja z tego, co udało nam się zrobić.
 
 <b>
 Podsumowanie: <br>
-
+</b>
 <figure class>
 	<img src="http://nikodamn.github.io/images/albania/14i15/mapa.jpg">
 </figure>
-
+<b>
 Dzień czternasty i piętnasty. <br>
 Łączny dystans: 568 <br>
 Liczba autostopów: 11 <br>
