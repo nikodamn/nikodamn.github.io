@@ -66,11 +66,23 @@ Kac miażdżył głowę kolejnego poranka, ale oczywiście nie można było się
 
 Wędrowaliśmy początkowo przez lasy Gór Sowich, a później przez malejące pagórki aż dotarliśmy w zamieszkane doliny. Szliśmy przepięknymi wioskami, gdzie nie zastaliśmy praktycznie ani jednej duszy. Weszliśmy także na zamek w jednej z okolicznych miejscowości. Odpoczynek i można wracać, oczywiście stopem.
 
+<figure>
+	<img src="http://nikodamn.github.io/images/sowie/6.jpg">
+</figure>
 
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/sowie/7.jpg">
+	<img src="http://nikodamn.github.io/images/sowie/8.jpg">
+</figure>
 
+<figure>
+	<img src="http://nikodamn.github.io/images/sowie/9.jpg">
+</figure>
 
-
-
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/sowie/10.jpg">
+	<img src="http://nikodamn.github.io/images/sowie/11.jpg">
+</figure>
 
 Wykończeni ponad piętnastokilometrową trasą łapaliśmy stopa w trójkę. Przez pół godziny prób (a raczej "prób", bo trochę się leniliśmy pod sklepem w towarzystwie kilku kotów) podjechaliśmy kawałek busem. Trzeba było iść, bo nic nie jeździło. W końcu samochód - łapiemy. I co? Irek! Mimo, że jechaliśmy w szóstkę to byliśmy na miejscu pierwsi. Cały wieczór śpiewów i piwa przed nami!
 
