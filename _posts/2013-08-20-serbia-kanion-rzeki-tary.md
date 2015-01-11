@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Serbia: Kanion Rzeki Tary"
+title: "Serbia: kanion rzeki Tary"
 modified:
 categories: 
 excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
