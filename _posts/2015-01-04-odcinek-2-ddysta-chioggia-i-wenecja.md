@@ -3,7 +3,7 @@ layout: article
 title: "Pijackie kanały Wenecji i dżdżysta Chioggia "
 modified:
 categories: Trips
-excerpt: "Trzeci dzień naszej podróży rozpoczęliśmy w chłodnym wietrze otaczających nas Alp. Była 8 rano, słońce dopiero się budziło, a my zwijaliśmy nasz dwuosobowy, przenośny domek. "
+excerpt: "O black metalowych znajomościach wśród gondoli."
 tags: [trips italy]
 image:
   feature: wenecja.jpg

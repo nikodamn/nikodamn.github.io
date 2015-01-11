@@ -3,7 +3,7 @@ layout: article
 title: "Przez Albanię... w Bieszczady"
 modified:
 categories: 
-excerpt:
+excerpt: "Bo gdzie indziej kończyć tułaczkę?"
 tags: []
 image:
   feature: /albania/16i17/2.jpg
