@@ -40,15 +40,27 @@ Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dró
 	<img src="http://nikodamn.github.io/images/sowie/5.jpg">
 </figure>
 
-(Poniższe zdjęcia: Adrianna Twardowski, Adrianna Gądek).
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/sowie/a1.jpg">
+	<img src="http://nikodamn.github.io/images/sowie/a2.jpg">
+	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
+</figure>
 
+<figure>
+	<img src="http://nikodamn.github.io/images/sowie/a3.jpg">
+	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
+</figure>
 
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/sowie/a4.jpg">
+	<img src="http://nikodamn.github.io/images/sowie/a6.jpg">
+	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
+</figure>
 
-
-
-
-
-(Koniec niemoich zdjęć)
+<figure>
+	<img src="http://nikodamn.github.io/images/sowie/a7.jpg">
+	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
+</figure>
 
 Kac miażdżył głowę kolejnego poranka, ale oczywiście nie można było się poddać. Czekała nas długa trasa. Zdobyliśmy Wielką Sowę i nawet wdrapaliśmy się na tamtejszą wieżę widokową. Podobno było widać Wrocław. Podobno.
 
