@@ -1,15 +1,15 @@
 ---
 layout: article
-title: "Szybko, Szybko W Góry "
+title: "Szybko, szybko w Góry "
 modified:
 categories: 
 excerpt:
 tags: []
 image:
   feature: /albania/14i15/1.jpg
-  teaser:
+  teaser: /albania/14i15/szybko-teaser.jpg
   thumb:
-date: 2013-11-09T01:54:26+01:00
+date: 2013-10-09T01:54:26+01:00
 ---
 
 Przez natłok spraw związanych z przeprowadzką do Poznania i nowymi studiami nie potrafiłem usiąść do ostatnich dwóch relacji. Czas najwyższy dokończyć to, co niedokończone. Dzisiaj przedostatni odcinek o najszybszej w historii trasie Sahy - Ustrzyki.
