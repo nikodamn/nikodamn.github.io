@@ -6,8 +6,8 @@ categories:
 excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
 tags: []
 image:
-  feature:
-  teaser:
+  feature: /images/albania/12i13/10.jpg
+  teaser: /images/albania/12i13/serbia-teaser.jpg
   thumb:
 date: 2013-08-20T02:10:18+01:00
 ---
@@ -42,25 +42,49 @@ Po tym jak weszliśmy do samochodu Petara ten kupił nam coca-colę i ciastka. M
 
 To podobno jeden z największych kanionów świata. Zaczynał się niegroźnie, aż momentalnie urosły przed nami wielkie, strzeliste, skalne góry. Zapierały dech w piersiach. Wjeżdżaliśmy na ich szczyty mijając obłoki chmur.
 
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/albania/12i13/5.jpg">
+	<img src="http://nikodamn.github.io/images/albania/12i13/6.jpg">
+</figure>
 
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/7.jpg">
+</figure>
 
-
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/8.jpg">
+</figure>
 
 Milczeliśmy porażeni potęgą przyrody. Co jakiś czas mijaliśmy pomniki upamiętniające ofiary wypadków. Jechaliśmy czasami przez szczyty, a czasami u podnóża gór czyli tuż przy rzece. Niestety nie zatrzymywaliśmy się, bo o postój tam raczej ciężko. Dlatego też zdjęcia są ujęciami zza szyby samochodu.
 
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/9.jpg">
+</figure>
 
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/albania/12i13/10.jpg">
+	<img src="http://nikodamn.github.io/images/albania/12i13/12.jpg">
+</figure>
 
-
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/13.jpg">
+</figure>
 
 
 Kanion Tary trzeba zwiedzić jeszcze raz na spokojnie, ale podejrzewam, że nie da się najeść takimi widokami prze-nigdy. Po godzinie kanion zaczął maleć, a wielkie strzeliste skały poczęły zamieniać się w połoniny. Przejęci pięknem południa Serbii zwiedzaliśmy 'serbskie Bieszczady'.
 
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/14.jpg">
+</figure>
 
 W końcu wypadało się zapytać Petera dokąd jedzie. Okazało się, że 50 km przed Belgrad! Niesamowite, że złapaliśmy stopa na blisko 500 km. Mieliśmy szczęście.
 
 Zaczęło robić się późno. Rozmowa z Peterem zeszła na serbską jagnięcinę, więc zaprosił nas na obiad do zajazdu. Zjedliśmy kilogram pieczonej, tłustej i tradycyjnej jagnięciny. Najedzeni do syta jechaliśmy dalej... Wylądowaliśmy o 21 na stacji 50 km przed Belgradem. Jeszcze wspólne zdjęcie z Petarem i mieliśmy zacząć łapać.
 
-
+<figure class="half">
+	<img src="http://nikodamn.github.io/images/albania/12i13/15.jpg">
+	<img src="http://nikodamn.github.io/images/albania/12i13/16.jpg">
+</figure>
 
 Inga chciała rozkładać już namiot znając nasze nieszczęście do łapania stopów po zmroku, ja wierzyłem, że będziemy dziś spać na granicy serbsko-węgierskiej, czyli ponad 200 km od miejsca gdzie aktualnie byliśmy. Wyszliśmy ze stacji na drogę, stanęliśmy na zatoczce, a Inga natychmiastowo zatrzymała TIRa. To serbski kierowca, zabrał nas. Jechaliśmy w ciszy, ponieważ byliśmy zbyt zmęczeni żeby rozmawiać. Zawiózł nas ponad 100 km, około 40 km przed Nowym Sadem. Do granicy 100 km, stacja duża i uczęszczana... złapiemy coś!
 
@@ -85,7 +109,9 @@ Czekała nas noc na granicy w Sahy. Kolejna, bo raz już tam spaliśmy w TIRze u
 <b>
 Podsumowanie:
 </b>
-
+<figure class>
+	<img src="http://nikodamn.github.io/images/albania/12i13/mapa.jpg">
+</figure>
 <b>
 Dzień dwunasty i trzynasty. <br>
 Łączny dystans: 967 km (!!!) <br>
