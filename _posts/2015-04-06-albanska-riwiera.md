@@ -28,7 +28,7 @@ Morze Jońskie jest znacznie cieplejsze i mniej słone niż Adriatyckie, a ponad
 
 Na obiad trafiliśmy do pobliskiej restauracji, która była dość problematyczna. Połowy dań z karty nie dało się zamówić, a na posiłek czekaliśmy ponad godzinę... Ale za to mamy kilka ładnych i kolorowych zdjęć.
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/4.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/5.jpg">
 </figure>
@@ -37,7 +37,7 @@ Na obiad trafiliśmy do pobliskiej restauracji, która była dość problematycz
 
 Resztę dnia spędziliśmy na smakowitych drzemkach i chill out'cie w cieniu pobliskiego drzewka.
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/7.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/8.jpg">
 </figure>
@@ -52,7 +52,7 @@ Około godziny dwudziestej miasto (miasteczko!) rodzi się do życia. Pobliscy s
 
 Jechaliśmy z nimi ponad 50 km. Rozmawiało nam się fantastycznie podziwiając przy tym widoki rosnących gór. Jest nawet nasz krótki filmik.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/2sVivpweYT0" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="300" src="https://www.youtube.com/embed/2sVivpweYT0" frameborder="0" allowfullscreen></iframe>
 
 Gdzie niegdzie można było zauważyć biedniejsze dzielnice slumsów. Nie jest to częste, choć ogólny standard życia nie jest zbyt wysoki, to nie jest aż tak źle. Poniżej jakieś nierobiące wrażenia domy z robiącymi wrażenie górami.
 
@@ -60,12 +60,12 @@ Gdzie niegdzie można było zauważyć biedniejsze dzielnice slumsów. Nie jest 
 
 Ta fantastyczna rodzinka pofatygowała nawet swojego kuzyna, który miał za 4 h przyjechać po nas na umówioną stację w Gjiro. Miał podobno przyjechać Hammerem. Poszliśmy zwiedzać stare miasto. Bałkańskie kamienice i wąskie uliczki to już klasyk. Daliśmy im się wciągnąć. Spacer po nich wydawał się nieskończony.
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/11.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/12.jpg">
 </figure>
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/13.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/14.jpg">
 </figure>
@@ -78,7 +78,7 @@ Ta fantastyczna rodzinka pofatygowała nawet swojego kuzyna, który miał za 4 h
 
 Poniżej znajduje się zdjęcie samolotu stojącego na murach zamku. Był to obiekt komunistycznej propagandy, a przechwycony na granicy transport z samolotem został nazwany szpiegowskim. Postawienie go na twierdzy miało służyć jako przypomnienie o potędze wywiadu albańskiego.
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/17.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/18.jpg">
 </figure>
@@ -90,7 +90,7 @@ Poniżej znajduje się zdjęcie samolotu stojącego na murach zamku. Był to obi
 <img src="http://nikodamn.github.io/images/albania/8i9/21.jpg">
 Była dopiero 14:30, a nasz Hammer miał podjechać o 16. Resztę czasu spędziliśmy na spacerze po mieście i jedzeniu (pysznych!) albańskich lodów.
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/22.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/23.jpg">
 </figure>
@@ -104,7 +104,7 @@ Głębokie nawet na 45 metrów pod wodą skały są nieskończonym źródłem zi
 
 <img src="http://nikodamn.github.io/images/albania/8i9/25.jpg">
 
-<figure class="second">
+<figure class="half">
 	<img src="http://nikodamn.github.io/images/albania/8i9/24.jpg">
 	<img src="http://nikodamn.github.io/images/albania/8i9/26.jpg">
 </figure>
