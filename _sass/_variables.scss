@@ -25,6 +25,7 @@ $border-color                	: #ddd;
 $white                       	: #fff;
 $black                       	: #000;
 $gray                           : #cccccc;
+$mint                           : #8aceb8;
 $link-color                  	: #222;
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
@@ -69,7 +70,7 @@ $form-font-size              	: $doc-font-size;
 // Sliding Menu Navigation
 
 $sliding-menu-border-color	 	: $white;
-$sliding-menu-background 		: #8aceb8;
+$sliding-menu-background 		: $mint;
 $sliding-menu-color 	 		: $black;
 $sliding-menu-background-hover	: $white;
 $sliding-menu-color-hover	 	: $black;
