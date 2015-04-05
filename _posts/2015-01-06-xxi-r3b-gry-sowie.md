@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "XXI R3B: Góry Sowie"
+title: "XXI R3B: Góry Sowie i Stołowe"
 modified:
 categories: Trips
 excerpt: " 'Dlaczego chodzimy w góry? Bo są.' "
@@ -15,15 +15,15 @@ date: 2013-12-08T03:37:09+01:00
 Zakręcony w nowej codzienności wciąż odkładałem pamiętnikowe wyznania po kolejnym R3B. Dziś czas ująć słowa w permutacje kliknięć klawiatury, póki nie umarły jeszcze wszystkie z komórek mojego mózgu.
 
 Natknąłem się na słowa trafiające w sedno rzeczy: <br>
-<i>Dlaczego chodzimy w góry? Bo są. - George Mallory</i>
+<blockquote>Dlaczego chodzimy w góry? Bo są. - George Mallory</blockquote>
 
 <figure class>
 	<img src="http://nikodamn.github.io/images/sowie/3.jpg">
 </figure>
 
-Podróż zaczęliśmy w czwartek pociągiem relacji Poznań - Wrocław. Postanowiliśmy odwiedzić ekipę Wrocławską przy tej okazji. Dotarliśmy na miejsce przed 12. Po spędzeniu miło kilku godzin położyliśmy się. Na pociąg do Wałbrzycha należało wstać skoro świt.
+<div class="notice"><h3>Podróż zaczęliśmy w czwartek pociągiem relacji Poznań - Wrocław.</h3></div> Postanowiliśmy odwiedzić ekipę Wrocławską przy tej okazji. Dotarliśmy na miejsce przed 12. Po spędzeniu miło kilku godzin położyliśmy się. Na pociąg do Wałbrzycha należało wstać skoro świt.
 
-Gdy dotarliśmy o 8 do Wałbrzycha Głównego czułem się wyjęty z kontekstu. Całą drogę odsypiałem i obudziłem się na pustym, zrujnowanym dworcu po środku niczego. Czy jak kto woli - Wałbrzycha. Mimo, że próbowałem namówić miasto (Wałbrzych bawimy się!) do imprezy to zaczęło rozkręcać się chwilę później, gdy dotarła reszta znajomych. Byliśmy już prawie w komplecie. Końcowy element układanki rajdu stanowiły embriony w liczbie ~25.
+<div class="notice"><h3>Gdy dotarliśmy o 8 do Wałbrzycha Głównego czułem się wyjęty z kontekstu.</h3></div> Całą drogę odsypiałem i obudziłem się na pustym, zrujnowanym dworcu po środku niczego. Czy jak kto woli - Wałbrzycha. Mimo, że próbowałem namówić miasto (Wałbrzych bawimy się!) do imprezy to zaczęło rozkręcać się chwilę później, gdy dotarła reszta znajomych. Byliśmy już prawie w komplecie. Końcowy element układanki rajdu stanowiły embriony w liczbie ~25.
 
 Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dróżki. Tak dotarliśmy do długiego na kilka kilometrów tunelu, który przechodziliśmy w świetle latarek. Trzeba przyznać, że niezła frajda! Pogoda była jak na zamówienie, więc szło się wspaniale. Tak przeszliśmy z Wałbrzycha aż do schroniska "Orzeł", gdzie mieliśmy nocować u podnóża Gór Sowich. Zmęczeni całą drogą mogliśmy dać w palnik w schronisku i w tamtejszej knajpie!
 
@@ -62,7 +62,7 @@ Ruszyliśmy. Szybko sklepikowa żuleria zamieniła się w zasypane liśćmi dró
 	<figcaption>By Adrianna Tarnowski/Adrianna Gądek</figcaption>
 </figure>
 
-Kac miażdżył głowę kolejnego poranka, ale oczywiście nie można było się poddać. Czekała nas długa trasa. Zdobyliśmy Wielką Sowę i nawet wdrapaliśmy się na tamtejszą wieżę widokową. Podobno było widać Wrocław. Podobno.
+<div class="notice"><h3>Kac miażdżył głowę kolejnego poranka.</h3></div> Czekała nas długa trasa. Zdobyliśmy Wielką Sowę i nawet wdrapaliśmy się na tamtejszą wieżę widokową. Podobno było widać Wrocław. Podobno.
 
 Wędrowaliśmy początkowo przez lasy Gór Sowich, a później przez malejące pagórki aż dotarliśmy w zamieszkane doliny. Szliśmy przepięknymi wioskami, gdzie nie zastaliśmy praktycznie ani jednej duszy. Weszliśmy także na zamek w jednej z okolicznych miejscowości. Odpoczynek i można wracać, oczywiście stopem.
 
@@ -86,7 +86,8 @@ Wędrowaliśmy początkowo przez lasy Gór Sowich, a później przez malejące p
 
 Wykończeni ponad piętnastokilometrową trasą łapaliśmy stopa w trójkę. Przez pół godziny prób (a raczej "prób", bo trochę się leniliśmy pod sklepem w towarzystwie kilku kotów) podjechaliśmy kawałek busem. Trzeba było iść, bo nic nie jeździło. W końcu samochód - łapiemy. I co? Irek! Mimo, że jechaliśmy w szóstkę to byliśmy na miejscu pierwsi. Cały wieczór śpiewów i piwa przed nami!
 
-Poranek już lżejszy. Przy widoku zamglonych dolinek ruszyliśmy... do podstawionego autobusu, który podwiózł nas spory kawałek. Nasz cel - Szczeliniec, czyli Góry Stołowe. Znowu przygrywała nam piękna pogoda i szło się wspaniale. Może oprócz ostatniego podejścia, ale ono trwało tylko kilkanaście minut. Byliśmy już na obiad. Mogliśmy podziwiać piękne widoki z ponad wielkiej, trochę przerażającej, skały.
+<div class="notice"><h3>Przy widoku zamglonych dolinek ruszyliśmy... </h3></div>
+do podstawionego autobusu, który podwiózł nas spory kawałek. Nasz cel - Szczeliniec, czyli Góry Stołowe. Znowu przygrywała nam piękna pogoda i szło się wspaniale. Może oprócz ostatniego podejścia, ale ono trwało tylko kilkanaście minut. Byliśmy już na obiad. Mogliśmy podziwiać piękne widoki z ponad wielkiej, trochę przerażającej, skały.
 
 <figure>
 	<img src="http://nikodamn.github.io/images/sowie/12.jpg">
