@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Albańska gościnność"
+title: "Test 1"
 modified:
 categories: 
-excerpt: "O wielkiej gościnności Albańczyków i tragicznych właściwościach rakiji."
+excerpt: "Testowy plik"
 tags: []
 image:
   feature: /albania/10i11/5.jpg
