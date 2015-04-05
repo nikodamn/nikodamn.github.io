@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Test 2"
+title: "Serbia: kanion rzeki Tary"
 modified:
 categories: 
-excerpt: "Testowy plik 2"
+excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
 tags: []
 image:
   feature: /albania/12i13/10.jpg
