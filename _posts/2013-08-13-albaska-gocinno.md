@@ -2,7 +2,7 @@
 layout: article
 title: "Albańska gościnność"
 modified:
-categories: "Podróże"
+categories: "Trips"
 excerpt: "O wielkiej gościnności Albańczyków i tragicznych właściwościach rakiji."
 tags: [albania, podróże]
 image:

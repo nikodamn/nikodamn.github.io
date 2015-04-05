@@ -2,7 +2,7 @@
 layout: article
 title: "Serbia: kanion rzeki Tary"
 modified:
-categories: "Podróże"
+categories: "Trips"
 excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
 tags: [serbia, czarnogóra, podróże]
 image:
@@ -109,7 +109,9 @@ Czekała nas noc na granicy w Sahy. Kolejna, bo raz już tam spaliśmy w TIRze u
 
 
 <div class="notice">
+<h2>
 Podsumowanie:
+</h2>
 </div>
 <figure class>
 	<img src="http://nikodamn.github.io/images/albania/12i13/mapa.jpg">
