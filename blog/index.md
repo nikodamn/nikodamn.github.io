@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Poniższe posty: "
+title: "Kartki z podróży: "
 date: 
 modified:
 excerpt:
