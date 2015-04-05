@@ -33,7 +33,7 @@ Chwilę pośmieszkowaliśmy, jakieś zdjęcie i bach - kolejny samochód. A co n
 
 Gdy dojeżdżaliśmy na miejsce okazało się, że jadą oni nie do Wenecji, bo tam nie można wjeżdżać samochodem, a dość blisko - na plażę. Byli tak uprzejmi, że podrzucili nas na prom. Ostatnie minuty podróży minęły nam w stresie, bo Indze wypadł gdzieś telefon. Mieliśmy nadzieję, że nie na postoju, a w samochodzie. Szczęśliwie telefon znalazł się we wnętrzu samochodu, mogliśmy iść na prom. Był środek dnia, ogromny upał, a my płynęliśmy promem do upragnionej Wenecji!
 
-<div class="notice"><h3>Wysiedliśmy i uderzył nas ogrom turystów i upał.</h3></div> 
+<div class="notice"><h3>Gdy wysiedliśmy uderzył nas ogrom turystów i upał.</h3></div> 
 Szybko zjedliśmy coś, zdjęliśmy bluzy i ruszyliśmy zwiedzać. Wenecja rzeczywiście zachwyca urokiem kanałów, uliczek i pięknych katedr. Jednak wspomniane uliczki nabierają klimatu dopiero, gdy wyjdzie się z tych obleganych przez turystów. Po obejrzeniu kilku ważniejszych miejsc poszliśmy po białe wino, które szybko wypiliśmy wpatrzeni w piękne balkony mieszkań.
 
 <figure class>

@@ -66,7 +66,7 @@ Później poszliśmy nad jeziorko alpejskie (3 euro/os, pozdrawiam) tuż przy na
 </figure>
 
 <div class="notice"><h3>
-Podusmowanie
+Podsumowanie:
 </h3>
 </div>
 
