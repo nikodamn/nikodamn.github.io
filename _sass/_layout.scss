@@ -10,7 +10,7 @@
 		@include transform(translate(-1600px,0));
 	}
 	.inner-wrap {
-		@include outer-container;
+		@include fill-parent;
 
 		.logo {
 			margin-top: 50px;
@@ -150,7 +150,10 @@
 
 #main {
 	.inner-wrap {
-		@include outer-container;
+		//@include media($medium) {
+		//	@include span-columns(11);
+		//}
+        @include fill-parent;
 	}
 	.toc {
 		@include media($medium) {
