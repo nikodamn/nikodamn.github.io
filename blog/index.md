@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jakieś archiwum"
+title: "Poniższe posty: "
 date: 
 modified:
 excerpt:
@@ -10,4 +10,8 @@ image:
   thumb:
 ---
 
-Raz dwa trzy, cztery, piec
+<div class="tiles">
+{% for post in blog.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
