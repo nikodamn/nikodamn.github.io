@@ -90,8 +90,9 @@ Dzień dziesiąty i jedenasty.<br>
 Liczba autostopów: 5 <br>
 </b>
 
-
+<div class=notice>
 <h3>Powiązane posty: </h3>
+</div>
 {% for post in site.related_posts %}
 
 <a href="post.url">
