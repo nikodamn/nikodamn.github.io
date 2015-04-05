@@ -70,7 +70,7 @@
 	}
 	.menu-item > li {
 		a {
-			color: $white;
+			color: #f2f2f2;
 			text-decoration: none;
 		}
 		.teaser {
@@ -94,7 +94,7 @@
 			}
 		}
 		.excerpt {
-			color: $black;
+			color: #f2f2f2;
 			margin-top: 0;
 			@include media($medium) {
 				margin-left: 170px;
@@ -103,7 +103,7 @@
 	}
 	.sub-menu-item > li a {
 		display: block;
-		color: $black;
+		color: #f2f2f2;
 		font-style: italic;
 	}
 	.menu-item .home a {
