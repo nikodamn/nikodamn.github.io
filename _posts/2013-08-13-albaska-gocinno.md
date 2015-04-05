@@ -91,8 +91,10 @@ Liczba autostopów: 5 <br>
 </b>
 
 
-<h2>Powiązane posty: </h2>
+<h3>Powiązane posty: </h3>
 {% for post in site.related_posts %}
-{{ post.title }}
 
+<a href="post.url">
+{{ post.title }}
+</a>
 {% endfor %}
