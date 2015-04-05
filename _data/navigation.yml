@@ -2,5 +2,10 @@
 
 - title: O mnie
   url: /omnie/
-  excerpt: ""
+  excerpt: "Trochę o mnie"
+  image: bio-photo.jpg
+
+- title: Archive
+  url: /blog/
+  excerpt: "Testing archive page"
   image: bio-photo.jpg
