@@ -2,7 +2,7 @@
 layout: article
 title: "W poszukiwaniu fioletowej krowy"
 modified:
-categories: trips
+categories: "Trips"
 excerpt: "Chillout w cieniu Alp i paralotni."
 tags: [austria, podróże]
 image:

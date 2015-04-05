@@ -9,7 +9,7 @@ image:
   feature: /albania/16i17/2.jpg
   teaser: /albania/16i17/alb_b-teaser.jpg
   thumb:
-date: 2013-10-01T01:26:37+01:00
+date: 2013-11-01T01:26:37+01:00
 ---
 
 <div class="notice"><h3>Po wieczornych imprezach zawsze nadchodzi pokuta w postaci poranka.</h3></div> 
