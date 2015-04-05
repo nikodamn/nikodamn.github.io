@@ -76,9 +76,9 @@ Dotarliśmy około 21 do Ulcinja. Przywitał nas niesamowity tłum. Myślę, że
 </figure>
 
 
-<b>
+<div class="notice">
 Podsumowanie:
-</b>
+</div>
 
 <figure class>
 <img src="http://nikodamn.github.io/images/albania/10i11/mapa.jpg">
@@ -90,11 +90,10 @@ Dzień dziesiąty i jedenasty.<br>
 Liczba autostopów: 5 <br>
 </b>
 
-<div class=notice>
-<h3>Powiązane posty: </h3>
+<div class="notice">
+Powiązane posty:
 </div>
 {% for post in site.related_posts %}
-
 <a href="post.url">
 {{ post.title }}
 </a>
