@@ -33,8 +33,6 @@ Na obiad trafiliśmy do pobliskiej restauracji, która była dość problematycz
 	<img src="http://nikodamn.github.io/images/albania/8i9/5.jpg">
 </figure>
 
-<img src="http://nikodamn.github.io/images/albania/8i9/6.jpg">
-
 Resztę dnia spędziliśmy na smakowitych drzemkach i chill out'cie w cieniu pobliskiego drzewka.
 
 <figure class="half">
@@ -56,7 +54,7 @@ Jechaliśmy z nimi ponad 50 km. Rozmawiało nam się fantastycznie podziwiając 
 
 Gdzie niegdzie można było zauważyć biedniejsze dzielnice slumsów. Nie jest to częste, choć ogólny standard życia nie jest zbyt wysoki, to nie jest aż tak źle. Poniżej jakieś nierobiące wrażenia domy z robiącymi wrażenie górami.
 
-<img src="nikodamn.github.io/images/albania/8i9/10.jpg">
+<img src="http://nikodamn.github.io/images/albania/8i9/10.jpg">
 
 Ta fantastyczna rodzinka pofatygowała nawet swojego kuzyna, który miał za 4 h przyjechać po nas na umówioną stację w Gjiro. Miał podobno przyjechać Hammerem. Poszliśmy zwiedzać stare miasto. Bałkańskie kamienice i wąskie uliczki to już klasyk. Daliśmy im się wciągnąć. Spacer po nich wydawał się nieskończony.
 
@@ -121,7 +119,7 @@ Podsumowanie:
 <img src="http://nikodamn.github.io/images/albania/8i9/podsumowanie.png">
 
 <b>
-Dzień dziewiąty.
-Łączny dystans: 137 km
-Liczba autostopów: 5
+Dzień dziewiąty. <br>
+Łączny dystans: 137 km <br>
+Liczba autostopów: 5 <br>
 </b>

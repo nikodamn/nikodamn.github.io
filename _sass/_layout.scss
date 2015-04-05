@@ -10,7 +10,7 @@
 		@include transform(translate(-1600px,0));
 	}
 	.inner-wrap {
-		@include fill-parent;
+		@include outer-container;
 
 		.logo {
 			margin-top: 50px;
