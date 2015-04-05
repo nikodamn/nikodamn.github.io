@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Ostatnie wpisy: "
 image:
-  feature: "/images/zima.jpg"
+  feature: /images/zima.jpg
 ---
 
 <div class="tiles">
