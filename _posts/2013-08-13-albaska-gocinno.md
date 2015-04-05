@@ -77,7 +77,9 @@ Dotarliśmy około 21 do Ulcinja. Przywitał nas niesamowity tłum. Myślę, że
 
 
 <div class="notice">
+<h2>
 Podsumowanie:
+</h2>
 </div>
 
 <figure class>
@@ -91,7 +93,9 @@ Liczba autostopów: 5 <br>
 </b>
 
 <div class="notice">
+<h2>
 Powiązane posty:
+</h2>
 </div>
 {% for post in site.related_posts %}
 <a href="post.url">
