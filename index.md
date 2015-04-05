@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Ostatnie wpisy: "
 image:
-  feature: aboutme.jpg
+  feature: zima.jpg
 ---
 
 <div class="tiles">
