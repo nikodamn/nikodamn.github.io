@@ -4,7 +4,7 @@ title: "XXIV R3B: Czechy"
 modified:
 categories: 
 excerpt: "Melancholijne relacje z jesienią."
-tags: []
+tags: [rajd, czechy, podróże, góry]
 image:
   feature: /rajd_czechy/8.jpg
   teaser: /rajd_czechy/teaser.png

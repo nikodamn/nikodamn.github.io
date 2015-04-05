@@ -4,7 +4,7 @@ title: "Albańska gościnność"
 modified:
 categories: 
 excerpt: "O wielkiej gościnności Albańczyków i tragicznych właściwościach rakiji."
-tags: []
+tags: [albania, podróże]
 image:
   feature: /albania/10i11/5.jpg
   teaser: /albania/10i11/albania-teaser.jpg

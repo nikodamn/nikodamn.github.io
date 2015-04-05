@@ -4,7 +4,7 @@ title: "W poszukiwaniu fioletowej krowy"
 modified:
 categories: trips
 excerpt: "Chillout w cieniu Alp i paralotni."
-tags: []
+tags: [austria, podróże]
 image:
   feature: /fioletowa_krowa/1.jpg
   teaser: fioletowa_teaser.jpg

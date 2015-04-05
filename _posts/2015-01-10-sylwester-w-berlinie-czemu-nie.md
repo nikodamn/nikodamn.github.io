@@ -4,7 +4,7 @@ title: "Sylwester W Berlinie? Czemu nie!"
 modified:
 categories: 
 excerpt: "O włoskich przyjaźniach pod Bramą Brandenburską"
-tags: []
+tags: [berlin, niemcy, podróże, sylwester]
 image:
   feature: /berlin/3.jpg
   teaser: /berlin/berlin-teaser.jpg

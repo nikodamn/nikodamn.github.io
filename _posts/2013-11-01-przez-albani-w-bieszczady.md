@@ -4,7 +4,7 @@ title: "Przez Albanię... w Bieszczady"
 modified:
 categories: 
 excerpt: "Bo gdzie indziej kończyć tułaczkę?"
-tags: []
+tags: [bieszczady, góry, podróże]
 image:
   feature: /albania/16i17/2.jpg
   teaser: /albania/16i17/alb_b-teaser.jpg

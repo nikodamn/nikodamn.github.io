@@ -4,7 +4,7 @@ title: "Serbia: kanion rzeki Tary"
 modified:
 categories: 
 excerpt: "Rekordowo szybki przejazd przez Serbię nie bez dreszczyka emocji."
-tags: []
+tags: [serbia, czarnogóra, podróże]
 image:
   feature: /albania/12i13/10.jpg
   teaser: /albania/12i13/serbia-teaser.jpg

@@ -4,7 +4,7 @@ title: "XXI R3B: Góry Sowie"
 modified:
 categories: Trips
 excerpt: " 'Dlaczego chodzimy w góry? Bo są.' "
-tags: []
+tags: [góry, czechy, rajd, podróże]
 image:
   feature: /sowie/1.jpg
   teaser: /sowie/sowie-teaser.jpg

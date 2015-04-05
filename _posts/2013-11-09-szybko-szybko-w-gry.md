@@ -4,7 +4,7 @@ title: "Szybko, szybko w góry!"
 modified:
 categories: 
 excerpt: "Noc na słowackiej granicy, przemiły Algierczyk i nietypowy autostop w środku nocy."
-tags: []
+tags: [góry, słowenia, podróże]
 image:
   feature: /albania/14i15/1.jpg
   teaser: /albania/14i15/szybko-teaser.jpg
