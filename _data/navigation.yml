@@ -1,11 +1,11 @@
 # Site navigation links
 
+- title: Trips
+  url: /blog/
+  excerpt: "Kartki z pamiętnika"
+  image: bio-photo.jpg
+
 - title: O mnie
   url: /omnie/
   excerpt: "Trochę o mnie"
-  image: bio-photo.jpg
-
-- title: Trips
-  url: /blog/
-  excerpt: "O podróżach"
   image: bio-photo.jpg
