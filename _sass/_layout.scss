@@ -150,9 +150,7 @@
 
 #main {
 	.inner-wrap {
-		@include media($medium) {
-			@include span-columns(11);
-		}
+		@include outer-container;
 	}
 	.toc {
 		@include media($medium) {
