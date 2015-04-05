@@ -2,7 +2,7 @@
 layout: article
 title: "Sylwester W Berlinie? Czemu nie!"
 modified:
-categories: 
+categories: "Trips"
 excerpt: "O włoskich przyjaźniach pod Bramą Brandenburską"
 tags: [berlin, niemcy, podróże, sylwester]
 image:
@@ -12,7 +12,7 @@ image:
 date: 2015-01-10T23:08:45+01:00
 ---
 
-<h1>Przepis na udanego Sylwestra:</h1>
+<div class="notice"><h1>Przepis na udanego Sylwestra:</h1></div>
 
 <h2>1. Zachoruj.</h2>
 Podróżowanie w pełni sił jest nudne. Znacznie ciekawsze jest użeranie się z licznymi pociągami w samym środku grudnia, gdy masz 38 stopni gorączki!

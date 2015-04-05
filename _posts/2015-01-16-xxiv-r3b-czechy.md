@@ -2,7 +2,7 @@
 layout: article
 title: "XXIV R3B: Czechy"
 modified:
-categories: 
+categories: "Trips"
 excerpt: "Melancholijne relacje z jesienią."
 tags: [rajd, czechy, podróże, góry]
 image:
