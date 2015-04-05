@@ -11,7 +11,7 @@ image:
   thumb:
 date: 2013-08-13T02:30:54+01:00
 ---
-<div text-align="justify" >
+
 Wyruszyliśmy z samego rana. Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy... się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.
 
 Wyjście z Sarande zajęło nam trochę ponad godzinę. Pobłądziliśmy prowadzeni przez niezbyt dokładną mapę miasta. W końcu przy drodze wylotowej dość szybko złapaliśmy stopa "w stronę Durres", a jak później się okazało do samiutkiego Durres! Było to dwóch chłopaków - albański student medycyny Endri i na pół Albańczyk na pół Włoch - Fiore. Zabraliśmy się ich luksusowym mercedesem, choć wtedy jeszcze nie wiedzieliśmy dokładnie gdzie. Fiore nie mówił po angielsku, więc większość rozmowy prowadziliśmy z kierującym Endrim. Dowiedzieliśmy się, że zmierzają na imprezę na plażę w Jali. Pytali czy jedziemy z nimi. Hm, no jasne!
@@ -68,7 +68,7 @@ Gdy wjechaliśmy do miasta od razu kupiliśmy sobie po arbuzie, owoce, poszliśm
 Dotarliśmy do granicy o 19. Liczyliśmy na złapanie jakiegoś długodystansowego stopa. Zaczęło robić się ciemno, co utrudniało nam łapanie. Postanowiliśmy, że chcemy jechać nawet do samego Ulcinja, że tam przenocujemy sobie na plaży. Po kilkunastu samochodach zatrzymało się audi na kosowskich blachach. Dwóch młodych, ale średnio rozmownych chłopaków podwiozło nas do centrum Ulcinja. Dowiedzieliśmy się o nich tylko, że jeden z nich projektuje torebki. Jak widzieliśmy - dochodowy biznes.
 
 Dotarliśmy około 21 do Ulcinja. Przywitał nas niesamowity tłum. Myślę, że nigdzie dotychczas nie spotkaliśmy takich tłumów ludzi. Odziani w nasze plecaki szliśmy razem z całym bydłem w stronę morza. Pobłądziliśmy chwilę szukając jakiejś ustronnej plaży, aż w końcu znaleźliśmy jakąś plażę hotelową z leżakami. Zapytana Pani powiedziała nam, że nie będzie żadnego problemu jeśli będziemy się tu wylegiwać. Był sztorm, w nocy lekko padało. Nie obchodziło nas to - wykończonych wczorajszym piciem, długim dystansem i błądzeniem po Ulcinje.
-</div>
+
 
 <figure class>
 <img src="http://nikodamn.github.io/images/albania/10i11/11.jpg">
