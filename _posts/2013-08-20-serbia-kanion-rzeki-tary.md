@@ -12,7 +12,8 @@ image:
 date: 2013-08-20T02:10:18+01:00
 ---
 
-<h3>Mimo, że spanie na czarnogórskiej plaży może wydawać się spełnieniem marzeń to bolące od drewnianych leżaków stawy rewidują ten sąd bardzo szybko.</h3> 
+<div class="notice"><h3>Mimo, że spanie na czarnogórskiej plaży może wydawać się spełnieniem marzeń to bolące od drewnianych leżaków stawy rewidują ten sąd bardzo szybko.</h3></div>
+
 Niemrawo przez sztormowe chmury wstawało poranne słońce, a my wyspani wstawaliśmy aby pokonać z powrotem Czarnogórę. Skorzystaliśmy z plażowych pryszniców, gdzie poznałem nawet czwórkę autostopowiczów z Francji. Byli troszkę sprytniejsi od nas, bo spali w zadaszonym pobliskim namiocie, który należał do hotelu. Dowiedziałem się, że byli tylko w Chorwacji, a do Ulcinja wpadli na jeden dzień. Szkoda, że skończyli przygodę tylko tutaj.
 
 Wyruszyliśmy o 8 spakowani na nowo. Maszerując przez dziwnie opustoszałe już uliczki Ulcinja szukaliśmy kantoru aby wymienić nasze pozostałe chorwackie Kuny. W końcu udało się znaleźć jedyny bank, który zainteresowany był chorwacką walutą. Tutaj rada - nie wiem czy to kwestia prawna czy inny aspekt Czarnogóry, ale w Ulcinje nie istnieją kantory, a jedynie banki. Jeśli nie masz o określonej godzinie euro, ani karty do bankomatu to słabo z Tobą.
@@ -27,7 +28,8 @@ W samochodzie odsypialiśmy jeszcze. Kierowca nie był zbyt rozmowny, ale to chy
 
 W tej ulewie po jakiś 20 minutach zatrzymaliśmy Pana, który co prawda jechał tylko kawałek, ale to zawsze coś. Podrzucił nas do samej Podgoricy, zaledwie kilka kilometrów, ale na właściwą drogę. To wystarczyło by deszcz przestał padać.
 
-<h3>Miejsce do łapania było świetnie.</h3> Dobrze widoczna zatoczka, szeroka droga, dużo samochodów. Łapanie jednak szło opornie. Przez dwadzieścia minut zatrzymało się kilka aut, ale jadących gdzie indziej. Raz zatrzymał się srebrny mercedes na serbskich (!) blachach, ale zanim dobiegłem do niego to odjechał. Przeklinaliśmy kierowcę, aż... ten zawrócił! Po minucie przyjechał po nas jeszcze raz. Na imię miał Petar, był z Serbii. <b>Super, jedziemy do samej granicy!</b>
+<div class="notice"><h3>Miejsce do łapania było świetnie.</h3></div>
+Dobrze widoczna zatoczka, szeroka droga, dużo samochodów. Łapanie jednak szło opornie. Przez dwadzieścia minut zatrzymało się kilka aut, ale jadących gdzie indziej. Raz zatrzymał się srebrny mercedes na serbskich (!) blachach, ale zanim dobiegłem do niego to odjechał. Przeklinaliśmy kierowcę, aż... ten zawrócił! Po minucie przyjechał po nas jeszcze raz. Na imię miał Petar, był z Serbii. <b>Super, jedziemy do samej granicy!</b>
 
 Po tym jak weszliśmy do samochodu Petara ten kupił nam coca-colę i ciastka. Mimo, że nie mówił po angielsku, ani nie za bardzo rozumiał polski to jakoś tam się dogadywaliśmy. Wyjeżdżając za Podgoricę powoli zaczynały się wzniesienia zwiastujące piękny i <b>słynny kanion rzeki Tary.</b>
 
@@ -56,7 +58,8 @@ To podobno jeden z największych kanionów świata. Zaczynał się niegroźnie, 
 	<img src="http://nikodamn.github.io/images/albania/12i13/8.jpg">
 </figure>
 
-<h3>Milczeliśmy porażeni potęgą przyrody.</h3> Co jakiś czas mijaliśmy pomniki upamiętniające ofiary wypadków. Jechaliśmy czasami przez szczyty, a czasami u podnóża gór czyli tuż przy rzece. Niestety nie zatrzymywaliśmy się, bo o postój tam raczej ciężko. Dlatego też zdjęcia są ujęciami zza szyby samochodu.
+<div class="notice"><h3>Milczeliśmy porażeni potęgą przyrody.</h3></div>
+Co jakiś czas mijaliśmy pomniki upamiętniające ofiary wypadków. Jechaliśmy czasami przez szczyty, a czasami u podnóża gór czyli tuż przy rzece. Niestety nie zatrzymywaliśmy się, bo o postój tam raczej ciężko. Dlatego też zdjęcia są ujęciami zza szyby samochodu.
 
 <figure class>
 	<img src="http://nikodamn.github.io/images/albania/12i13/9.jpg">
@@ -91,7 +94,8 @@ Inga chciała rozkładać już namiot znając nasze nieszczęście do łapania s
 
 Poszliśmy do baru na stacji na colę i herbatę. Wszędzie było pełno od muzułmanów na niemieckich lub austriackich blachach. Próbowaliśmy jeszcze łapać, ale bezskutecznie. <b>Rozbiliśmy namiot za stacją. Mogłoby wydawać się to dziwne, ale obok tłumów muzułmanów śpiących w śpiworach na chodnikach zamiast w swoich samochodach - nie było.</b>
 
-<h3>O 7 rano TIRów nie było zbyt wiele.</h3> Ani pojedyncze ciężarówki, ani częściej widywane osobówki nie chciały zabierać. W końcu zatrzymał się Serb, który jechał do Nowego Sadu. Zdesperowani poprosiliśmy o podwózkę chociażby na kolejną stację. Był to pracownik Gazpromu, który opowiadał nam o swoim zawodzie i o festiwalu rockowym w Nowym Sadzie. Zawiózł nas 40 km.
+<div class="notice"><h3>O 7 rano TIRów nie było zbyt wiele.</h3></div>
+Ani pojedyncze ciężarówki, ani częściej widywane osobówki nie chciały zabierać. W końcu zatrzymał się Serb, który jechał do Nowego Sadu. Zdesperowani poprosiliśmy o podwózkę chociażby na kolejną stację. Był to pracownik Gazpromu, który opowiadał nam o swoim zawodzie i o festiwalu rockowym w Nowym Sadzie. Zawiózł nas 40 km.
 
 Na następnej stacji było jeszcze gorzej. Wjeżdżały tam praktycznie tylko osobówki, którymi były tego dnia auta w pełni przeładowane muzułmańskimi rodzinami. Jakieś 95% samochodów to wypchane po szwy auta francuskich, niemieckich lub austriackich rodzin. Zlot muzułmanów czy co? Po dwóch albo trzech godzinach namówiliśmy jednego tureckiego (tja... no, ale desperacja) kierowcę TIRa o podwózkę do granicy. Zgodził się. W ciszy dojechaliśmy do Szeged, gdzie przewędrowaliśmy między tłumem aut na stronę Węgier. Węgry to już jak w domu mówiliśmy po dotychczasowej podróży.
 

@@ -12,7 +12,8 @@ image:
 date: 2013-08-13T02:30:54+01:00
 ---
 
-<h3>Wyruszyliśmy z samego rana.</h3> Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy... się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.
+<div class="notice"><h3>Wyruszyliśmy z samego rana.</h3></div>
+Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy... się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.
 
 Wyjście z Sarande zajęło nam trochę ponad godzinę. Pobłądziliśmy prowadzeni przez niezbyt dokładną mapę miasta. W końcu przy drodze wylotowej dość szybko złapaliśmy stopa "w stronę Durres", a jak później się okazało do samiutkiego Durres! Było to dwóch chłopaków - albański student medycyny Endri i na pół Albańczyk na pół Włoch - Fiore. Zabraliśmy się ich luksusowym mercedesem, choć wtedy jeszcze nie wiedzieliśmy dokładnie gdzie. Fiore nie mówił po angielsku, więc większość rozmowy prowadziliśmy z kierującym Endrim. Dowiedzieliśmy się, że <b></b>zmierzają na imprezę na plażę</b> w Jali. Pytali czy jedziemy z nimi. Hm, no jasne!
 
@@ -57,7 +58,8 @@ Po gorącym pysznym obiedzie, na który nas zaprosili i spotkaniu się z ich kol
 
 Siedzieliśmy tam pijąc Rakiję i paląc różne dziwne papieroski. Bawiliśmy się przednio, a alkohol sprawił, że nawet z Fiore potrafiliśmy się dobrze komunikować. Toczyliśmy dyskusje na temat albańskich i polskich ludzi, polityki, alkoholi i czego tam się jeszcze da...
 
-<h3>Obudziłem się rano, gdy moja głowa wisiała w toalecie. </h3> Endri i Fiore byli w pracy i zostawili nas samych w mieszkaniu. Niestety zamkniętych... Dla mnie to w sumie było bez różnicy, bo wisiałem w tej pozycji do 15. Zdecydowanie nie polecam pić Rakiji w takim tempie jak pije się wódkę! Chcieliśmy udowodnić im jak się pije na północy, a wykończeni podróżą i niezbyt ogarniętą dietą skończyliśmy się.
+<div class="notice"><h3>Obudziłem się rano, gdy moja głowa wisiała w toalecie. </h3></div>
+Endri i Fiore byli w pracy i zostawili nas samych w mieszkaniu. Niestety zamkniętych... Dla mnie to w sumie było bez różnicy, bo wisiałem w tej pozycji do 15. Zdecydowanie nie polecam pić Rakiji w takim tempie jak pije się wódkę! Chcieliśmy udowodnić im jak się pije na północy, a wykończeni podróżą i niezbyt ogarniętą dietą skończyliśmy się.
 
 Chłopacy przyszli spóźnieni, bo urwali się z pracy. Zawieźli nas na drogę, gdzie powinniśmy autostopować. Wymieniliśmy się kontaktami, pożegnaliśmy i rozstaliśmy w uśmiechach. Mój plecak ważył teraz tonę, a nogi były jak z waty. Po małym posiłku i uzupełnieniu płynów dało się już żyć.
 
