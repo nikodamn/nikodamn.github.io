@@ -89,3 +89,10 @@ Dzień dziesiąty i jedenasty.<br>
 Łączny dystans: 416 km <br>
 Liczba autostopów: 5 <br>
 </b>
+
+
+<h2>Powiązane posty: </h2>
+{% for post in site.related_posts %}
+{{ post.title }}
+
+{% endfor %}
