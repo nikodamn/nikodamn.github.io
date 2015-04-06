@@ -7,7 +7,7 @@ excerpt: "Upragniony cel."
 tags: [albania, autostop, podróże]
 image:
   feature: /albania/8i9/20.jpg
-  teaser: riwiera-teaser.jpg
+  teaser: riwiera_teaser.jpg
   thumb:
 date: 2013-08-08T00:33:35+02:00
 ---
