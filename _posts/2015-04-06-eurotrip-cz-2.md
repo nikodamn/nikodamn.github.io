@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Przystanek w stolicy Niemiec."
 tags: [podróże, autostop, berlin]
 image:
-  feature:
+  feature: eurotrip/11.jpg
   teaser:
   thumb:
 date: 2013-07-30T18:52:29+02:00
@@ -25,6 +25,24 @@ Minęły kolejne dwie lub trzy godziny oglądania tylko rejestracji samochodów.
 
 O godzinie dwudziestej wysiedliśmy na prze- pięknym i ogromnym dworcu w Berlinie. Od razu poczuliśmy w sobie podniecenie, które po zakupie mapy i zostawieniu plecaku w szafkach, mogliśmy zaspokoić. Oczywiście należało przed tym zrobić rzecz ceremonialną – dopalić w piecu.
 
+<img src="http://nikodamn.github.io/images/eurotrip/2/5.jpg">
+
+<img src="http://nikodamn.github.io/images/eurotrip/2/6.jpg">
+
 Szybko daliśmy sobie spokój z chodzeniem według mapy. Jak się potem okazało - i dobrze. Wbudowany w fazę GPS oprowadził nas po wszystkich najważniejszych miejscach Berlina, a przy okazji znalazł się też czas na piwo w pubach, chillout pod Bundestagiem i jedzenie w fast foodzie. Zwiedzaliśmy Berlin do czwartej rano, na koniec trochę (przyjemnie) błądząc. Był to piątek w nocy, więc miasto tętniło życiem. Poniżej tylko kilka (bo całości chyba nawet serwer Google nie wytrzyma) ujęć na szybko:
+
+<img src="http://nikodamn.github.io/images/eurotrip/2/7.jpg">
+
+<img src="http://nikodamn.github.io/images/eurotrip/2/8.jpg">
+
+<figure class="half">
+<img src="http://nikodamn.github.io/images/eurotrip/2/9.jpg">
+<img src="http://nikodamn.github.io/images/eurotrip/2/10.jpg">
+</figure>
+
+<figure class="half">
+<img src="http://nikodamn.github.io/images/eurotrip/2/11.jpg">
+<img src="http://nikodamn.github.io/images/eurotrip/2/12.jpg">
+</figure>
 
 Podczas poszukiwań drogi powrotnej do dworca centralnego (po niemiecku: Berlin haumpfhfghhh) natrafiliśmy na uprzejmego Niemca, który sam nas zaczepił czy nam pomóc. Okazało się, że również jeździł stopem i wskazał nam jak następnego dnia wyjechać z Berlina i łapać stopa w kierunku Amsterdamu. W końcu trafiliśmy na dworzec centralny, gdzie spędziliśmy noc pod czujnym okiem monitoringu video. Nasze zmęczenie było tak ogromne, że nie obudziły nas nawet przyjeżdżające na peron pociągi ani drzwi mozolnie uderzające raz po raz ciało Olasa.
