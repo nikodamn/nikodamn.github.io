@@ -94,10 +94,7 @@ Była dopiero 14:30, a nasz Hammer miał podjechać o 16. Resztę czasu spędzil
 </figure>
 
 
-Niestety Hammer się spóźniał (co jest domeną południowców), więc zaczęliśmy łapać stopa. Nie wszyscy w Albanii znają ten sposób podróżowania. Świadczyła o tym także sytuacja, gdy mówiąc 'Sarande, Ksamil' do zatrzymanego wozu ten zawiózł nas 100 metrów wcześniej w miejsce postoju busów. Dalej udało nam się złapać Ediego - Albańczyka z amerykańskim paszportem. Był bardzo miły i dał nam nawet swój numer. Mieliśmy dzwonić w razie odwiedzin Tirany. Kolejny autostop to milczący młody Albańczyk, który podrzucił nas do innego zabytku - źródeł Blue Eye. Są to...
-<div class="notice"><h3>Tajemnicze źródła wodne, które są nadal niezbadane.</h3></div>
-
-Głębokie nawet na 45 metrów pod wodą skały są nieskończonym źródłem zimnej i krystalicznie czystej wody. Co ciekawe, albański rząd sprzedał je Włochom, którzy mają budować tu elektrownie wodne.
+Niestety Hammer się spóźniał (co jest domeną południowców), więc zaczęliśmy łapać stopa. Nie wszyscy w Albanii znają ten sposób podróżowania. Świadczyła o tym także sytuacja, gdy mówiąc 'Sarande, Ksamil' do zatrzymanego wozu ten zawiózł nas 100 metrów wcześniej w miejsce postoju busów. Dalej udało nam się złapać Ediego - Albańczyka z amerykańskim paszportem. Był bardzo miły i dał nam nawet swój numer. Mieliśmy dzwonić w razie odwiedzin Tirany. Kolejny autostop to milczący młody Albańczyk, który podrzucił nas do innego zabytku - źródeł Blue Eye. Są to tajemnicze źródła wodne, które są nadal niezbadane. Głębokie nawet na 45 metrów pod wodą skały są nieskończonym źródłem zimnej i krystalicznie czystej wody. Co ciekawe, albański rząd sprzedał je Włochom, którzy mają budować tu elektrownie wodne.
 
 
 <img src="http://nikodamn.github.io/images/albania/8i9/25.jpg">
