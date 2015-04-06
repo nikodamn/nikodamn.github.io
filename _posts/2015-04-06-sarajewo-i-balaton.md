@@ -40,19 +40,23 @@ Słońce, woda, a przede wszystkim poprzednia noc wyciągnęły z nas wszelkie s
 
 <div class="notice"><h3>Znaleźliśmy się w Pecs koło 18.</h3></div> Okazało się, że aby wyjść na trasę musimy jechać do Mohacz. Do pociągu dwie godziny, a droga do Mohacz daleko... Wzięliśmy taniutkiego busa i jakieś 50 minut później byliśmy w Mohacs. Tutaj znaki prosto wskazywały na oddaloną o 10 km graniczną miejscowość. Tuż obok drogi znajdowały się już tylko pola kukurydzy i znów symbol globalizmu - Tesco! Zrobiliśmy zapasowe zakupy (za ostatnie forinty) na wypadek konieczności rozbicia campingu w polu. Walka z czasem, albo raczej - ze światłem. Z każdą minutą mniej samochodów, z każdą minutą ciemniej.
 
+<img src="http://nikodamn.github.io/images/albania/3i4/7.jpg">
 
 Nie udało się. Próbowaliśmy dwie albo trzy godziny. Przy nikłym oświetleniu drogi łapanie stopa nie miało większego sensu. Nici z opuszczenia Węgier jeszcze tej doby. Rozbiliśmy namiot tuż za Tesco i obok pola kukurydzy. Było to bezpieczne miejsce, odizolowane od parkingu, a nastawione jedynie na odwiedziny pobliskich lisów. Jeden w nocy chyba obwąchiwał nawet nasz namiot, ale udało się go łatwo przegonić. Na polnym podłożu spało się całkiem nieźle.
 
 Poranek jak zwykle - zbawienny. Wstaliśmy o 6:30 i po oporządzeniu się w toalecie Tesco dość szybko złapaliśmy stopa do granicy. Był to Francuz, który na emeryturę przeprowadził się na Węgry. Kochany nadrobił 10 km specjalnie żeby nas podwieść. Opuściliśmy Węgry!
 
+<img src="http://nikodamn.github.io/images/albania/3i4/8.jpg">
 
 Na przekór stereotypom autostopowania w Chorwacji kolejnę podwózkę złapaliśmy minutę po okazaniu paszportu i przejściu granicy. Anglojęzyczny madziar w raz ze swym ojcem jechali akurat do Osijek, czyli gdzie zmierzaliśmy. Po krótkiej rozmowie o historii Węgier i Jugosławii oraz minięciu kilku upraw winogron dotarliśmy do Osijeka. Tam po chwili szukania odpowiedniego miejsca wybraliśmy rondo tramwajowe tuż przed wjazdem na autostradę. Stalibyśmy tam pewnie godzinę, gdyby nie uprzejmość pewnego kierowcy - Vladymira. Mimo, że jechał niedaleko to podrzucił nas kilkanaście kilometrów w lepsze miejsce. Vladymir był podróżnikiem i wyjątkowo opowiadał o Nordyckich fiordach przemierzonych skuterem, wyprawie do Iranu swoim samochodem (rzeczywiśćie na szybach miał nalepki!) oraz wodospadzie Virginia. Wspaniały człowiek! Zostawił nas na przystanku i pomógł złapać okazję (ekspresowo!) do skrzyżowania drogi jadącej na Dakovo. Zarówno Vladymir jak i kolejny nieznajomy potwierdzali słuszność jazdy drogą przez Dakovo.
 
 Ustawiliśmy się na przystanku autobusowym i w kilka minut złapaliśmy sportowe bmw z gangsta-chorwatem. Oczywiście wsiedliśmy. Na szczęście gość i jego kolega byli bardzo w porządku. Mimo, że dzieliły nas bariery językowe to łamanym polsko-chorwatskim pogadaliśmy o kilku pierdołach. Wylądowaliśmy na stacji przed Dakovem i znów błyskawicznie złapaliśmy stopa! Tym razem to Denis mimo, że jechał przed granicę i miał tylko jedno miejsce obok kierowcy to zabrał nas do samego przejśćia granicznego w Samac. Spójrzcie tylko jak wyglądała moja podróż:
 
+<img src="http://nikodamn.github.io/images/albania/3i4/9.jpg">
 
 <div class="notice"><h3>Podekscytowani dobrą passą przekroczyliśmy granice.</h3></div> Pierwszy przejeżdżający samochód zatrzymał się na widok naszych kciuków. Dwóch Bośniaków, lecz niestety tylko deutche-spreche'owatych. Po kilku minutach bezowocnej komunikacji wsiedliśmy do ich samochodu. A się zobaczy!
 
+<img src="http://nikodamn.github.io/images/albania/3i4/10.jpg">
 
 Szybko znaleźliśmy wspólny poziom komunikacji (w moim przypadku to raczej eufemizm) i dowiedzieliśmy się, że oni jadą znacznie w bok od naszej trasy. Miłe chłopaki, jadące na wiejską dyskotekę, gdy dowiedzieli się, że chcemy autostopować do Sarajewa poprzez góry złapał się za głowę. Jeden z nich z wielkim uporem wybijał nam to z głowy i nawet zdobył informację o kursujących autobusach. Koszt miał być rzędu 15 euro za osobę. Mieliśmy dojechać do Sarajewa, a stamtąd już autostopować, bo podobno południe jest znacznie bezpieczniejsze niż regiony na północ od stolicy.
 
@@ -60,12 +64,14 @@ Wiele czytałem o stopowaniu w Bośni i Hercegowinie, a zawsze były to superlat
 
 Kupiliśmy dwa bilety, co kosztowało nas bagatela 35 euro. Liczyliśmy, że autobus odjeżdżający o 15 dowiezie nas do Sarajewa gdzieś na 18. Sączyliśmy węgierskiego winiacza przez dwie godziny siedząc na tym pustkowiu okraszonym w monopolowy, kasę biletową i jedną restaurację (z sikaniem na Małysza!).
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/3i4/11.jpg">
+    <img src="http://nikodamn.github.io/images/albania/3i4/12.jpg">
+</figure>
 
+<img src="http://nikodamn.github.io/images/albania/3i4/13.jpg">
 
-
-
-
-
+<img src="http://nikodamn.github.io/images/albania/3i4/14.jpg">
 
 Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im co do destynacji ich dalszej podróży do Czarnogóry. Niestety nasi kochani rodacy nie zgodzili się podrzucić nas po drodze do Sarajewa. Trudno.
 
