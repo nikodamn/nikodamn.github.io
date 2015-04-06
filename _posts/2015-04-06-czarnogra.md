@@ -6,13 +6,13 @@ categories: "Trips"
 excerpt:
 tags: [czarnogóra, albania, autostop, podróże]
 image:
-  feature: /images/albania/7/4.jpg
+  feature: /albania/7/4.jpg
   teaser:
   thumb:
 date: 2014-08-06T12:01:01+02:00
 ---
 
-<div class="notice"><h3>Autostop wymaga czasami wyrzeczeń. </h3></div>
+<div class="notice"><h3>Autostop wymaga wyrzeczeń. </h3></div>
 
 Takim na pewno było łapanie stopa w trzydziestostopniowym upale mając tuż obok piękną plażę i cieplutkie morze. Niestety jeżeli chcieliśmy dotrzeć do Albanii to należało się poświęcić.
 
