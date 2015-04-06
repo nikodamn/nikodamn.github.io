@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature: aboutme.jpg
+  feature: pastamonster.jpg
   teaser:
   thumb:
 ads: false
