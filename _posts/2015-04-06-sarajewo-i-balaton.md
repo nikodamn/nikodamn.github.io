@@ -3,10 +3,10 @@ layout: article
 title: "O zwiedzaniu Węgier i uciekaniu z Sarajewa"
 modified:
 categories: "Trips"
-excerpt:
+excerpt: "Kąpiele nad Balatonem, noc w polu kukurydzy i mroczny wieczór Sarajewa."
 tags: [sarajewo, balaton, pecs, bośnia, hercegowina, węgry, autostop, podróże]
 image:
-  feature:
+  feature: albania/3i4/18.jpg
   teaser:
   thumb:
 date: 2013-08-03T16:37:33+02:00
