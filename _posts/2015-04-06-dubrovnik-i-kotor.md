@@ -4,7 +4,7 @@ title: "Tajemnice twierdzy Kotor"
 modified:
 categories: "Trips"
 excerpt: "Wolnym tempem przez Czarnogórę."
-tags: [chorwaca, dubrownik, albania, podróże, autostop]
+tags: [chorwacja, dubrownik, albania, podróże, autostop]
 image:
   feature:
   teaser:
@@ -34,10 +34,16 @@ Wygrzewaliśmy się w słońcu i soli Dubrovnika wcinając przy tym przepyszne B
 
 Po całym dniu spędzonym na plaży postanowiliśmy poszukać mniej obleganego turystycznie miejsca. Należało więc się spakować i razem z naszymi wiernymi kompanami w postaci plecaków ruszyć na drogę wylotową. Po drodze zahaczyliśmy oczywiście o lody, zimne piwo i colę oraz podziwialiśmy piękno wąskich, kamiennych uliczek.
 
+<figure class="third">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/7.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/8.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/9.jpg">
+    <figcaption>Po prawej: Tak będzie wyglądał nasz wakacyjny dom.</figcaption>
+</figure>
 
+<img src="http://nikodamn.github.io/images/albania/5i6/10.jpg">
 
-
-
+<img src="http://nikodamn.github.io/images/albania/5i6/11.jpg">
 
 Z pomocą mapy łatwo wydostaliśmy się na drogę, gdzie było jednak sporo szybkiego ruchu. Niedługo zatrzymał się tubylec, który zaproponował zawiezienie nas w lepsze miejsce do łapania stopa. Dzięki niemu już chwilę później byliśmy na przystanku autobusowym za Dubrovnikiem i zatrzymaliśmy słoweńca, który wygodnym busikiem podrzucił nas kilkanaście kilometrów do lotniska w Cavtat.
 
