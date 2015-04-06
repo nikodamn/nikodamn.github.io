@@ -34,11 +34,19 @@ Początek był morderczy. Nie byliśmy jeszcze dobrze wczuci w wędrowanie z ple
 
 Po dotarciu na Wielką Raczę podjeliśmy decyzję, że na Przegibek (2 h) idziemy następnego dnia. Spaliśmy w PTTK, który okazał się świetnym pomysłem. Oprócz pryszniców, łóżek i dachu nad głową w cenie znajdowały się najpiękniejsze widoki jakie mogliśmy sobie tam wyobrazić.
 
-A oto widok z naszego pokoju wprost na jeziora chmur:
+<img src="http://nikodamn.github.io/images/WielkaRacza/6.jpg">
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/7.jpg">
 
 Cudownie wyspani, mimo długiego siedzenia przy wieczornej herbacie i piwie, zjedliśmy śniadanie w towarzystwie kota i wyruszyliśmy na Przegibek. Wiedzieliśmy, że trasa będzie krótka i mniej uporczywa, dlatego nie śpieszyło nam się.
 
+<img src="http://nikodamn.github.io/images/WielkaRacza/8.jpg">
+
 Po drodze cieszyliśmy się pięknymi widokami, lasem i jagodami. Szło się fantastycznie, nawet z tymi plecakami.
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/9.jpg">
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/10.jpg">
 
 Na Przegibku było pięknie. Już wiedzieliśmy, że tutaj spędzimy trzecią noc. Rozbiliśmy namiot w sąsiedztwie konia wyglądającego jak krowa. Rozpoczęliśmy gotowanie obiadu (ach ten szakaron makaron!), leniwe palenie papierosów i spoglądanie na szczyty gór.
 
