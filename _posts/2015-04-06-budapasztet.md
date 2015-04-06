@@ -23,12 +23,33 @@ W Tychach o 7 rano z trudem (przy użyciu miejskiego trolejbusu) znaleźliśmy d
 
 W Bielsko Białej po krótkim piwie pod sklepem na zatoczce szybkiej drogi zatrzymał się Krzysztof, który jechał do Cieszyna przez Żywiec. Odpowiadało nam to, mimo że nadrobiliśmy trasy, bo mieliśmy być już za chwilę na tranzytowej granicy. W Żywcu wykonaliśmy sobie pamiątkowe zdjęcia:
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/1.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/2.jpg">
+</figure>
 
 O 14 znaleźliśmy się na upragnionej granicy. Chwilę pogadaliśmy ze spotkanym autostopowiczem Januszem, który zmierzał do Turynu. Nastraszył nas trochę, że nikt nie chce zabierać... Na przekór jego słowom po dwóch kanapkach złapaliśmy tureckiego kierowcę, który jechał aż do Budapesztu! Nie posiadaliśmy się z radości, że uda nam się przebyć tak sporą trasę za jednym rzutem. I love transit!
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/3.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/4.jpg">
+</figure>
 
 Pogoda dopisywała, humory także, a widoki robił się co raz ładniejsze. Rosnące góry Słowacji świetnie oglądało się z szerokiej panoramy kabiny kierowcy!
 
+<img src="http://nikodamn.github.io/images/albania/1i2/5.jpg">
+
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/6.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/7.jpg">
+</figure>
+
+<img src="http://nikodamn.github.io/images/albania/1i2/8.jpg">
+
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/9.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/10.jpg">
+</figure>
 
 Na krótkim postoju Metin (wspomniany turecki kierowca) przygotował dla nas oryginalny turecki obiad z mielonego mięsa, papryki, cebuli i pomidorów. Trzeba przyznać, że było to naprawdę dobre po tym jak użył jakiejś tradycyjnej tureckiej przyprawy.
 
