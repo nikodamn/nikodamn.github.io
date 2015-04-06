@@ -55,10 +55,14 @@ Będąc już tak blisko granicy nie dawaliśmy za wygraną i chcieliśmy jeszcze
 
 Przekroczyliśmy chorwackie bramki zdziwieni, że nie sprawdzano nas przez policję Czarnogóry. Kilkanaście metrów za bramkami na pobliskim parkingu ustawiliśmy się z wyciągniętymi kciukami.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/14.jpg">
 
 <div class="notice"><h3>I znów walka z czasem.</h3></div> Ciemnieć zaczyna już po 19., ale liczylśmy, że może uda się coś złapać. Niestety nieubłaganie nadeszła ciemność, w której zatrzymanie kogoś miało już nikłe szanse.
 
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/15.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/16.jpg">
+</figure>
 
 Po ponad dwóch godzinach łapania stopa w tym miejscu przyszła do nas policjantka z Chorwacji pytając z udawanym zdziwieniem co my tutaj robimy. Doskonale widziała nas przez kilka godzin, gdy szwędała się po granicy. Oburzyła się, że w tym miejscu nie można stopować (stać na parkingu z palcem do góry nie można?) i mamy sobie, uwaga, zamówić taksówkę, bo do Czarnogóry są jeszcze dwa kilometry! Tupet tej kobiety był nie wyobrażalny, bo wysłała nas w ciemną noc po nieoświetlonej drodze idącej tuż obok urwiska i skał. Szliśmy powoli machając latarką i odblaskowymi gadżetami. Przy każdym przejeżdżającym (naprawdę szybko!) samochodzie przytulaliśmy się do skał bądź wskakiwaliśmy w krzaki. Przeklinaliśmy tą wrędną biurwę pod naszymi nosami.
 
@@ -66,14 +70,21 @@ Po pół godziny dostaliśmy się do Czarnogóry, gdzie jeszcze godzinę pytałe
 
 O 6:30 serbski kierowca TIRa sam zaproponował nam podwózkę, bo widział nas na granicy. Był to bardzo miły człowiek, z którym rozmawialiśmy sobie swobodnie po polsku podczas, gdy on mówił po serbsku. To naprawdę podobne języki! Dzięki niemu mieliśmy też okazję przepłynąć się samochodowo-pasażerskim promem tuż przed samym Tivat, dokąd zmierzaliśmy.
 
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/17.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/18.jpg">
+</figure>
 
 W Tivat jest lotnisko tuż obok drogi. Dowiedzieliśmy się o tym w brutalny sposób, gdy (dosłownie!) dwadzieścia metrów nad nami przeleciał wielki samolot pasażerski. Skorzystaliśmy z dobrodziejstw pobliskiego supermarketu i wyruszyliśmy w poszukiwaniu rzekomej dzikiej plaży. Droga się nie kończyła, a upał rósł. Była jakaś 9. Postanowiliśmy zawrócić i od razu śmigać do Kotoru na plażę.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/19.jpg">
 
 <div class="notice"><h3>Momentalnie złapaliśmy jednego stopa.</h3></div> A chwilę później kolejnego. Oba rzęchy zawiozły nas w końcu (przez wspaniałe kilkukilometrowe tunele) do Kotoru. Widok wielkich szczytów tuż przy samym morzu oraz znajdującej się twierdzy na jednej z gór powalił nas. Usiedliśmy na ławce z opuszczonymi koparami.
 
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/20.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/21.jpg">
+</figure>
 
 Weszliśmy do starego miasta aby pozwiedzać kamieniczki, kościółki i liczne zabytki. Byliśmy oczarowani.
 
