@@ -25,8 +25,12 @@ O 5-ej rano plaża Grand Hotelu oraz ichnie bagietki są wyjątkowo polecane! Z 
 
 Wygrzewaliśmy się w słońcu i soli Dubrovnika wcinając przy tym przepyszne Burki i arbuzy.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/4.jpg">
 
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/5.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/6.jpg">
+</figure>
 
 Po całym dniu spędzonym na plaży postanowiliśmy poszukać mniej obleganego turystycznie miejsca. Należało więc się spakować i razem z naszymi wiernymi kompanami w postaci plecaków ruszyć na drogę wylotową. Po drodze zahaczyliśmy oczywiście o lody, zimne piwo i colę oraz podziwialiśmy piękno wąskich, kamiennych uliczek.
 
