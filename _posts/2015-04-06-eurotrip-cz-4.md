@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Amerykańskie przyjaźnie w imprezy."
 tags: [amsterdam, podróże, autostop]
 image:
-  feature:
+  feature: eurotrip/4/17.jpg
   teaser:
   thumb:
 date: 2012-08-03T22:30:48+02:00
@@ -17,6 +17,8 @@ Wychodząc w Amsterdam nie sądziliśmy na pewno, że zniszczy on nas aż tak ba
 <img src="http://nikodamn.github.io/images/eurotrip/4/1.jpg">
 
 Postanowiliśmy wejść na mały chill do Coffeeshopu TOPS. Paląc tam sobie we dwójkę poznaliśmy chłopaka, który posiadał miniaturowy odpowiednik Olasowego Gandalfa - Pippina. Był to Eric i przyleciał ze Stanów na zjarany tour po Europie. Zapowiadało się nieźle. Z Olasem jednoznacznie stwierdziliśmy, że nigdy nie widzieliśmy człowieka, który jest w stanie tyle w siebie wdychać. Niech udowodni to zdjęcie Erica w towarzystwie Ganjalfa i pipe Pippina.
+
+<img src="http://nikodamn.github.io/images/eurotrip/4/19.jpg">
 
 <img src="http://nikodamn.github.io/images/eurotrip/4/2.jpg">
 
@@ -43,19 +45,33 @@ Shroomsterdam zwiedzaliśmy do 6 rano i jak potem się okazało: zwiedziliśmy c
 
 <img src="http://nikodamn.github.io/images/eurotrip/4/9.jpg">
 
-
 W ten oto sposób zakończyła się jedna z najbardziej szalonych nocy naszego życia. Obudziliśmy się dość wcześnie i zaczęliśmy dzień tak samo, jak skończyliśmy poprzedni - w towarzystwie Gandalfa i Pippina. Niestety wiedzieliśmy, że to dzień wyjazdu Erica do Pragi. Mimo wszystko, dobrze się bawiliśmy szwędając się tu i ówdzie.
+
+<img src="http://nikodamn.github.io/images/eurotrip/4/10.jpg">
+
+<img src="http://nikodamn.github.io/images/eurotrip/4/11.jpg">
 
 
 Przybiliśmy sobie piątkę z Ericiem i zaczęliśmy znów we dwójkę szlajać się po Amsterdamie. Szybko we znaki dał nam się kac mózgowy i ogólne zmęczenie po zeszłej nocy. Odespaliśmy kilka godzin i znów wyruszyliśmy na miasto. Byliśmy już znacznie bardziej stoned, jak by to określił każdy prawdziwy barman Coffeeshopu. Do namiotu trafiliśmy dopiero o 4 w nocy, dlatego zrozumiałe, że staraliśmy się przespać chociaż na przystanku tramwajowym. Jak rasowe prostytuty.
 
+<img src="http://nikodamn.github.io/images/eurotrip/4/12.jpg">
+
 Trzeci dzień miał być naszym ostatnim tam. Zaczęliśmy go od porządnego prania i sprzątania naszego namiotu. Wbrew pozorom poszło nam nieźle, a to zadziwiające biorąc pod uwagę ilość brudu na ubraniach i ogrom rozpierdolu w namiocie.
 
+<figure class="half">
+<img src="http://nikodamn.github.io/images/eurotrip/4/13.jpg">
+<img src="http://nikodamn.github.io/images/eurotrip/4/15.jpg">
+</figure>
 
 Po tak efektywnym poranku postanowiliśmy wypożyczyć rowery. Należy tu wspomnieć, że Amsterdam to miasto rowerzystów. Na rowerach jeździ tam każdy, a nawet śmiem twierdzić, że drogi rowerowe obejmują więcej uliczek (szczególnie w centrum) niż drogi samochodowe. Wypożyczenie roweru kosztowało 12 Euro za dzień, co trochę zmroziło nasze blerwowe serduszka. Tym bardziej, że moje pieniądze były już prawie na wyczerpaniu. Zgodnie z etosem absztyfikanta grubej blerwy postanowiliśmy jeździć na połowicznie wypożyczonych rowerach. Jednak ów pożyczony grat leżący w rowie odłożyliśmy w to samo miejsce, tylko wieczorem!
 
+<figure class="half">
+<img src="http://nikodamn.github.io/images/eurotrip/4/16.jpg">
+<img src="http://nikodamn.github.io/images/eurotrip/4/17.jpg">
+</figure>
 
 Po naprawieniu sobie głów dzięki rowerom i podbiciu kilku całkiem przyjemnych faz, powróciliśmy na kemping tuż przed wieczorem. Odpuściliśmy sobie chodzenie po mieście i czerwonych latarniach (lub po prostu: kurwy) i w raz z zasobami nerki Olasa odpoczywaliśmy przy piwku i Gandalfie na polu namiotowym. W sumie to chyba zasnęliśmy z pizdy...
 
+<img src="http://nikodamn.github.io/images/eurotrip/4/18.jpg">
 
 Następny ranek był dniem 7. tej podróży. Skoro trzy dni zajęło nam blerwienie się do Amsterdamu, to trzy dni odłożyliśmy sobie na powrót. Należy również dodać, że ciągłe Coffeeshopowanie, płatny kemping, puby i fast foody opróżniły nasze portfele całkiem zręcznie. Powrót opiszę w ostatniej - 5. części, która będzie znaaacznie krótsza. Obiecuję. I gratuluje tym, którzy dotrwali do końca tego wpisu.
