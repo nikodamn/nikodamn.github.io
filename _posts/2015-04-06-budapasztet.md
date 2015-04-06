@@ -111,14 +111,21 @@ Upał był ogromny, ale dobrze znosiliśmy go zwiedzając ciasne i zacienione ka
 
 <img src="http://nikodamn.github.io/images/albania/1i2/31.jpg">
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/32.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/33.jpg">
+</figure>
 
-
-
-
-
+<img src="http://nikodamn.github.io/images/albania/1i2/34.jpg">
 
 Upał minął, siły odpłynęły. Zaczęliśmy rozglądać się za jakimś obiadem. Trafiliśmy na oryginalną węgierską zupę gulaszową, której madziarska nazwa jest niemożłiwa do wymówienia. Jak w sumie wszystko po węgiersku.
 
+<img src="http://nikodamn.github.io/images/albania/1i2/35.jpg">
+
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/36.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/37.jpg">
+</figure>
 
 Nasz Buda-pasztetowy dzień minął. Odnajdując na mapie połączenie do Savoy Park dojechaliśmy tramwajem na przedmieścia Budapesztu, które już nie wyglądały zbyt zachęcająco. Dalej dotarliśmy na poszukiwaną stację OMV, gdzie umyliśmy się i zdjedliśmy prowiantową kolację przy towarzystwie węgierskiego piwa.
 
