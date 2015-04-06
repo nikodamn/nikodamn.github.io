@@ -7,7 +7,7 @@ excerpt: "Przystanek w stolicy Niemiec."
 tags: [podróże, autostop, berlin]
 image:
   feature: eurotrip/2/11.jpg
-  teaser:
+  teaser: euro_berlin_teaser.jpg
   thumb:
 date: 2013-07-30T18:52:29+02:00
 ---
