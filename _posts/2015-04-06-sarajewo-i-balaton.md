@@ -71,14 +71,14 @@ Kupiliśmy dwa bilety, co kosztowało nas bagatela 35 euro. Liczyliśmy, że aut
 
 <img src="http://nikodamn.github.io/images/albania/3i4/13.jpg">
 
-<img src="http://nikodamn.github.io/images/albania/3i4/12.jpg">
-
 Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im co do destynacji ich dalszej podróży do Czarnogóry. Niestety nasi kochani rodacy nie zgodzili się podrzucić nas po drodze do Sarajewa. Trudno.
 
 Bus jest chyba bardzo popularnym środkiem komunikacji w Bośni, a biorąc pod uwagę górzystość terenów pewnie jedynym oprócz własnego auta. Niestety trasa biegła przez wszelkie znajdujące się po drodze wioski i wioseczki, dlatego godzina przyjazdu odwlekała się w nieskończoność. Widok za oknem budził grozę zmieszaną z poczuciem dzikiej cywilizacji. Przepiękne leśne góry i kaniony, a wśród nich schowane dawne zbombardowane domy lub ostrzelane budynki. Jadąc autobustem cieszyliśmy się, że skorzystaliśmy z rady bośniackich kolegów, gdyż na przystankach dało się zauważyć trochę mniej okrzesanych ludzi oraz stare beemki z przyciemnionymi szybami. No i raz stare, urocze babuszki!
 
  
 <img src="http://nikodamn.github.io/images/albania/3i4/16.jpg">
+
+<br>
 <img src="http://nikodamn.github.io/images/albania/3i4/15.jpg">
 
 
