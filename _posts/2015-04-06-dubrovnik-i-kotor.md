@@ -146,6 +146,8 @@ Wypiliśmy wina i ponapawaliśmy się myślami o planach podróżniczych. Chłó
 Podsumowanie:
 </h3></div>
 
+<img src="http://nikodamn.github.io/images/albania/5i6/podsumowanie.png">
+
 <b>
 Dzień piąty i szósty.<br>
 Łączny dystans: 83 km (+23 km busem)<br>
