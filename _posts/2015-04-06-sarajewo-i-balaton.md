@@ -66,12 +66,12 @@ Kupiliśmy dwa bilety, co kosztowało nas bagatela 35 euro. Liczyliśmy, że aut
 
 <figure class="half">   
     <img src="http://nikodamn.github.io/images/albania/3i4/11.jpg">
-    <img src="http://nikodamn.github.io/images/albania/3i4/12.jpg">
+    <img src="http://nikodamn.github.io/images/albania/3i4/14.jpg">
 </figure>
 
 <img src="http://nikodamn.github.io/images/albania/3i4/13.jpg">
 
-<img src="http://nikodamn.github.io/images/albania/3i4/14.jpg">
+<img src="http://nikodamn.github.io/images/albania/3i4/12.jpg">
 
 Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im co do destynacji ich dalszej podróży do Czarnogóry. Niestety nasi kochani rodacy nie zgodzili się podrzucić nas po drodze do Sarajewa. Trudno.
 
