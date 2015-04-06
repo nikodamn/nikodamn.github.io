@@ -26,10 +26,17 @@ Na słynnej A2 Poznaniacy udowodnili, że jako kierowców można mieć ich gdzie
 
 <img src="http://nikodamn.github.io/images/eurotrip/1/3.jpg">
 
-Stamtąd, bo jakiejś godzinie nadzieję w nas rozbudził kierowca TIRa jadącego do Gorzowa. Ten przemiły człowiek stwierdził, że podrzuci nas do Skwierzyny skąd na pewno złapiemy coś do Kostrzyna.
+Stamtąd po jakiejś godzinie nadzieję w nas rozbudził kierowca TIRa jadącego do Gorzowa. Ten przemiły człowiek stwierdził, że podrzuci nas do Skwierzyny skąd na pewno złapiemy coś do Kostrzyna.
 
+<img src="http://nikodamn.github.io/images/eurotrip/1/4.jpg">
 
 Podekscytowani, że wreszcie ktoś się zatrzymał zgodziliśmy się zejść z A2. Jak okazało się wkrótce po opuszczeniu ciężarówki był to ogromny błąd... W kilkanaście minut zrobiło się ciemno, a w dodatku zaczęło przeraźliwie padać. Opustoszała droga zmusiła nas do poruszania się w kierunku Kostrzynia. Mimo tych okoliczności bawiło nas to i maszerując z ciężarami na plecach nuciliśmy w amoku: "Nie ma, nie ma wody na pustyni...", bo rzeczywiście żadnej wody ze sobą już nie mieliśmy.
 
+<figure="half">
+<img src="http://nikodamn.github.io/images/albania/1i2/5.jpg">
+<img src="http://nikodamn.github.io/images/albania/1i2/6.jpg">
+</figure>
+
+<img src="http://nikodamn.github.io/images/eurotrip/1/7.jpg">
 
 Zaszliśmy jakieś 5 km, a minęło nas w tym czasie maksymalnie dwadzieścia aut. Oczywiście żadne nie zatrzymało się by pomóc dwóm debilom z plecakami robiącym sobie spacer w kapuśniaczku. Sytuacja zmusiła nas do rozbicia namiotu w środku lasu. Zmęczeni tułaczką nie zwracaliśmy uwagi na niepokojące dźwięki. Nawet jeśli miałby to być dzik lub gwałciciel. I tak właśnie, niezbyt efektywnie, rozpoczęła się nasza podróż podbijania Europy.
