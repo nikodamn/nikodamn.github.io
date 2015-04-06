@@ -88,9 +88,14 @@ W Tivat jest lotnisko tuż obok drogi. Dowiedzieliśmy się o tym w brutalny spo
 
 Weszliśmy do starego miasta aby pozwiedzać kamieniczki, kościółki i liczne zabytki. Byliśmy oczarowani.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/22.jpg">
 
+<img src="http://nikodamn.github.io/images/albania/5i6/23.jpg">
 
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/24.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/25.jpg">
+</figure>
 
 Trafiliśmy do uliczki prowadzącej na fortyfikacje miasta i basztę (240 m n.p.m.). Państwo w kasie biletowej (sic!) widząc nasze plecaki sami powiedzieli żebyśmy nie płacili tych 6 euro. To było miłe.
 
