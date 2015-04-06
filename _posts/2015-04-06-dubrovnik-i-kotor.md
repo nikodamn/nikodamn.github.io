@@ -101,13 +101,22 @@ Trafiliśmy do uliczki prowadzącej na fortyfikacje miasta i basztę (240 m n.p.
 
 Wdrapywaliśmy się po schodach i kamiennych szlakach. Była dopiero dziesiąta godzina i nie było tam jeszcze zbyt wiele ludzi. Mogliśmy napawać się widokami z ponad dachów starego miasta.
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/26.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/27.jpg">
+</figure>
+
+W pewnym momencie z patosowych rozmyślań wyrwało nas zasłyszane: "Wszędzie kurwa muszą nasrać. Jebie jak chuj." Cieszyliśmy się, że jednak Polska podróżuje razem z nami!
 
 
-W pewnym momencie z patosowych rozmyślań wyrwało nas zasłyszane: Wszędzie kurwa muszą nasrać. Jebie jak chuj. Cieszyliśmy się, że jednak Polska podróżuje razem z nami!
+<img src="http://nikodamn.github.io/images/albania/5i6/28.jpg">
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/29.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/30.jpg">
+</figure>
 
-
-
+<img src="http://nikodamn.github.io/images/albania/5i6/31.jpg">
 
 Wdrapaliśmy się na basztę w tempie ludzi pozbawionych bagażów. Co niektórzy zaczepiali nas jak udaje się nam tu wchodzić z tymi plecakami. (To nie było złe, ale zejście...) Widok u góry był warty całej autostopowej wędrówki.
 
