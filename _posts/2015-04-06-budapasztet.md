@@ -74,6 +74,7 @@ Z samego rana dojechaliśmy na obwodnicę Budapesztu czyli tak zwany Budapest Ri
 <img src="http://nikodamn.github.io/images/albania/1i2/18.jpg">
   
 <img src="http://nikodamn.github.io/images/albania/1i2/19.jpg">
+
 <img src="http://nikodamn.github.io/images/albania/1i2/20.jpg">
 
 Postawieni w tej no-kurde-raczej-trudnej sytuacji maszerowaliśmy słomianym poboczem mając na plecach ~17-sto kilogramowe plecaki w samo południe. Jednak najgorsze były pędzące po 120 km/h tuż obok nas samochody. Nie będę ukrywał, że miałem serce w przełyku. Na szczęście udało się dotrzeć do jakiejś drogi dojazdowej, jednak przez półtora godziny nikt się nie zatrzymał.
