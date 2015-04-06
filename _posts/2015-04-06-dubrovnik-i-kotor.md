@@ -7,7 +7,7 @@ excerpt: "Wolnym tempem przez Czarnogórę."
 tags: [chorwacja, dubrownik, albania, podróże, autostop]
 image:
   feature: /albania/5i6/31.jpg
-  teaser:
+  teaser: kotor-teaser.jpg
   thumb:
 date: 2013-08-04T12:47:04+02:00
 ---
