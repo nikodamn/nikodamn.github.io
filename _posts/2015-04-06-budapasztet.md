@@ -80,8 +80,12 @@ Z tamtej nocy pamiętam jeszcze, że budząc się raz po raz udowadniałem Indze
 
 
 
+<div class="notice"><h3>
+Podsumowanie:
+</h3></div>
 
-Podsumowując:
-Dzień pierwszy i drugi
-Łączny dystans: 477 km (+441 km pociągiem)
+<b>
+Dzień pierwszy i drugi<br>
+Łączny dystans: 477 km (+441 km pociągiem)<br>
 Liczba autostopów: 4
+</b>
