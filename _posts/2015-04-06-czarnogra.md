@@ -74,6 +74,9 @@ Dotarliśmy na kamping u Laury (który gorąco polecam!), gdzie stacjonowali dos
 <div class="notice"><h3>
 Podsumowanie:
 </h3></div>
+
+<img src="http://nikodamn.github.io/images/albania/7/podsumowanie.png">
+
 <b>
 Dzień 7.
 Łączny dystans: 468 km (w tym 270 km busem)
