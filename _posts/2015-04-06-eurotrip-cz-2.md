@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Przystanek w stolicy Niemiec."
 tags: [podróże, autostop, berlin]
 image:
-  feature: eurotrip/11.jpg
+  feature: eurotrip/2/11.jpg
   teaser:
   thumb:
 date: 2013-07-30T18:52:29+02:00
