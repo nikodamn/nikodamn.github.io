@@ -34,7 +34,7 @@ Przekroczyliśmy ją pieszo i poczekaliśmy na wcześniej wspomnianego kierowcę
 Pierwsze wrażenia z Albanii to gipsy babies na granicy, a dalej - zadziwiająca płaskość. Nie o tym się naczytałem i lekko zawiedziony czekałem na rozwój wydarzeń. Jechaliśym główną drogą ekspresową do Tirany i szybko dowiedzieliśmy się na czym polega fenomen albańskich dróg. Co drugi samochód to mercedes (naprawdę!). Podobno wynika to z faktu, że samochód jest tam najwyższą miarą pozycji społecznej. Nieważne czy stary czy nowy, ale to mercedes! Dalej - sposób jazdy. Z całym szacunkiem, bo nadal sam nie mam prawo jazdy, ale oni jeżdżą jak popieprzeni! Wyprzedząją na piątego, jeżdżą pod prąd i oczywiście niesamowicie zapierdalają. Ponadto ich hymnem narodowym powinien stać się dźwięk klaksonu, bo podejrzewam, że nie da się jechać minutę po albańskiej drodze bez usłyszenia tego sygnału. Ponadto godna podziwu jest duma narodowa albańczyków. Już po kilku kilometrach jazdy w Albanii można było śmiało stwierdzić, że w połowie domów czy sklepów wywieszona jest narodowa flaga.
 
 <div class="notice"><h3>
-Po godzinie płaskie arbuzowe pola zaczęły powoli rosnąć.
+Płaskie arbuzowe pola powoli zaczynały rosnąć.
 </h3></div>
 Przy drodze pojawiało się co raz to więcej sklepów i straganów, bo powoli dojeżdżaliśmy do stolicy. Istnieje nawet filmik uwieczniający widniące w dali wzniesienia i niesamowity klimat albańskiego radia.
 
@@ -51,10 +51,12 @@ Bus oczywiście też nie jeździł bezpiecznie, ale przynajmniej szybko. Kilka c
 
 <img src="http://nikodamn.github.io/images/albania/7/7.jpg">
 
-<div class="notice"><h3>Czym dalej od stolicy tym było ciekawiej.</h3></div> 
+<div class="notice"><h3>Czym dalej na południe tym ciekawiej.</h3></div> 
 Oprócz cieszących oczy gór raz po raz pojawiały się spacerujące po krajowych drogach krowy, rolnicy jadący na swoich osiołkach albo zaparkowane mercedesy po środku niczego. Nie udało mi się zrobić zdjęcia żadnego z nich, ponieważ nasz bus jechał bardzo szybko nie zważając wcale na stan dróg. Trzymaliśmy się sufitu.
 
 <img src="http://nikodamn.github.io/images/albania/7/1.jpg">
+<br>
+<img src="http://nikodamn.github.io/images/albania/7/8.jpg">
 
 Po krótkiej przesiadce w Gjirokastrze czekał nas końcowy etap drogi. Niestety powoli zaczynało robić się ciemno i wiedzieliśmy już, że przywitamy Sarande nocą.
 
@@ -62,8 +64,6 @@ Po krótkiej przesiadce w Gjirokastrze czekał nas końcowy etap drogi. Niestety
 
 Po pokonaniu górskich serpentyn (btw, myślałem, że nie wyrobię...) dojechaliśmy do Sarande po 20. Było ciemno, ale miasto tętniło życiem. Początkowo zawiedzeni stwierdziliśmy, że jest to typowe miasteczko turystyczne. Na nasze zawiedzenie miały wpływ nie tylko tandetne stoiska, ale ciemność i brak upragnionych widoków (bo później nasze zdanie o Sarande uległo poprawie). Mijając tłumy turystów skoczyliśmy po klasyczne zakupy i piwa, a potem na pizzę, która - tu trzeba im oddać - była wybitna.
 
-
-<img src="http://nikodamn.github.io/images/albania/7/8.jpg">
 <img src="http://nikodamn.github.io/images/albania/7/3.jpg">
 
 Tuż po kolacji, gdy rozmyślaliśmy już, gdzie spędzić noc (bo nie mieliśmy żadnych wieści od obozu autostopowego) na ulicy zahaczyła nas właśnie para autostopowiczów! Porozmawialiśmy chwilę i szybko okazało się, że Polacy stacjonują 15 km od Sarande w miejscowośći Ksamil. Niestety nie był to dziki obóz (a tak miało być!) tylko pole kampingowe. Wiedząc tylko, że pole kampingowe opatrzone jest w namalowany farbą napis "CAMPING" postanowiliśmy spróbować tam się dostać. Stanęliśmy na jakiejś uliczce, praktycznie w środku miasta z nadzieją, ale bez jakiejś wielkiej wiary w powodzenie. Auta zatrzymywały się po kolei! Po około 15 minutach dwóch chłopaków z Albanii i ich koleżanka ze Szwecji mimo, że nie jechali w ogóle do Ksamila postanowili nas podwieźć. Ta szalona trójka jeździła razem z nami przez kilkadziesiąt minut szukając tajemniczego napisu. Ja przekręciłem imię właścicielki i jedyne, co wiedzieliśmy o tym polu to wspomniany napis. Zrezygnowani i sfrustrowani (choć w zabawnej atmosferze!) dotarliśmy w końcu, gdy po ustaleniu faktów Inga wypaliła nagle: - Ekhm, guys, I think I know where it is....
