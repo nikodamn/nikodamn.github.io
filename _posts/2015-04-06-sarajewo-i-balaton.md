@@ -77,29 +77,37 @@ Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im c
 
 Bus jest chyba bardzo popularnym środkiem komunikacji w Bośni, a biorąc pod uwagę górzystość terenów pewnie jedynym oprócz własnego auta. Niestety trasa biegła przez wszelkie znajdujące się po drodze wioski i wioseczki, dlatego godzina przyjazdu odwlekała się w nieskończoność. Widok za oknem budził grozę zmieszaną z poczuciem dzikiej cywilizacji. Przepiękne leśne góry i kaniony, a wśród nich schowane dawne zbombardowane domy lub ostrzelane budynki. Jadąc autobustem cieszyliśmy się, że skorzystaliśmy z rady bośniackich kolegów, gdyż na przystankach dało się zauważyć trochę mniej okrzesanych ludzi oraz stare beemki z przyciemnionymi szybami. No i raz stare, urocze babuszki!
 
-
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/3i4/15.jpg">
+    <img src="http://nikodamn.github.io/images/albania/3i4/16.jpg">
+</figure>
 
 <div class="notice"><h3>Gdy dojechaliśmy było już bardzo ciemno, a nas czekała noc w środku miasta.</h3></div> W dodatku mówiąc o mieście nie wiedzieliśmy, że będąc w samym centrum stolicy najpierw przywita nas luksusowy hotel, a sekudnę potem żebracy, koty wyjadające jedzenie ze śmietników i dogorywające na ulicy psy. Widok straszliwy.
 
 Zaczęliśmy kombinować. Marzyliśmy o jakimś tanim busie na przedmieścia, gdzie spędzilibyśmy noc. Niestety o tej godzinie nie mogliśmy na to liczyć. Rano również czekały nas tylko długodystansowe połączenia. Zjedliśmy po Burku niedaleko słynnej Aleji Snajperów i rozejrzeliśmy się po kilku ulicach w okół dworca. Nasze zdanie było jednogłośne - jak najszybciej stąd uciekać. Zobaczcie sami:
 
+<img src="http://nikodamn.github.io/images/albania/3i4/17.jpg">
 
 Poniższe zdjęcie to najprawdopodobniej jedno z najlepszych jakie mi się kiedykolwiek udały. Przebiegający wygłodzony pies, ciemno i betonowy charakter ulic Sarejwa. Myślę, że zatopione jest tutaj wszystko co zapamiętam z tego miasta.
 
+<img src="http://nikodamn.github.io/images/albania/3i4/18.jpg">
 
-
+<img src="http://nikodamn.github.io/images/albania/3i4/19.jpg">
 
 Zostało nam jedno rozwiązanie - autobus do Dubrovnika, który odjeżdżał o 22:30. Niestety kosztował aż 49 euro (plus standardowe i irytujące "2 euro za bagaż"). Za każdą cenę to za każdą cenę. Dzięki temu połączeniu rozwiązaliśmy wszystkie problemy - spaliśmy w autobusie, nie musieliśmy wydostawać się z Sarajewa, nie skrojono nas, a o 5:30 byliśmy już w chorwackim Dubrovniku.
 
-
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/3i4/20.jpg">
+    <img src="http://nikodamn.github.io/images/albania/3i4/21.jpg">
+</figure>
 
 Doszliśmy na plażę tuż przy Grand Hotelu, gdzie zdobyłem nawet bagietkę na nasze śniadanie na molo obok plaży. Poranek był jeszcze blado-szary, ale dla nas był kojący, błogi i spokojny. Cisza zatoki pozwoliła nam dospać to co nie odespane. Oficjalnie zaczął się nowy etap naszej podróży - adriatycka riwiera.
 
 <div class="notice"><h3>
 Podsumowanie:
 </h3></div>
+
+<img src="http://nikodamn.github.io/images/albania/3i4/podsumowanie.png">
 
 <b>
 Dzień trzeci i czwarty<br>
