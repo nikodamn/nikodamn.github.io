@@ -80,6 +80,7 @@ Z samego rana dojechaliśmy na obwodnicę Budapesztu czyli tak zwany Budapest Ri
 
 Postawieni w tej no-kurde-raczej-trudnej sytuacji maszerowaliśmy słomianym poboczem mając na plecach ~17-sto kilogramowe plecaki w samo południe. Jednak najgorsze były pędzące po 120 km/h tuż obok nas samochody. Nie będę ukrywał, że miałem serce w przełyku. Na szczęście udało się dotrzeć do jakiejś drogi dojazdowej, jednak przez półtora godziny nikt się nie zatrzymał.
 
+<img src="http://nikodamn.github.io/images/albania/1i2/21.jpg">
 
 W końcu zatrzymałem dwójkę madziarów, którzy (JAKIMŚ KURWA CUDEM) znali kilka słów po angielsku. Skierowali nas na inną drogę, gdzie mieliśmy znaleźć busa do centrum Budapestu. Tak też się stało, ale wcześniej po drodze spotkaliśmy garażową wyprzedaż na której dostaliśmy pamiątkę - maskotkę. Był to kot którego nazywaliśmy pierwotnie Katze, a potem przechrzściliśmy na Kotora. Bardzo miły gest ze strony madziarów!
 
@@ -89,10 +90,14 @@ Mimo, że nie mieliśmy forintów udało nam się dojechać do metra (i galerii 
 
 Upał był ogromny, ale dobrze znosiliśmy go zwiedzając ciasne i zacienione kamieniczki Budapesztu. Zwiedziliśmy Parlament, który po chwili okazał się Bazyliką Św. Stefana... Zwiedzaliśmy wszystkie najpiękniejsze budynki - Zamek Królewski, Most Łańcuchowy czy Kościół Macieja. To dopiero drugi dzień naszej wyprawy, a już zobaczyliśmy tak wiele! Ponadto zrobiliśmy sobie przerwę na pyszne zimne piwo w jednej z knajp starego miasta.
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/22.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/23.jpg">
+</figure>
 
+<img src="http://nikodamn.github.io/images/albania/1i2/24.jpg">
 
-
-
+<img src="http://nikodamn.github.io/images/albania/1i2/25.jpg">
 
 
 
