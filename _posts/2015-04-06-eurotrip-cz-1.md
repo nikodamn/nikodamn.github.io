@@ -7,7 +7,7 @@ excerpt: "Krótki poradnik jak łatwo wylądować po środku niczego."
 tags: [kostrzyn, eurotrip, podróże, autostop]
 image:
   feature: eurotrip/1/2.jpg
-  teaser:
+  teaser: euro2-teaser.jpg
   thumb:
 date: 2013-07-30T18:35:44+02:00
 ---
