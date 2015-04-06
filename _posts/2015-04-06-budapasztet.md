@@ -39,10 +39,7 @@ Pogoda dopisywała, humory także, a widoki robił się co raz ładniejsze. Rosn
 
 <img src="http://nikodamn.github.io/images/albania/1i2/5.jpg">
 
-<figure class="half">   
-    <img src="http://nikodamn.github.io/images/albania/1i2/6.jpg">
-    <img src="http://nikodamn.github.io/images/albania/1i2/7.jpg">
-</figure>
+<img src="http://nikodamn.github.io/images/albania/1i2/7.jpg">
 
 <img src="http://nikodamn.github.io/images/albania/1i2/8.jpg">
 
@@ -53,13 +50,26 @@ Pogoda dopisywała, humory także, a widoki robił się co raz ładniejsze. Rosn
 
 Na krótkim postoju Metin (wspomniany turecki kierowca) przygotował dla nas oryginalny turecki obiad z mielonego mięsa, papryki, cebuli i pomidorów. Trzeba przyznać, że było to naprawdę dobre po tym jak użył jakiejś tradycyjnej tureckiej przyprawy.
 
+<img src="http://nikodamn.github.io/images/albania/1i2/11.jpg">
+
+<img src="http://nikodamn.github.io/images/albania/1i2/12.jpg">
+
+<img src="http://nikodamn.github.io/images/albania/1i2/13.jpg">
 
 Dalej jechaliśmy już do miejscowości Sahy czyli słowacko-węgierskiego przejścia granicznego, gdzie tuż po dotarciu dopadł nas mrok.,, i kociak. Tam spędziliśmy noc (jak się potem okazało - niezbyt przyjemną) w tirze zamiast w namiocie. Wspólnie postanowiliśmy zacisnąć zęby i po prostu dojechać jak najszybciej do Budapesztu.
 
 <div class="notice"><h3>Budapest Ring</h3></div>
 Z samego rana dojechaliśmy na obwodnicę Budapesztu czyli tak zwany Budapest Ring. Ku naszemu zdziwieniu kierowca (który jechał do Turcji, a nie do centrum Budapesztu oczywiście) zamiast zostawić nas wcześniej na stacji benzynowej zatrzymał się na autostradzie (!!!) i wskazał zjazd, którym powinniśmy iść do miasta. Nie muszę chyba wspominać, że autostrady budowane są na największych możliwych zadupiach.
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/14.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/15.jpg">
+</figure>
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/16.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/17.jpg">
+</figure>
 
 Postawieni w tej no-kurde-raczej-trudnej sytuacji maszerowaliśmy słomianym poboczem mając na plecach ~17-sto kilogramowe plecaki w samo południe. Jednak najgorsze były pędzące po 120 km/h tuż obok nas samochody. Nie będę ukrywał, że miałem serce w przełyku. Na szczęście udało się dotrzeć do jakiejś drogi dojazdowej, jednak przez półtora godziny nikt się nie zatrzymał.
 
