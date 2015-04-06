@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Krótki poradnik jak łatwo wylądować po środku niczego."
 tags: [kostrzyn, eurotrip, podróże, autostop]
 image:
-  feature:
+  feature: eurotrip/1/2.jpg
   teaser:
   thumb:
 date: 2013-07-30T18:35:44+02:00
@@ -32,9 +32,9 @@ Stamtąd po jakiejś godzinie nadzieję w nas rozbudził kierowca TIRa jadącego
 
 Podekscytowani, że wreszcie ktoś się zatrzymał zgodziliśmy się zejść z A2. Jak okazało się wkrótce po opuszczeniu ciężarówki był to ogromny błąd... W kilkanaście minut zrobiło się ciemno, a w dodatku zaczęło przeraźliwie padać. Opustoszała droga zmusiła nas do poruszania się w kierunku Kostrzynia. Mimo tych okoliczności bawiło nas to i maszerując z ciężarami na plecach nuciliśmy w amoku: "Nie ma, nie ma wody na pustyni...", bo rzeczywiście żadnej wody ze sobą już nie mieliśmy.
 
-<figure="half">
-<img src="http://nikodamn.github.io/images/albania/1i2/5.jpg">
-<img src="http://nikodamn.github.io/images/albania/1i2/6.jpg">
+<figure class="half">
+<img src="http://nikodamn.github.io/images/eurotrip/1/5.jpg">
+<img src="http://nikodamn.github.io/images/eurotrip/1/6.jpg">
 </figure>
 
 <img src="http://nikodamn.github.io/images/eurotrip/1/7.jpg">
