@@ -99,7 +99,17 @@ Upał był ogromny, ale dobrze znosiliśmy go zwiedzając ciasne i zacienione ka
 
 <img src="http://nikodamn.github.io/images/albania/1i2/25.jpg">
 
+<img src="http://nikodamn.github.io/images/albania/1i2/27.jpg">
 
+<figure class="third">   
+    <img src="http://nikodamn.github.io/images/albania/1i2/26.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/28.jpg">
+    <img src="http://nikodamn.github.io/images/albania/1i2/29.jpg">
+</figure>
+
+<img src="http://nikodamn.github.io/images/albania/1i2/30.jpg">
+
+<img src="http://nikodamn.github.io/images/albania/1i2/31.jpg">
 
 
 
