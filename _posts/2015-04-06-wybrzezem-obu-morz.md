@@ -3,11 +3,11 @@ layout: article
 title: "Wybrzeżem dwóch mórz"
 modified:
 categories: "Trips"
-excerpt:
+excerpt: "Ekspresowa podróż z Czarnogóry na południe Albanii."
 tags: [czarnogóra, albania, autostop, podróże]
 image:
   feature: /albania/7/4.jpg
-  teaser:
+  teaser: wybrzezem_teaser.jpg
   thumb:
 date: 2014-08-06T12:01:01+02:00
 ---
