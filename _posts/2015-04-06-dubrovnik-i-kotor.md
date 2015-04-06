@@ -16,7 +16,12 @@ date: 2013-08-04T12:47:04+02:00
 O 5-ej rano plaża Grand Hotelu oraz ichnie bagietki są wyjątkowo polecane! Z kojącej drzemki wybudziło nas trzy godziny później ostre już słońce oraz narastający hałas europejskiej turystyki. Chwilę później zapytano nas czy zostajemy na leżakach na których się wylegiwaliśmy. Jako, że kosztowały bagatela 5 euro za leżak postanowiliśmy przenieść się w bardziej ustronne miejsce. Pobliskie skałki były idealne i równie wygodne.
 
 
+<img src="http://nikodamn.github.io/images/albania/5i6/3.jpg">
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/1.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/2.jpg">
+</figure>
 
 Wygrzewaliśmy się w słońcu i soli Dubrovnika wcinając przy tym przepyszne Burki i arbuzy.
 
