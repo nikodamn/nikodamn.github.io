@@ -38,7 +38,7 @@ Po godzinie płaskie arbuzowe pola zaczęły powoli rosnąć.
 </h3></div>
 Przy drodze pojawiało się co raz to więcej sklepów i straganów, bo powoli dojeżdżaliśmy do stolicy. Istnieje nawet filmik uwieczniający widniące w dali wzniesienia i niesamowity klimat albańskiego radia.
 
-
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Dg22IEZylzQ" frameborder="0" allowfullscreen></iframe>
 
 Nasz kierowca wypytywał nas jak mamy zamiar dotrzeć do Sarande. Powiedzieliśmy, że busem, bo chcieliśmy żeby zostawił nas na dworcu autobusowym skąd wydostalibyśmy się na przedmieścia. Nie wiedzieliśmy jeszcze, że nie istnieje tam coś takiego jak główny dworzec autobusowy.
 
@@ -78,7 +78,7 @@ Podsumowanie:
 <img src="http://nikodamn.github.io/images/albania/7/podsumowanie.png">
 
 <b>
-Dzień 7.
-Łączny dystans: 468 km (w tym 270 km busem)
+Dzień 7. <br>
+Łączny dystans: 468 km (w tym 270 km busem) <br>
 Liczba autostopów: 2
 </b>
