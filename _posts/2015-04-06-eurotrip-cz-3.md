@@ -7,7 +7,7 @@ excerpt: "O tym jak wydostać się z Berlina i dotrzeć do stolicy Holandii."
 tags: [amsterdam, holandia, podróże, autostop, eurotrip]
 image:
   feature: eurotrip/3/3.jpg
-  teaser:
+  teaser: euro3-teaser.jpg
   thumb:
 date: 2012-08-02T22:13:17+02:00
 ---
