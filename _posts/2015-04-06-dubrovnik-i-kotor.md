@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Wolnym tempem przez Czarnogórę."
 tags: [chorwacja, dubrownik, albania, podróże, autostop]
 image:
-  feature:
+  feature: /albania/5i6/31.jpg
   teaser:
   thumb:
 date: 2013-08-04T12:47:04+02:00
@@ -69,11 +69,10 @@ Po ponad dwóch godzinach łapania stopa w tym miejscu przyszła do nas policjan
 Po pół godziny dostaliśmy się do Czarnogóry, gdzie jeszcze godzinę pytałem kierowców ciężarówek o podwózkę. To nie miało żadnego sensu o tej porze. Położyliśmy się w śpiworach na pobliskiej trawie w towarzystwie miejscowego kota, którego z resztą chciałem zabrać ze sobą. Jakoś po tej stronie nikomu już nie przeszkadzało to, że poczekamy tam bezpiecznie do rana.
 
 O 6:30 serbski kierowca TIRa sam zaproponował nam podwózkę, bo widział nas na granicy. Był to bardzo miły człowiek, z którym rozmawialiśmy sobie swobodnie po polsku podczas, gdy on mówił po serbsku. To naprawdę podobne języki! Dzięki niemu mieliśmy też okazję przepłynąć się samochodowo-pasażerskim promem tuż przed samym Tivat, dokąd zmierzaliśmy.
+ 
+<img src="http://nikodamn.github.io/images/albania/5i6/17.jpg">
+<img src="http://nikodamn.github.io/images/albania/5i6/18.jpg">
 
-<figure class="half">   
-    <img src="http://nikodamn.github.io/images/albania/5i6/17.jpg">
-    <img src="http://nikodamn.github.io/images/albania/5i6/18.jpg">
-</figure>
 
 W Tivat jest lotnisko tuż obok drogi. Dowiedzieliśmy się o tym w brutalny sposób, gdy (dosłownie!) dwadzieścia metrów nad nami przeleciał wielki samolot pasażerski. Skorzystaliśmy z dobrodziejstw pobliskiego supermarketu i wyruszyliśmy w poszukiwaniu rzekomej dzikiej plaży. Droga się nie kończyła, a upał rósł. Była jakaś 9. Postanowiliśmy zawrócić i od razu śmigać do Kotoru na plażę.
 
@@ -88,13 +87,13 @@ W Tivat jest lotnisko tuż obok drogi. Dowiedzieliśmy się o tym w brutalny spo
 
 Weszliśmy do starego miasta aby pozwiedzać kamieniczki, kościółki i liczne zabytki. Byliśmy oczarowani.
 
-<img src="http://nikodamn.github.io/images/albania/5i6/22.jpg">
+<img src="http://nikodamn.github.io/images/albania/5i6/25.jpg">
 
 <img src="http://nikodamn.github.io/images/albania/5i6/23.jpg">
 
 <figure class="half">   
     <img src="http://nikodamn.github.io/images/albania/5i6/24.jpg">
-    <img src="http://nikodamn.github.io/images/albania/5i6/25.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/22.jpg">
 </figure>
 
 Trafiliśmy do uliczki prowadzącej na fortyfikacje miasta i basztę (240 m n.p.m.). Państwo w kasie biletowej (sic!) widząc nasze plecaki sami powiedzieli żebyśmy nie płacili tych 6 euro. To było miłe.
@@ -120,9 +119,13 @@ W pewnym momencie z patosowych rozmyślań wyrwało nas zasłyszane: "Wszędzie 
 
 Wdrapaliśmy się na basztę w tempie ludzi pozbawionych bagażów. Co niektórzy zaczepiali nas jak udaje się nam tu wchodzić z tymi plecakami. (To nie było złe, ale zejście...) Widok u góry był warty całej autostopowej wędrówki.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/32.jpg">
 
-/czy producent Paprykarza Szczecińskiego nie powinien wynagrodzić nas za najlepszą reklamę ich produktu?/
-
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/5i6/34.jpg">
+    <img src="http://nikodamn.github.io/images/albania/5i6/33.jpg">
+    <figcaption>Czy producent Paprykarza Szczecińskiego nie powinien wynagrodzić nas za najlepszą reklamę ich produktu?</figcaption>
+</figure>
 
 <div class="notice"><h3>Zakochaliśmy się w Kotorze.</h3></div> Odpoczęliśmy u góry, zjedliśmy śniadanie i zeszliśmy na dół. Nie było to łatwe, ale udało się. Czym prędzej kroczyliśmy na plażę aby wymoczyć w zatoce nasze zgrzane ciała.
 
@@ -130,9 +133,11 @@ Wychodząc z Kotoru natrafiliśmy na Autobuską Stanicę, gdzie wzięliśmy za 7
 
 Należało rozejrzeć się za polem kampingowym. Mimo, że posiadaliśmy mapkę miasta to odnalezienie się tam należy do niemożliwych zadań! Brak jakichkolwiek oznaczeń ulic, pełno małych i krętych dojazdówek... Męczyliśmy się ponad godzinę, aż w końcu znaleźliśmy cel. Pole kampingowe nie robiło szału. Tym bardziej, że kosztowało 12 euro. No, ale był prąd, gorąca woda i cień nad namiotem. Umyci i wypoczęci poszliśmy wieczorem na zwiedzanie miasta.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/35.jpg">
 
 <div class="notice"><h3>Wieczorem uderzył nas ogrom motłochu na ulicach.</h3></div> Jeśli szukacie prażonej kukurydzy, magnesów na lodówkę, waty cukrowej, dudniących tandetą klubów i automatów do gier - jedźcie do Budvy. To będzie dla Was raj. Zrozumieliśmy dlaczego jest to tak popularne miejsce - to takie europejskie Przyjezierze. Kupiliśmy sobie wino i cydr, a potem uciekliśmy na jakąś plażę przy starym mieście. Nawet tam nie zaznaliśmy spokoju, ale było już znacznie lepiej.
 
+<img src="http://nikodamn.github.io/images/albania/5i6/36.jpg">
 
 Wypiliśmy wina i ponapawaliśmy się myślami o planach podróżniczych. Chłód morza wygonił nas później z powrotem do miasta. Poszliśmy jeszcze do knajpy w cichszej dzielnicy, gdzie wypiliśmy po drinku. Wyśmiewając różnice między Kotorem, a Budvą nie mogliśmy doczekać się jutrzejszego celu - nieznanej Albanii.
 
