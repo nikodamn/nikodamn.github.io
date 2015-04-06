@@ -16,17 +16,27 @@ O 6:30 opuściliśmy stację benzynową w Erd. Było to jakieś 20 km od Budapes
 </h3></div>
 Odczuwaliśmy spore zmęcznie po spotkaniu naszych pleców z kostką brukową. Naszym celem było kierowanie się stricte na południe drogami M6 lub 6. Stanęliśmy na drodze beznamiętnie wystawiając kciuka. Po kilkunastu minutach złapaliśmy dwóch młodych chłopaków. (Należy wspomnieć, że tutaj rozpoczęliśmy historię naszego rytuału. Gdy tylko zdjąłem kapelusz i Inga zrobiła kanapki - zawsze coś łapaliśmy. Natychmiast.) Czym prędzej wsiedliśmy do ich samochodu nie pytając nawet dokąd tak naprawdę jadą. Mimo, że nie mówili po angielsku to jeden z nich używał translatora w telefonie. Dowiedzieliśmy się, że zamiast na północ jedziemy... nad Balaton!
 
+<img src="http://nikodamn.github.io/images/albania/3i4/2.jpg">
+
 Balaton był początkowo w naszym planie, ale potem z niego zrezygnowaliśmy mając problemy z wydostaniem się z Budapesztu i jego przedmieść. Dużo słyszałem i czytałem o balatonowych plażach, polach namiotowych i imprezach. Ponadto nasi kierowcy opowiadali nam o tamtejszych festiwalach muzycznych. Szykował się bardzo upalny dzień, a my cieszyliśmy się z perspektywy południa spędzonego nad chłodzącą wodą.
 
 Koło godziny dziewiątej kąpaliśmy się już na pobliskiej plaży lub zwarzając na tamtejsze brukowe siedziska - "plaży". Zdziwiła nas płaskość i zwyczajność tego jeziora. No i jego płytkość! Trzeba przyznać, że miłe miejsce, ale historie jego popularności wydawały nam się lekko napompowane tanią turystyczną sensacją.
 
+<figure class="half">   
+    <img src="http://nikodamn.github.io/images/albania/3i4/1.jpg">
+    <img src="http://nikodamn.github.io/images/albania/3i4/4.jpg">
+</figure>
+
+<img src="http://nikodamn.github.io/images/albania/3i4/3.jpg">
 
 
 Wypoczeliśmy po niełatwej nocy, wymoczyliśmy ciałka, ale należało iść! Naszym celem było położone na południu miasteczko Pecs. Niestety droga z Sofiaka (czyli miasteczka, w którym wypoczywaliśmy nad wodą) prowadziła na Zagrzeb. Niosąc przeraźliwie ciężkie po zakupie dodatkowych zapasów wody i wina, plecaki dotarliśmy na dworzec autobusowo-kolejowy. Wymyśliliśmy sobie, że dotrzemy do Pecs pociągami. Nie pociągiem. Pociągami, bo czekały nas cztery przesiadki. Jednak to właśnie była cena zejścia z trasy nad Balaton i koniecznej chęci przejechania przez Bośnię i Hercegowinę.
 
+<img src="http://nikodamn.github.io/images/albania/3i4/5.jpg">
 
 Słońce, woda, a przede wszystkim poprzednia noc wyciągnęły z nas wszelkie siły. Odsypialiśmy to wszystko przesiadająć się żmudnie najpierw w Fonyod, potem w Kaposvar, następnie już tylko w Dombovar.
 
+<img src="http://nikodamn.github.io/images/albania/3i4/6.jpg">
 
 <div class="notice"><h3>Znaleźliśmy się w Pecs koło 18.</h3></div> Okazało się, że aby wyjść na trasę musimy jechać do Mohacz. Do pociągu dwie godziny, a droga do Mohacz daleko... Wzięliśmy taniutkiego busa i jakieś 50 minut później byliśmy w Mohacs. Tutaj znaki prosto wskazywały na oddaloną o 10 km graniczną miejscowość. Tuż obok drogi znajdowały się już tylko pola kukurydzy i znów symbol globalizmu - Tesco! Zrobiliśmy zapasowe zakupy (za ostatnie forinty) na wypadek konieczności rozbicia campingu w polu. Walka z czasem, albo raczej - ze światłem. Z każdą minutą mniej samochodów, z każdą minutą ciemniej.
 
