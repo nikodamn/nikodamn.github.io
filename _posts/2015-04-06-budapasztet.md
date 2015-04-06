@@ -7,7 +7,7 @@ excerpt: "Niełatwy początek podróży na Bałkany."
 tags: [budapeszt, podróże, autostop]
 image:
   feature: albania/1i2/24.jpg
-  teaser:
+  teaser: budapasztet_teaser.jpg
   thumb:
 date: 2013-08-02T17:15:40+02:00
 ---
@@ -72,11 +72,9 @@ Dalej jechaliśmy już do miejscowości Sahy czyli słowacko-węgierskiego przej
 Z samego rana dojechaliśmy na obwodnicę Budapesztu czyli tak zwany Budapest Ring. Ku naszemu zdziwieniu kierowca (który jechał do Turcji, a nie do centrum Budapesztu oczywiście) zamiast zostawić nas wcześniej na stacji benzynowej zatrzymał się na autostradzie (!!!) i wskazał zjazd, którym powinniśmy iść do miasta. Nie muszę chyba wspominać, że autostrady budowane są na największych możliwych zadupiach.
 
 <img src="http://nikodamn.github.io/images/albania/1i2/18.jpg">
-
-<figure class="half">   
-    <img src="http://nikodamn.github.io/images/albania/1i2/19.jpg">
-    <img src="http://nikodamn.github.io/images/albania/1i2/20.jpg">
-</figure>
+  
+<img src="http://nikodamn.github.io/images/albania/1i2/19.jpg">
+<img src="http://nikodamn.github.io/images/albania/1i2/20.jpg">
 
 Postawieni w tej no-kurde-raczej-trudnej sytuacji maszerowaliśmy słomianym poboczem mając na plecach ~17-sto kilogramowe plecaki w samo południe. Jednak najgorsze były pędzące po 120 km/h tuż obok nas samochody. Nie będę ukrywał, że miałem serce w przełyku. Na szczęście udało się dotrzeć do jakiejś drogi dojazdowej, jednak przez półtora godziny nikt się nie zatrzymał.
 
