@@ -9,7 +9,7 @@ image:
   feature: eurotrip/3/3.jpg
   teaser:
   thumb:
-date: 2015-04-06T22:13:17+02:00
+date: 2012-08-02T22:13:17+02:00
 ---
 
 Wypoczęci i jako-tako umyci w peronowym McDonaldsie wyruszyliśmy w kierunku upragnionego spotu na Hannover. Zręcznie nam poszło dotarcie do miejscowości pod Berlinem - Muchendorfu. Wysiadając czuliśmy się jak na dworcu w Inowrocławiu, co udowodnia poniższe zdjęcie.
