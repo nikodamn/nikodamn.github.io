@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Sarajewo I Balaton"
+title: "O zwiedzaniu Węgier i uciekaniu z Sarajewa"
 modified:
 categories: "Trips"
 excerpt:
@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
   thumb:
-date: 2015-04-06T16:37:33+02:00
+date: 2013-08-03T16:37:33+02:00
 ---
 <div class="notice"><h3>
 O 6:30 opuściliśmy stację benzynową w Erd. Było to jakieś 20 km od Budapesztu.
