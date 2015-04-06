@@ -7,9 +7,9 @@ excerpt: "...z noclegiem na pewnej stacji benzynowej."
 tags: [amsterdam, podróże, autostop]
 image:
   feature: eurotrip/5/1.jpg
-  teaser:
+  teaser: euro4_teaser.jpg
   thumb:
-date: 2013-08-04T22:46:17+02:00
+date: 2012-08-04T22:46:17+02:00
 ---
 
 Nadszedł czas powrotu. Oczywiście nie wiedzieliśmy jak wydostać się z Amsterdamu. Na polu kampingowym znajdowały się na szczęście porady dla stopowiczów, które wskazały nam kierunek podróży przez miasto. Około 18 załatwiliśmy jeszcze kilka spraw związanych z wyjątkowymi pamiątkami. Spotkaliśmy nawet zastanawiający krojony stolec pilnowany przez królika. (WTF?!)
