@@ -6,7 +6,7 @@ categories: "Trips"
 excerpt: "Niełatwy początek podróży na Bałkany."
 tags: [budapeszt, podróże, autostop]
 image:
-  feature:
+  feature: albania/1i2/24.jpg
   teaser:
   thumb:
 date: 2013-08-02T17:15:40+02:00
@@ -129,8 +129,11 @@ Upał minął, siły odpłynęły. Zaczęliśmy rozglądać się za jakimś obia
 
 Nasz Buda-pasztetowy dzień minął. Odnajdując na mapie połączenie do Savoy Park dojechaliśmy tramwajem na przedmieścia Budapesztu, które już nie wyglądały zbyt zachęcająco. Dalej dotarliśmy na poszukiwaną stację OMV, gdzie umyliśmy się i zdjedliśmy prowiantową kolację przy towarzystwie węgierskiego piwa.
 
+<img src="http://nikodamn.github.io/images/albania/1i2/38.jpg">
 
 Jak się okazało stacja OMV nad Dunajcem nie była dobrym rozwiązaniem łapania stopa, ale dzięki uprzejmości pewnego Węgra z polskimi korzeniami (który o dziwo fantastycznie mówił po angielsku!) dotarliśmy do niedalekiej miejscowości Erd.
+
+<img src="http://nikodamn.github.io/images/albania/1i2/39.jpg">
 
 <div class="notice"><h3>Mały wóz na stacji w Erd</h3></div>
 
@@ -143,6 +146,7 @@ Z tamtej nocy pamiętam jeszcze, że budząc się raz po raz udowadniałem Indze
 <div class="notice"><h3>
 Podsumowanie:
 </h3></div>
+<img src="http://nikodamn.github.io/images/albania/1i2/podsumowanie.png">
 
 <b>
 Dzień pierwszy i drugi<br>
