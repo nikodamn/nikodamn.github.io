@@ -9,7 +9,7 @@ image:
   feature: eurotrip/2/11.jpg
   teaser: euro_berlin_teaser.jpg
   thumb:
-date: 2013-07-30T18:52:29+02:00
+date: 2012-08-02T18:52:29+02:00
 ---
 Obudziliśmy się o siódmej rano nadal nie wierząc, że znaleźliśmy się w takiej dupie. Bez wody do picia i wody do mycia zaczęliśmy dopiero uczyć się zawodu blerwy. Krótko potrwała nasza radość, gdy Strefa ujęcia wody okazała się zatęchłym bagienkiem. Od jednego z drwali dowiedzieliśmy się, że najbliższe miasto w kierunku Kostrzyna jest oddalone o jakieś 30 km. Postanowiliśmy cofnąć się do Skwierzyny i szukać szczęścia z powrotem na A2. Szybko pomógł nam kolejny TIRowiec, który wioząc mrożone kurczaki dowiózł nas dalej niż chcieliśmy (ale w kierunku przeciwnym od granicy) - do Miedzichowa. Tutaj jednak znajdował się niezły spot do łapania - spora stacja benzynowa tuż przy A2. Tam mogliśmy jednak skorzystać z takich dobrodziejstw cywilizacyjnych jak woda czy zapiekanka.
 

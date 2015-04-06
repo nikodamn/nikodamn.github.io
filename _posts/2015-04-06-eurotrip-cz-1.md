@@ -9,7 +9,7 @@ image:
   feature: eurotrip/1/2.jpg
   teaser: euro2-teaser.jpg
   thumb:
-date: 2013-07-30T18:35:44+02:00
+date: 2012-08-01T18:35:44+02:00
 ---
 
 Może niezbyt chronologicznie, jednak dopóki wspomnienia są dość żywe warto odnotować najbardziej szalony aspekt tych wakacji - długo planowany eurotrip. Do ostatniego dnia termin ostatecznego wyjazdu w nieznane był przekładany, jednak 16. sierpnia o 10 znaleźliśmy się w końcu na drodze w kierunku Poznania.
