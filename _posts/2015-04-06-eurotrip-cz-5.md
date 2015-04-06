@@ -7,7 +7,7 @@ excerpt: "...z noclegiem na pewnej stacji benzynowej."
 tags: [amsterdam, podróże, autostop]
 image:
   feature: eurotrip/5/1.jpg
-  teaser: euro4_teaser.jpg
+  teaser: euro4-teaser.jpg
   thumb:
 date: 2012-08-04T22:46:17+02:00
 ---
