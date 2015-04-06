@@ -3,10 +3,10 @@ layout: article
 title: "Pasmo Wielkiej Raczy"
 modified:
 categories: "Trips"
-excerpt: "Pomaturalne góry we dwoje."
-tags: [góry, podróże]
+excerpt: "Pomaturalne Beskidy we dwoje."
+tags: [góry, podróże, beskidy]
 image:
-  feature:
+  feature: WielkaRacza/17.jpg
   teaser:
   thumb:
 date: 2012-08-08T23:15:21+02:00
