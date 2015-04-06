@@ -26,8 +26,6 @@ Jak szybko się okazało kierowca jechał w raz ze swoim ojcem do Tirany. Fuks n
 
 Rozmawiając o różnych aspektach naszych krajów przemierzaliśmy resztę czarnogórskiej riwiery.
 
-<img src="http://nikodamn.github.io/images/albania/7/4.jpg">
-
 <div class="notice"><h3>Była dopiero 11, gdy dotarliśmy na granicę.</h3></div> 
 Przekroczyliśmy ją pieszo i poczekaliśmy na wcześniej wspomnianego kierowcę po drugiej stronie bramek. Już po dwóch pierwszych krokach na granicy zahaczyło nas dwóch taksówkarzy z pytaniami o podwózkę. Nie byli natarczywi i uśmiechali się szeroko słysząc o autostopie. Poniżej pamiątkowe pierwsze zdjęcie w Albanii:
 
@@ -50,10 +48,8 @@ Swoją drogą ciekawy jest sposób prowadzenia busa. W firmie przewozowej zatrud
 
 Bus oczywiście też nie jeździł bezpiecznie, ale przynajmniej szybko. Kilka chwil po wyjechaniu z Tirany zaczęły rosnąć przed nami najpierw małe zielone wzgórza, a później monumentalne góry.
 
-<figure class="half">
-	<img src="http://nikodamn.github.io/images/albania/7/7.jpg">
-	<img src="http://nikodamn.github.io/images/albania/7/8.jpg">
-</figure>
+
+<img src="http://nikodamn.github.io/images/albania/7/7.jpg">
 
 <div class="notice"><h3>Czym dalej od stolicy tym było ciekawiej.</h3></div> 
 Oprócz cieszących oczy gór raz po raz pojawiały się spacerujące po krajowych drogach krowy, rolnicy jadący na swoich osiołkach albo zaparkowane mercedesy po środku niczego. Nie udało mi się zrobić zdjęcia żadnego z nich, ponieważ nasz bus jechał bardzo szybko nie zważając wcale na stan dróg. Trzymaliśmy się sufitu.
@@ -66,6 +62,8 @@ Po krótkiej przesiadce w Gjirokastrze czekał nas końcowy etap drogi. Niestety
 
 Po pokonaniu górskich serpentyn (btw, myślałem, że nie wyrobię...) dojechaliśmy do Sarande po 20. Było ciemno, ale miasto tętniło życiem. Początkowo zawiedzeni stwierdziliśmy, że jest to typowe miasteczko turystyczne. Na nasze zawiedzenie miały wpływ nie tylko tandetne stoiska, ale ciemność i brak upragnionych widoków (bo później nasze zdanie o Sarande uległo poprawie). Mijając tłumy turystów skoczyliśmy po klasyczne zakupy i piwa, a potem na pizzę, która - tu trzeba im oddać - była wybitna.
 
+
+<img src="http://nikodamn.github.io/images/albania/7/8.jpg">
 <img src="http://nikodamn.github.io/images/albania/7/3.jpg">
 
 Tuż po kolacji, gdy rozmyślaliśmy już, gdzie spędzić noc (bo nie mieliśmy żadnych wieści od obozu autostopowego) na ulicy zahaczyła nas właśnie para autostopowiczów! Porozmawialiśmy chwilę i szybko okazało się, że Polacy stacjonują 15 km od Sarande w miejscowośći Ksamil. Niestety nie był to dziki obóz (a tak miało być!) tylko pole kampingowe. Wiedząc tylko, że pole kampingowe opatrzone jest w namalowany farbą napis "CAMPING" postanowiliśmy spróbować tam się dostać. Stanęliśmy na jakiejś uliczce, praktycznie w środku miasta z nadzieją, ale bez jakiejś wielkiej wiary w powodzenie. Auta zatrzymywały się po kolei! Po około 15 minutach dwóch chłopaków z Albanii i ich koleżanka ze Szwecji mimo, że nie jechali w ogóle do Ksamila postanowili nas podwieźć. Ta szalona trójka jeździła razem z nami przez kilkadziesiąt minut szukając tajemniczego napisu. Ja przekręciłem imię właścicielki i jedyne, co wiedzieliśmy o tym polu to wspomniany napis. Zrezygnowani i sfrustrowani (choć w zabawnej atmosferze!) dotarliśmy w końcu, gdy po ustaleniu faktów Inga wypaliła nagle: - Ekhm, guys, I think I know where it is....
