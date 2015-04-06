@@ -3,7 +3,7 @@ layout: article
 title: "Szalony Amsterdam"
 modified:
 categories: "Trips" 
-excerpt: "Amerykańskie przyjaźnie w imprezy."
+excerpt: "Amerykańskie przyjaźnie w mieście imprezy."
 tags: [amsterdam, podróże, autostop]
 image:
   feature: eurotrip/4/17.jpg
