@@ -9,7 +9,7 @@ image:
   feature: /albania/7/4.jpg
   teaser: wybrzezem_teaser.jpg
   thumb:
-date: 2014-08-06T12:01:01+02:00
+date: 2013-08-06T12:01:01+02:00
 ---
 
 <div class="notice"><h3>Autostop wymaga wyrzeczeń. </h3></div>
