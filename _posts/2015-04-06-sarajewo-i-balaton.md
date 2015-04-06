@@ -77,10 +77,10 @@ Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im c
 
 Bus jest chyba bardzo popularnym środkiem komunikacji w Bośni, a biorąc pod uwagę górzystość terenów pewnie jedynym oprócz własnego auta. Niestety trasa biegła przez wszelkie znajdujące się po drodze wioski i wioseczki, dlatego godzina przyjazdu odwlekała się w nieskończoność. Widok za oknem budził grozę zmieszaną z poczuciem dzikiej cywilizacji. Przepiękne leśne góry i kaniony, a wśród nich schowane dawne zbombardowane domy lub ostrzelane budynki. Jadąc autobustem cieszyliśmy się, że skorzystaliśmy z rady bośniackich kolegów, gdyż na przystankach dało się zauważyć trochę mniej okrzesanych ludzi oraz stare beemki z przyciemnionymi szybami. No i raz stare, urocze babuszki!
 
-<figure class="half">   
-    <img src="http://nikodamn.github.io/images/albania/3i4/15.jpg">
-    <img src="http://nikodamn.github.io/images/albania/3i4/16.jpg">
-</figure>
+ 
+<img src="http://nikodamn.github.io/images/albania/3i4/16.jpg">
+<img src="http://nikodamn.github.io/images/albania/3i4/15.jpg">
+
 
 <div class="notice"><h3>Gdy dojechaliśmy było już bardzo ciemno, a nas czekała noc w środku miasta.</h3></div> W dodatku mówiąc o mieście nie wiedzieliśmy, że będąc w samym centrum stolicy najpierw przywita nas luksusowy hotel, a sekudnę potem żebracy, koty wyjadające jedzenie ze śmietników i dogorywające na ulicy psy. Widok straszliwy.
 
