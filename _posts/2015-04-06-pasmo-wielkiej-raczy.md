@@ -50,13 +50,25 @@ Po drodze cieszyliśmy się pięknymi widokami, lasem i jagodami. Szło się fan
 
 Na Przegibku było pięknie. Już wiedzieliśmy, że tutaj spędzimy trzecią noc. Rozbiliśmy namiot w sąsiedztwie konia wyglądającego jak krowa. Rozpoczęliśmy gotowanie obiadu (ach ten szakaron makaron!), leniwe palenie papierosów i spoglądanie na szczyty gór.
 
+<img src="http://nikodamn.github.io/images/WielkaRacza/11.jpg">
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/12.jpg">
+
 Wieczorem poznaliśmy dwóch sąsiadów z namiotu - Jacka i Krzyśka. Kolejorze rozpalili ognisko przy którym gawędząc przesiedzieliśmy do późna. Tysiące historii i miliony śmiesznych anegdot potwierdzały cudowny klimat tego miejsca.
 
+<img src="http://nikodamn.github.io/images/WielkaRacza/14.jpg">
+
 Kolejnego dnia, za radą Jacka, postanowiliśmy zostawić sprzęt i plecaki na Przegibku oraz spędzić tutaj kolejną noc. Wolne barki dodawały nam tempa. Zdobyliśmy szybko Rycerzową, a później Młodą Horę. Przepiękne miejsca. Szczególnie to drugie, w którym znaleźliśmy nasz przyszły dom. Ponadto widzieliśmy woody'ego woodpeckera.
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/15.jpg">
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/16.jpg">
 
 Po tych pięknych trasach będących prawdziwym odprężeniem ugotowaliśmy tradycyjny już obiad. Dalej czekała nas kolejna noc przy ognisku z kolejarzami. Nasze rozmowy, z dobrze już znanymi kumplami, wspomagaliśmy pysznym piwem z sąsiedniego Żywca. Dotarła do nas także trójka poznaniaków. Wyjątkowo dziwnych poznaniaków...
 
 Rano chłopacy powiedzieli, że podwiozą nas do Tych na dworzec. Nie mogliśmy obejść się ze szczęścia i podziwu dla narodu Ślązaków. Oczekując na luksusowy transport w postaci Volkswagena Polo mogliśmy się lenić.
+
+<img src="http://nikodamn.github.io/images/WielkaRacza/17.jpg">
 
 Dojechaliśmy do Tych. Stamtąd mieliśmy 3 godziny do pociągu. Długo zwiedzaliśmy miasto w poszukiwaniu za jedzeniem. W końcu udało się nam posilić i już kilka godzin później byliśmy w Bydgoszczy. Po drodze jednak krążyły plotki (a raczej rozsiewał je pewien staruszek), że pociąg jedzie przez Inowrocław z powodu awarii na torach, a we Francji wybuchła elektrownia atomowa...
 
