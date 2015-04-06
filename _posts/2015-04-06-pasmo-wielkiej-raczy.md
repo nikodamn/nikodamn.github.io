@@ -7,7 +7,7 @@ excerpt: "Pomaturalne Beskidy we dwoje."
 tags: [góry, podróże, beskidy]
 image:
   feature: WielkaRacza/17.jpg
-  teaser:
+  teaser: pasmo_teaser.jpg
   thumb:
 date: 2012-08-08T23:15:21+02:00
 ---
