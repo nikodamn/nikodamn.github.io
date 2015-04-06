@@ -42,12 +42,14 @@ Po całym dniu spędzonym na plaży postanowiliśmy poszukać mniej obleganego t
 </figure>
 
 <img src="http://nikodamn.github.io/images/albania/5i6/10.jpg">
-
+<br>
 <img src="http://nikodamn.github.io/images/albania/5i6/11.jpg">
 
 Z pomocą mapy łatwo wydostaliśmy się na drogę, gdzie było jednak sporo szybkiego ruchu. Niedługo zatrzymał się tubylec, który zaproponował zawiezienie nas w lepsze miejsce do łapania stopa. Dzięki niemu już chwilę później byliśmy na przystanku autobusowym za Dubrovnikiem i zatrzymaliśmy słoweńca, który wygodnym busikiem podrzucił nas kilkanaście kilometrów do lotniska w Cavtat.
 
-
+<img src="http://nikodamn.github.io/images/albania/5i6/12.jpg">
+<br>
+<img src="http://nikodamn.github.io/images/albania/5i6/13.jpg">
 
 Będąc już tak blisko granicy nie dawaliśmy za wygraną i chcieliśmy jeszcze tego dnia znaleźć się w Czarnogórze. Pomogli nam w tym zatrzymani Polacy z Białegostoku, którzy nadrobili 30 km drogi żeby zawieźć nas na przejście graniczne. Była 19.
 
