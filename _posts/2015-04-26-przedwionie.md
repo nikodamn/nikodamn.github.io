@@ -14,10 +14,10 @@ date: 2015-04-26T23:52:43+02:00
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/3.jpg">
 
-<class="half">
+<figure class="half">
     <img src="http://nikodamn.github.io/images/przedwiosnie/4.jpg">
     <img src="http://nikodamn.github.io/images/przedwiosnie/1.jpg">
-</class>
+</figure>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/2.jpg">
 <description>Jaki uśmiech!</description>
@@ -30,10 +30,10 @@ date: 2015-04-26T23:52:43+02:00
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/7.jpg">
 
-<class="half">
+<figure class="half">
     <img src="http://nikodamn.github.io/images/przedwiosnie/9.jpg">
     <img src="http://nikodamn.github.io/images/przedwiosnie/10.jpg">
-</class>
+</figure>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/12.jpg">
 
