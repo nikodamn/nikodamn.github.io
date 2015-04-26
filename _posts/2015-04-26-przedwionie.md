@@ -6,7 +6,7 @@ categories:
 excerpt:
 tags: []
 image:
-  feature:
+  feature: /images/11.jpg
   teaser:
   thumb:
 date: 2015-04-26T23:52:43+02:00
