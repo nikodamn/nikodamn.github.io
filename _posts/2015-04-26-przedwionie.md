@@ -20,3 +20,6 @@ date: 2015-04-26T23:52:43+02:00
 </class>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/2.jpg">
+<description>Jaki uśmiech!</description>
+
+<img src="http://nikodamn.github.io/images/przedwiosnie/5.jpg">
