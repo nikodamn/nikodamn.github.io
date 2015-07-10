@@ -2,15 +2,18 @@
 layout: article
 title: "Przedwiośnie"
 modified:
-categories: 
-excerpt:
+categories: "Trips"
+excerpt: "W poszukiwaniu słońca na szczytach połonin"
 tags: []
 image:
   feature: /przedwiosnie/11.jpg
-  teaser:
+  teaser: przedwiosnie_teaser.png
   thumb:
 date: 2015-04-26T23:52:43+02:00
 ---
+
+<div class="notice"><h3>
+Ucieczek ciąg dalszy.</h3></div>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/3.jpg">
 
@@ -20,7 +23,6 @@ date: 2015-04-26T23:52:43+02:00
 </figure>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/2.jpg">
-<description>Jaki uśmiech!</description>
 
 <img src="http://nikodamn.github.io/images/przedwiosnie/5.jpg">
 
