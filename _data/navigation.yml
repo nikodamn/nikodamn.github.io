@@ -10,3 +10,7 @@
   excerpt: "Who I am?"
   image: logo.jpeg
  
+- title: Test
+  url: /code/
+  excerpt: "About conding"
+  image: logo.jpeg

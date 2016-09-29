@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Every day make it Damn!
+title: Every day make it <div class="damn">Damn!</div>
 description: Learn from this mistake
 logo: logo.jpeg
 teaser: amsterdam.jpg

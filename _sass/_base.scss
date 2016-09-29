@@ -7,6 +7,10 @@ body {
 	@include font-size(16);
 }
 
+.damn {
+	color: #A42020;
+}
+
 p {
 	@include font-size(18,yes,28);
 }

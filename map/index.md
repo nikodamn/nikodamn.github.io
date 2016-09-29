@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kartki z podróży "
+title: "Check out my trips: "
 date: 
 modified:
 excerpt:
