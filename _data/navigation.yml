@@ -2,10 +2,11 @@
 
 - title: Trips
   url: /blog/
-  excerpt: "Kartki z pamiętnika"
+  excerpt: "Diares"
   image: trips.jpg
 
-- title: O mnie
-  url: /omnie/
-  excerpt: "Trochę o mnie"
+- title: About me
+  url: /about/
+  excerpt: "Who I am?"
   image: logo.jpeg
+ 
