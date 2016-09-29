@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>//nikodamn.github.io/sylwester-w-berlinie-czemu-nie/</loc>
+    <loc>//nikodamn.github.io/trips/zakinthos/</loc>
+    <lastmod>2015-12-10T19:09:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/lazurowewybrzeze/</loc>
+    <lastmod>2015-12-10T19:07:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/przedwionie/</loc>
+    <lastmod>2015-04-26T23:52:43+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/xxiv-r3b-czechy/</loc>
+    <lastmod>2015-01-16T16:14:49+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/sylwester-w-berlinie-czemu-nie/</loc>
     <lastmod>2015-01-10T23:08:45+01:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -21,34 +41,95 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//nikodamn.github.io/przez-albani-w-bieszczady/</loc>
+    <loc>//nikodamn.github.io/trips/przez-albani-w-bieszczady/</loc>
     <lastmod>2013-11-01T01:26:37+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//nikodamn.github.io/szybko-szybko-w-gry/</loc>
+    <loc>//nikodamn.github.io/trips/szybko-szybko-w-gry/</loc>
     <lastmod>2013-10-09T02:54:26+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//nikodamn.github.io/serbia-kanion-rzeki-tary/</loc>
+    <loc>//nikodamn.github.io/trips/serbia-kanion-rzeki-tary/</loc>
     <lastmod>2013-08-20T03:10:18+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//nikodamn.github.io/albaska-gocinno/</loc>
+    <loc>//nikodamn.github.io/trips/albaska-gocinno/</loc>
     <lastmod>2013-08-13T03:30:54+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//nikodamn.github.io/trips/albanska-riwiera/</loc>
+    <lastmod>2013-08-08T00:33:35+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/wybrzezem-obu-morz/</loc>
+    <lastmod>2013-08-06T12:01:01+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/dubrovnik-i-kotor/</loc>
+    <lastmod>2013-08-04T12:47:04+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/sarajewo-i-balaton/</loc>
+    <lastmod>2013-08-03T16:37:33+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/budapasztet/</loc>
+    <lastmod>2013-08-02T17:15:40+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/pasmo-wielkiej-raczy/</loc>
+    <lastmod>2012-08-08T23:15:21+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/eurotrip-cz-5/</loc>
+    <lastmod>2012-08-04T22:46:17+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/eurotrip-cz-4/</loc>
+    <lastmod>2012-08-03T22:30:48+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/eurotrip-cz-3/</loc>
+    <lastmod>2012-08-02T22:13:17+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/eurotrip-cz-2/</loc>
+    <lastmod>2012-08-02T18:52:29+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/trips/eurotrip-cz-1/</loc>
+    <lastmod>2012-08-01T18:35:44+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//nikodamn.github.io/</loc>
-    <lastmod>2015-01-11T16:56:45+01:00</lastmod>
+    <lastmod>2016-09-29T16:25:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>//nikodamn.github.io/omnie/</loc>
-    <lastmod>2015-01-11T16:56:45+01:00</lastmod>
+    <lastmod>2016-09-29T16:25:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//nikodamn.github.io/blog/</loc>
+    <lastmod>2016-09-29T16:25:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

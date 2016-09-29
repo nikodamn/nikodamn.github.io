@@ -9,7 +9,7 @@
     <subtitle>Learn from this mistake</subtitle>
     <link href="//nikodamn.github.io/atom.xml" rel="self"/>
     <link href="//nikodamn.github.io/" rel="alternate" type="text/html"/>
-    <updated>2015-01-11T16:56:45+01:00</updated>
+    <updated>2016-09-29T16:25:22+02:00</updated>
     <id>//nikodamn.github.io/</id>
     <author>
 			<name>Nikodem Hynek</name>
@@ -19,10 +19,166 @@
 
     
     <entry>
+        <title>Uroki wyspy Zakinthos</title>
+        <link href="//nikodamn.github.io/trips/zakinthos/"/>
+        <updated>2015-12-10T19:09:00+01:00</updated>
+        <id>//nikodamn.github.io/trips/zakinthos</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Soon.&lt;/h3&gt;&lt;/div&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Lazurowe wybrzeże... Stopem!</title>
+        <link href="//nikodamn.github.io/trips/lazurowewybrzeze/"/>
+        <updated>2015-12-10T19:07:00+01:00</updated>
+        <id>//nikodamn.github.io/trips/lazurowewybrzeze</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Soon.&lt;/h3&gt;&lt;/div&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Przedwiośnie</title>
+        <link href="//nikodamn.github.io/trips/przedwionie/"/>
+        <updated>2015-04-26T23:52:43+02:00</updated>
+        <id>//nikodamn.github.io/trips/przedwionie</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images//przedwiosnie/11.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Ucieczek ciąg dalszy.&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/4.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/10.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/13.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/14.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/15.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/16.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/17.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/przedwiosnie/18.jpg&quot; /&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>XXIV R3B: polsko-czeskie Góry Stołowe</title>
+        <link href="//nikodamn.github.io/trips/xxiv-r3b-czechy/"/>
+        <updated>2015-01-16T16:14:49+01:00</updated>
+        <id>//nikodamn.github.io/trips/xxiv-r3b-czechy</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images//rajd_czechy/8.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Jesienne rajdy mają swój wyjątkowy urok.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Po kolejnych wspaniałych wakacjach znowu dajesz się wciągnąć w wir obowiązków i odpowiedzialności. Ucieczka od tego w góry jest świetnym źródłem siły na kolejne miesiące.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/1.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/14.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Podróże pociągami w kierunku gór to też swojego rodzaju tradycja. Gnasz jak najszybciej przed siebie, żeby uciec.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/3.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/2.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/7.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Zła pogoda, buty zalane wodą i torfowiska, w których zatapiasz się po kolana szybko stają się wspaniałymi wspomnieniami, a nie udręką. Wszystko to dobrze zakrapiane świetną atmosferą.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/16.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/10.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Idąc w góry ramię w raię z innymi idziesz szukać siebie…&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/12.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/13.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/9.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;…i wtedy dowiadujesz się, że w głębi duszy jesteś hiszpańskojęzycznym indianinem, który koniecznie chce zagrać na tym przeklętym puzonie!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/11.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.com/images/rajd_czechy/5.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
         <title>Sylwester W Berlinie? Czemu nie!</title>
-        <link href="//nikodamn.github.io/sylwester-w-berlinie-czemu-nie/"/>
+        <link href="//nikodamn.github.io/trips/sylwester-w-berlinie-czemu-nie/"/>
         <updated>2015-01-10T23:08:45+01:00</updated>
-        <id>//nikodamn.github.io/sylwester-w-berlinie-czemu-nie</id>
+        <id>//nikodamn.github.io/trips/sylwester-w-berlinie-czemu-nie</id>
         <author>
 					<name>Nikodem Hynek</name>
 					<uri>//nikodamn.github.io/</uri>
@@ -30,7 +186,7 @@
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images//berlin/3.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;h1&gt;Przepis na udanego Sylwestra:&lt;/h1&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h1&gt;Przepis na udanego Sylwestra:&lt;/h1&gt;&lt;/div&gt;
 
 &lt;h2&gt;1. Zachoruj.&lt;/h2&gt;
 &lt;p&gt;Podróżowanie w pełni sił jest nudne. Znacznie ciekawsze jest użeranie się z licznymi pociągami w samym środku grudnia, gdy masz 38 stopni gorączki!&lt;/p&gt;
@@ -51,7 +207,7 @@
 &lt;/figure&gt;
 
 &lt;h2&gt;5. Poznaj obcych ludzi.&lt;/h2&gt;
-&lt;p&gt;Mogą to być chociażby Włosi - Alessandro, Filippo i Ricardio (Człowiek Serce) czyli przypadkowych trzech typów, którzy zostali sami z torbą alkoholu i szukają pomocy w jego wypiciu. Najlepiej niech tylko jeden mówi po angielsku, drugi mówi tylko “I am shite. Go to bed.”, a trzeci nagle znika. Ale spoko i tak znajdzie się jakby nigdy nic. &lt;/p&gt;
+&lt;p&gt;Mogą to być chociażby Włosi - Alessandro, Filippo i Ricardio (Człowiek Serce) czyli przypadkowych trzech typów, którzy zostali sami z torbą alkoholu i szukają pomocy w jego wypiciu. Najlepiej niech tylko jeden mówi po angielsku, drugi mówi tylko “I am shite. Go to bed.”, a trzeci nagle znika. Ale spoko i tak znajdzie się jakby nigdy nic.&lt;/p&gt;
 
 &lt;h2&gt;6. Wymyśl pieśń bojową.&lt;/h2&gt;
 &lt;p&gt;Najlepiej w obcym języku. Może być o tym, jak Twój nowopoznany kolega ma wypierdalać. Mimo, że szukaliście go przez dobrą godzinę. &lt;i&gt;Filippo, Filippo, vafancullo!&lt;/i&gt; Pamiętaj aby na każdym filmiku śpiewać ją co sił. Dotyczy także wywiadu z krajową telewizją RTL.&lt;/p&gt;
@@ -86,27 +242,29 @@
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images/wenecja.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Trzeci dzień naszej podróży rozpoczęliśmy w chłodnym wietrze otaczających nas Alp. Była 8 rano, słońce dopiero się budziło, a my zwijaliśmy nasz dwuosobowy, przenośny domek. Jeszcze ostatni gorący prysznic, zapłacić za pole i lecimy do Włoch!&lt;/p&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Trzeci dzień podróży rozpoczęliśmy w chłodnym wietrze otaczających nas Alp.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Była 8 rano, słońce dopiero się budziło, a my zwijaliśmy nasz dwuosobowy, przenośny domek. Jeszcze ostatni gorący prysznic, zapłacić za pole i lecimy do Włoch!&lt;/p&gt;
 
-&lt;p&gt;Kilkaset metrów od pola prowadziła droga w kierunku Lienz i dalej przejścia granicznego Austria-Włochy. Na okazję czekaliśmy może 10 minut, gdy zatrzymał się Austriak jadący do pracy. Prosto do Lienz! Dzięki świetnym drogom byliśmy tam już po krótkiej chwili minąwszy kolejne bajkowe, austryjackie uliczki.&lt;/p&gt;
+&lt;p&gt;Kilkaset metrów od pola prowadziła droga w kierunku Lienz i dalej przejścia granicznego Austria-Włochy. Na okazję czekaliśmy może 10 minut, gdy zatrzymał się Austriak jadący do pracy. Prosto do Lienz! Dzięki świetnym drogom byliśmy tam już po krótkiej chwili minąwszy kolejne &lt;b&gt;bajkowe, austryjackie uliczki.&lt;/b&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/1.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;W Lienz tuż przy rondzie napotkaliśmy dwie osoby łapiące stopa, ale była to jakaś starsza pani i (chyba) robotnik, żadni podróżnicy. Tu również nie czekaliśmy długo, bo po kilku selfies złapaliśmy kolejną parę, również austriaków. Jechali do granicy. Szalenie fajne jest to, że mimo iż nie znali angielskiego albo nie chciało im się gadać to nam pomogli.&lt;/p&gt;
+&lt;p&gt;W Lienz tuż przy rondzie napotkaliśmy dwie osoby łapiące stopa, ale była to jakaś starsza pani i (chyba) robotnik, żadni podróżnicy. Tu również nie czekaliśmy długo, bo po kilku selfies złapaliśmy kolejną parę, również austriaków. Jechali do granicy. &lt;b&gt;Szalenie fajne jest to, że mimo iż nie znali angielskiego albo nie chciało im się gadać to nam pomogli.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;W środku miasteczka, na bardzo wąskiej uliczce łapaliśmy dobry kwadrans. Mnóstwo aut na włoskich blachach przejeżdżało tą drogą, ale nikt się nie zatrzymywał. Rosło w nas przekonanie o problemach ze stopem w tamtych kraju. Dopiero przejeżdżający tam młody Szwajcar przewiózł nas do Tolbach już we Włoszech, gdzie mieliśmy wysiąść na skrzyżowaniu prowadzącym prosto na południe. W tamtym miejscu urosły już potężne, tym razem włoskie, górzyska.&lt;/p&gt;
 
-&lt;p&gt;Chwilę pośmieszkowaliśmy, jakieś zdjęcie i bach - kolejny samochód. A co najlepsze - wymarzony Volkswagen “ogórek”. To drugi raz, gdy zatrzymał nam się taki samochód, za pierwszym razem było to przy okazji stopowania do Amsterdamu w maju. Okazało się, że to para z Niemiec, która jedzie prosto do… Wenecji! Niesamowity fuks. Szczęśliwi byliśmy tym bardziej, że mówili świetnie po angielsku. Droga upływała nam w błogiej atmosferze pięknych widoków i miłych rozmów. No i świetnego, wygodnego wnętrza hipisowskiego “ogórka”.&lt;/p&gt;
+&lt;p&gt;Chwilę pośmieszkowaliśmy, jakieś zdjęcie i bach - kolejny samochód. A co najlepsze - &lt;b&gt;wymarzony Volkswagen “ogórek”.&lt;/b&gt; To drugi raz, gdy zatrzymał nam się taki samochód, za pierwszym razem było to przy okazji stopowania do Amsterdamu w maju. Okazało się, że to para z Niemiec, która jedzie prosto do… Wenecji! Niesamowity fuks. Szczęśliwi byliśmy tym bardziej, że mówili świetnie po angielsku. Droga upływała nam w błogiej atmosferze pięknych widoków i miłych rozmów. No i świetnego, wygodnego wnętrza hipisowskiego “ogórka”.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/2.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Gdy dojeżdżaliśmy na miejsce okazało się, że jadą oni nie do Wenecji, bo tam nie można wjeżdżać samochodem, a nieopodal - na plażę. Byli tak uprzejmi, że podrzucili nas na prom. Ostatnie minuty podróży minęły nam w stresie, bo Indze wypadł gdzieś telefon. Mieliśmy nadzieję, że nie na postoju, a w samochodzie. Szczęśliwie telefon znalazł się we wnętrzu samochodu, mogliśmy iść na prom. Był środek dnia, ogromny upał, a my płynęliśmy promem do upragnionej Wenecji!&lt;/p&gt;
+&lt;p&gt;Gdy dojeżdżaliśmy na miejsce okazało się, że jadą oni nie do Wenecji, bo tam nie można wjeżdżać samochodem, a dość blisko - na plażę. Byli tak uprzejmi, że podrzucili nas na prom. Ostatnie minuty podróży minęły nam w stresie, bo Indze wypadł gdzieś telefon. Mieliśmy nadzieję, że nie na postoju, a w samochodzie. Szczęśliwie telefon znalazł się we wnętrzu samochodu, mogliśmy iść na prom. Był środek dnia, ogromny upał, a my płynęliśmy promem do upragnionej Wenecji!&lt;/p&gt;
 
-&lt;p&gt;Wysiedliśmy i uderzył nas ogrom turystów i upał. Szybko zjedliśmy coś, zdjęliśmy bluzy i ruszyliśmy zwiedzać. Wenecja rzeczywiście zachwyca urokiem kanałów, uliczek i pięknych katedr. Jednak wspomniane uliczki nabierają klimatu dopiero, gdy wyjdzie się z tych obleganych przez turystów. Po obejrzeniu kilku ważniejszych miejsc poszliśmy po białe wino, które szybko wypiliśmy wpatrzeni w piękne balkony mieszkań.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Gdy wysiedliśmy uderzył nas ogrom turystów i upał.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Szybko zjedliśmy coś, zdjęliśmy bluzy i ruszyliśmy zwiedzać. Wenecja rzeczywiście zachwyca urokiem kanałów, uliczek i pięknych katedr. Jednak wspomniane uliczki nabierają klimatu dopiero, gdy wyjdzie się z tych obleganych przez turystów. Po obejrzeniu kilku ważniejszych miejsc poszliśmy po białe wino, które szybko wypiliśmy wpatrzeni w piękne balkony mieszkań.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/3.jpg&quot; /&gt;
@@ -125,7 +283,7 @@
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/7.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Potem nadszedł czas na jakiś plan. Vicky mówiła Indze, że koniecznie trzeba znaleźć miejsce zwane Campo S. Margarita, w którym to młodzi ludzie spotykają się żeby jeść pizzę i upijać się winami. Brzmiało dobrze! Z mapą w dłoniach szukaliśmy tego miejsca naprawdę długo. Dzięki temu zwiedziliśmy sporą część Wenecji i trzeba przyznać, że kanały (które, btw, wcale nie śmierdzą!) są tam naprawdę oblegane przez wszystkich mieszkańców. Czym dalej od centrum, tym lepiej było widać naturalną Wenecję - trochę obdrapaną, ale tym bardziej piękną i naturalną.&lt;/p&gt;
+&lt;p&gt;Potem nadszedł czas na jakiś plan. Vicky mówiła Indze, że koniecznie trzeba znaleźć miejsce zwane &lt;b&gt;Campo S. Margarita&lt;/b&gt;, w którym to młodzi ludzie spotykają się żeby jeść pizzę i upijać się winami. Brzmiało dobrze! Z mapą w dłoniach szukaliśmy tego miejsca naprawdę długo. Dzięki temu zwiedziliśmy sporą część Wenecji i trzeba przyznać, że kanały (które, btw, wcale nie śmierdzą!) są tam naprawdę oblegane przez wszystkich mieszkańców. Czym dalej od centrum, tym lepiej było widać naturalną Wenecję - trochę obdrapaną, ale tym bardziej piękną i naturalną.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/9.jpg&quot; /&gt;
@@ -139,7 +297,7 @@
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/11.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;W końcu dotarliśmy na wspomniany plac i nie mogliśmy uwierzyć, że to te miejsce, bo nie było tam żadnej hucznej imprezy. Niedługo zaczynał się wieczór, nie mieliśmy planów na nocleg. Napisaliśmy na facebookowej grupie ‘przenocuj mnie, jestem w dupie’, bo mój telefon z internetem zaraz miał się rozładować. Żadnego odzewu. Potem okazało się, że odezw był, ale na facebooku nie smsem… Cóż, planem stało się picie całą noc i ‘jakoś to przecież będzie’. &lt;/p&gt;
+&lt;p&gt;W końcu dotarliśmy na wspomniany plac i nie mogliśmy uwierzyć, że to te miejsce, bo nie było tam żadnej hucznej imprezy. Niedługo zaczynał się wieczór, &lt;b&gt;nie mieliśmy planów na nocleg.&lt;/b&gt; Napisaliśmy na facebookowej grupie ‘przenocuj mnie, jestem w dupie’, bo mój telefon z internetem zaraz miał się rozładować. Żadnego odzewu. Potem okazało się, że odezw był, ale na facebooku nie smsem… Cóż, planem stało się picie całą noc i ‘jakoś to przecież będzie’.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/8.jpg&quot; /&gt;
@@ -147,7 +305,9 @@
 
 &lt;p&gt;Zrobiliśmy zakupy i mocno zmęczeni chodzeniem z plecakami w upale zjedliśmy pizzę i zaczęliśmy pić. Dołączyliśmy do grupki metali pijących przy studni i od słowa do słowa nawiązały nam się dość ciekawe dyskusje. W pamięci na pewno zachowam Marco - wielkiego fana black metalu, krytyka religi i polityki swojego państwa. Piliśmy mnóstwo wina, ale spróbowałem też anyżowej wódki. Upiliśmy się nieźle, zrobił się środek nocy. Ekipa powoli zaczęła się zwijać, a my… Zostaliśmy na ławce na Campo, gdzie Ingula przekulała się do rana w moich ramionach.&lt;/p&gt;
 
-&lt;p&gt;Z samego rana wybraliśmy pierwszą lepszą miejscowość z okolicy Wenecji, która leżała nad morzem. W planie mieliśmy odespać tą noc na plaży i trochę popływać. Padło na Chioggię, do której dostaliśmy się autobusem. W autobusie pewien murzyn pokierował nas gdzie wysiąść na przepięknej plaży. Mimo, że dzień był pochmurny i rano trochę padało to słodko odsypaliśmy sobie na tamtejszych leżakach, a później zgodnie z plażem zaliczyliśmy pływanie.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Z samego rana wybraliśmy pierwszą lepszą miejscowość z okolicy Wenecji, która leżała nad morzem.&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;W planie mieliśmy odespać tą noc na plaży i trochę popływać. Padło na Chioggię, do której dostaliśmy się autobusem. W autobusie pewien murzyn pokierował nas gdzie wysiąść na przepięknej plaży. Mimo, że dzień był pochmurny i rano trochę padało to słodko odsypaliśmy sobie na tamtejszych leżakach, a później zgodnie z plażem zaliczyliśmy pływanie.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/13.jpg&quot; /&gt;
@@ -162,17 +322,21 @@
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/16.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Warto wspomnieć, że okolice Wenecji są naprawdę obrzydliwie. Same płaskie, niezagospodarowane tereny lub strefy industrialne. Chioggia natomiast była typowym kurortem. Oprócz hoteli i plaż to miasto nie miało nic do zaoferowania. Na obiad wybraliśmy się na tanie i naprawdę marne jedzenie - carbonarę i lasagne. Zawiodło nas to trochę, więc postanowiliśmy poszukać supermarketu. Błądziliśmy, ale udało się trafić do Lidla, gdzie ogromnie się obłowiliśmy w szelkiej maści owoce, wina i inne smakołyki. Resztę dnia byczliśmy się na plaży, już w trochę lepszej pogodzie. Noc planowaliśmy spędzić na plaży. W końcu rozbiliśmy się pod domkiem ratowniczym w ochronie przed deszczem. Było przyjemnie, mimo sztormu na morzu dopóki nie wypędził nas jakiś dziadek pilnujący prywatnej plaży. Przenieśliśmy się w inne, jak się okazało lepsze miejsce.&lt;/p&gt;
+&lt;p&gt;Warto wspomnieć, że &lt;b&gt;okolice Wenecji są naprawdę obrzydliwie.&lt;/b&gt; Same płaskie, niezagospodarowane tereny lub strefy industrialne. Chioggia natomiast była typowym kurortem. Oprócz hoteli i plaż to miasto nie miało nic do zaoferowania. Na obiad wybraliśmy się na tanie i naprawdę marne jedzenie - carbonarę i lasagne. Zawiodło nas to trochę, więc postanowiliśmy poszukać supermarketu. Błądziliśmy, ale udało się trafić do Lidla, gdzie ogromnie się obłowiliśmy w szelkiej maści owoce, wina i inne smakołyki. Resztę dnia byczliśmy się na plaży, już w trochę lepszej pogodzie. Noc planowaliśmy spędzić na plaży. W końcu rozbiliśmy się pod domkiem ratowniczym w ochronie przed deszczem. Było przyjemnie, mimo sztormu na morzu dopóki nie wypędził nas jakiś dziadek pilnujący prywatnej plaży. Przenieśliśmy się w inne, jak się okazało lepsze miejsce.&lt;/p&gt;
 
 &lt;p&gt;Rano nasze humory popsuł szampon, który wylał się w Ingi plecaku i nagły deszcz. Mimo tego tej nocy byliśmy już w cudownej Peruggi, ale o tym w następnym odcinku.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Dzień 3. i 4. &lt;br /&gt;
-Liczba autostopów: 4 &lt;br /&gt;
-Przejechanych: 404 km&lt;/b&gt;&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/wenecja/mapa.jpg&quot; /&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Dzień 3. i 4. &lt;br /&gt;
+Liczba autostopów: 4 &lt;br /&gt;
+Przejechanych: 404 km&lt;/b&gt;&lt;/p&gt;
 
         </content>
     </entry>
@@ -189,17 +353,21 @@ Przejechanych: 404 km&lt;/b&gt;&lt;/p&gt;
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images//fioletowa_krowa/1.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Długo wyczekiwana podróż w norweskie fiordy spontanicznie przerodziła się w podróż do Włoch. Komfort, pieniądze, ilość samochodów, ale chyba przede wszystkim pogoda - to wszystko przemawiało za tym by krainy wikingów odłożyć na następny raz, a teraz spełnić marzenie o zwiedzaniu Toskanii.&lt;/p&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Długo wyczekiwana podróż w norweskie fiordy spontanicznie przerodziła się w podróż do Włoch.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Komfort, pieniądze, ilość samochodów, ale chyba przede wszystkim pogoda - to wszystko przemawiało za tym by krainy wikingów odłożyć na następny raz, a teraz spełnić marzenie o zwiedzaniu Toskanii.&lt;/p&gt;
 
-&lt;p&gt;Podróż znów zaczęliśmy pociągiem by nie tłuc się przez Polskę. Tym razem do Bielska-Białej. Dojechaliśmy koło 8 rano i z niemiałym trudem znaleźlismy drogę wylotową na Cieszyn. Potwierdza się moja teoria, że najtrudniej jest zacząć poszukując autostopowego flow. Nie czekaliśmy długo, bo koło 10 zabrał nas samochód prosto na przejście graniczne w Cieszynie. Był to Czech, pierwszy w mojej autostopowej mini-karierze.&lt;/p&gt;
+&lt;p&gt;Podróż znów zaczęliśmy pociągiem by nie tłuc się przez Polskę. Tym razem do Bielska-Białej. Dojechaliśmy koło 8 rano i z niemiałym trudem znaleźlismy drogę wylotową na Cieszyn. Potwierdza się moja teoria, że najtrudniej jest zacząć poszukując autostopowego flow. Nie czekaliśmy długo, bo koło 10 zabrał nas samochód prosto na przejście graniczne w Cieszynie. &lt;b&gt;Był to Czech, pierwszy w mojej autostopowej mini-karierze.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Na przejściu granicznym popytaliśmy kilku tirowców i większość pauzowała. Była mała szansa, że ktoś jedzie na Wiedeń, aczkolwiek koło 13 tranzyt miał znów ruszać. Nie czekaliśmy z założonymi rękoma tylko łapaliśmy okazje na rozwidleniu drogi. Po pół godziny przejeżdżał samochód z wielką instalacją na dachu przez co wyglądał jak czołg. Śmialiśmy się, że czołgiem jeszcze nie jechaliśmy. Samochód się zatrzymał. -Brno? -Brno, dawaj! -Ale jadę z tamtą dziewczyną. -Jakoś się pomieścimy.&lt;/p&gt;
 
-&lt;p&gt;Po kilku chwilach okazało się, że nie tylko Brno, nie tylko Wiedeń i nie tylko Klagenfurt. Chłopak, ktory na imię miał Mikołaj jechał w raz ze swoją ogromną lotnią na zjazd lotniarzy i paralotniarzy na południe Austrii - do Greifenburga, tuż przy granicy z Włochami. Ogromny fuks na sam początek! Uradowani, że tego wieczora będziemy już tak blisko mijaliśmy kolejne kilometry.&lt;/p&gt;
+&lt;p&gt;Po kilku chwilach okazało się, że nie tylko Brno, nie tylko Wiedeń i nie tylko Klagenfurt. Chłopak, ktory na imię miał Mikołaj &lt;b&gt;jechał w raz ze swoją ogromną lotnią na zjazd lotniarzy i paralotniarzy na południe Austrii&lt;/b&gt; - do Greifenburga, tuż przy granicy z Włochami. Ogromny fuks na sam początek! Uradowani, że tego wieczora będziemy już tak blisko mijaliśmy kolejne kilometry.&lt;/p&gt;
 
 &lt;p&gt;Jak to na autostradzie - ogromna nuda, którą rekompensowała nam rozmowa z Mikołajem. Lecący w tle set muzyki minimal trochę nużył, więc zdrzemnęliśmy się nie raz. Ciekawe widoki zaczęły pojawiać się dopiero na południu Austrii około 100 km za Wiedniem. Rosnące znikąd góry poprawiały samopoczucie tym bardziej, że pogoda szczególnie dopisywała.&lt;/p&gt;
 
-&lt;p&gt;Przed 20 byliśmy na miejscu. Okazało się, że Mikołaj w raz z innymi lotniarzami śpią na tamtejszym polu campingowym. Stwierdziliśmy, że to doskonała okazja na nocleg, więc zabraliśmy się z nim. Przywitał nas przeszywający do szpiku kości chłód gór. Pole kempingowe położone było w dolnie Alp. Później dowiedzieliśmy się, że w nocy było koło 8 stopni! Szybko rozbiliśmy namiot i zabraliśmy się do picia zakupionych wcześniej austriackich browarów. Były wspaniałe! Wpatrzeni w szczyty gór i niesamowity widok Drogi Mlecznej siedzieliśmy do późna.&lt;/p&gt;
+&lt;p&gt;Przed 20 byliśmy na miejscu. Okazało się, że Mikołaj w raz z innymi lotniarzami śpią na tamtejszym polu campingowym. Stwierdziliśmy, że to doskonała okazja na nocleg, więc zabraliśmy się z nim.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Przywitał nas przeszywający do szpiku kości chłód gór.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Pole kempingowe położone było w dolnie Alp. Później dowiedzieliśmy się, że w nocy było koło 8 stopni! Szybko rozbiliśmy namiot i zabraliśmy się do picia zakupionych wcześniej austriackich browarów. Były wspaniałe! Wpatrzeni w szczyty gór i niesamowity widok Drogi Mlecznej siedzieliśmy do późna rozmawiając.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/fioletowa_krowa/2.jpg&quot; /&gt;
@@ -228,7 +396,7 @@ Przejechanych: 404 km&lt;/b&gt;&lt;/p&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/fioletowa_krowa/7.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Później poszliśmy nad jeziorko alpejskie (3 euro/os, pozdro bijacz) tuż przy naszym ekskluzywnym polu. Woda była przeraźliwie lodowata, ale trochę się popluskaliśmy i pozjeżdżaliśmy do wody. Później słodki, błogi chillout w słońcu aż do wieczora, który był kontynuacją odpoczynku. Był to jeden z ostatnich takich chilloutów w naszej podróży, ale przecież nie mogliśmy tego wtedy wiedzieć!&lt;/p&gt;
+&lt;p&gt;Później poszliśmy nad jeziorko alpejskie (3 euro/os, pozdrawiam) tuż przy naszym ekskluzywnym polu. Woda była przeraźliwie lodowata, ale trochę się popluskaliśmy i pozjeżdżaliśmy do wody. Później słodki, błogi chillout w słońcu aż do wieczora, który był kontynuacją odpoczynku. (A może efektem szoku tlenowego?) Był to jeden z ostatnich takich chilloutów w naszej podróży, ale przecież nie mogliśmy tego wtedy wiedzieć!&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/fioletowa_krowa/9.jpg&quot; /&gt;
@@ -239,19 +407,24 @@ Przejechanych: 404 km&lt;/b&gt;&lt;/p&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/fioletowa_krowa/11.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;b&gt;Dzień 1. i 2. &lt;br /&gt;
-Liczba autostopów:  &lt;br /&gt;
-Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;
+&lt;/div&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;//nikodamn.github.io/images/fioletowa_krowa/mapa.jpg&quot; /&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;&lt;b&gt;Dzień 1. i 2. &lt;br /&gt;
+Liczba autostopów:  &lt;br /&gt;
+Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
+
         </content>
     </entry>
     
     <entry>
-        <title>XXI R3B: Góry Sowie</title>
+        <title>XXI R3B: Góry Sowie i Stołowe</title>
         <link href="//nikodamn.github.io/trips/xxi-r3b-gry-sowie/"/>
         <updated>2013-12-08T03:37:09+01:00</updated>
         <id>//nikodamn.github.io/trips/xxi-r3b-gry-sowie</id>
@@ -264,14 +437,15 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
         	&lt;img src=&quot;//nikodamn.github.io/images//sowie/1.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Zakręcony w nowej codzienności wciąż odkładałem pamiętnikowe wyznania po kolejnym R3B. Dziś czas ująć słowa w permutacje kliknięć klawiatury, póki nie umarły jeszcze wszystkie z komórek mojego mózgu.&lt;/p&gt;
 
-&lt;p&gt;Natknąłem się na słowa trafiające w sedno rzeczy: &lt;br /&gt;
-&lt;i&gt;Dlaczego chodzimy w góry? Bo są. - George Mallory&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Natknąłem się na słowa trafiające w sedno rzeczy: &lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;Dlaczego chodzimy w góry? Bo są. - George Mallory&lt;/blockquote&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/sowie/3.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Podróż zaczęliśmy w czwartek pociągiem relacji Poznań - Wrocław. Postanowiliśmy odwiedzić ekipę Wrocławską przy tej okazji. Dotarliśmy na miejsce przed 12. Po spędzeniu miło kilku godzin położyliśmy się. Na pociąg do Wałbrzycha należało wstać skoro świt.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Podróż zaczęliśmy w czwartek pociągiem relacji Poznań - Wrocław.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Postanowiliśmy odwiedzić ekipę Wrocławską przy tej okazji. Dotarliśmy na miejsce przed 12. Po spędzeniu miło kilku godzin położyliśmy się. Na pociąg do Wałbrzycha należało wstać skoro świt.&lt;/p&gt;
 
 &lt;p&gt;Gdy dotarliśmy o 8 do Wałbrzycha Głównego czułem się wyjęty z kontekstu. Całą drogę odsypiałem i obudziłem się na pustym, zrujnowanym dworcu po środku niczego. Czy jak kto woli - Wałbrzycha. Mimo, że próbowałem namówić miasto (Wałbrzych bawimy się!) do imprezy to zaczęło rozkręcać się chwilę później, gdy dotarła reszta znajomych. Byliśmy już prawie w komplecie. Końcowy element układanki rajdu stanowiły embriony w liczbie ~25.&lt;/p&gt;
 
@@ -312,7 +486,8 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
 	&lt;figcaption&gt;By Adrianna Tarnowski/Adrianna Gądek&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Kac miażdżył głowę kolejnego poranka, ale oczywiście nie można było się poddać. Czekała nas długa trasa. Zdobyliśmy Wielką Sowę i nawet wdrapaliśmy się na tamtejszą wieżę widokową. Podobno było widać Wrocław. Podobno.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Kolejnego poranka kac miażdżył mi głowę.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Czekała nas długa trasa. Zdobyliśmy Wielką Sowę i nawet wdrapaliśmy się na tamtejszą wieżę widokową. Podobno było widać Wrocław. Podobno.&lt;/p&gt;
 
 &lt;p&gt;Wędrowaliśmy początkowo przez lasy Gór Sowich, a później przez malejące pagórki aż dotarliśmy w zamieszkane doliny. Szliśmy przepięknymi wioskami, gdzie nie zastaliśmy praktycznie ani jednej duszy. Weszliśmy także na zamek w jednej z okolicznych miejscowości. Odpoczynek i można wracać, oczywiście stopem.&lt;/p&gt;
 
@@ -336,7 +511,8 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Wykończeni ponad piętnastokilometrową trasą łapaliśmy stopa w trójkę. Przez pół godziny prób (a raczej “prób”, bo trochę się leniliśmy pod sklepem w towarzystwie kilku kotów) podjechaliśmy kawałek busem. Trzeba było iść, bo nic nie jeździło. W końcu samochód - łapiemy. I co? Irek! Mimo, że jechaliśmy w szóstkę to byliśmy na miejscu pierwsi. Cały wieczór śpiewów i piwa przed nami!&lt;/p&gt;
 
-&lt;p&gt;Poranek już lżejszy. Przy widoku zamglonych dolinek ruszyliśmy… do podstawionego autobusu, który podwiózł nas spory kawałek. Nasz cel - Szczeliniec, czyli Góry Stołowe. Znowu przygrywała nam piękna pogoda i szło się wspaniale. Może oprócz ostatniego podejścia, ale ono trwało tylko kilkanaście minut. Byliśmy już na obiad. Mogliśmy podziwiać piękne widoki z ponad wielkiej, trochę przerażającej, skały.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Przy widoku zamglonych dolinek ruszyliśmy... &lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;…do podstawionego autobusu, który podwiózł nas spory kawałek. :) Nasz cel - Szczeliniec, czyli Góry Stołowe. Znowu przygrywała nam piękna pogoda i szło się wspaniale. Może oprócz ostatniego podejścia, ale ono trwało tylko kilkanaście minut. Byliśmy już na obiad. Mogliśmy podziwiać piękne widoki z ponad wielkiej, trochę przerażającej, skały.&lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/sowie/12.jpg&quot; /&gt;
@@ -349,18 +525,21 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Wieczorem przy biesiadowaniu przyszli do nas GOPRowcy. Dziewczyny podrywane przez nich “na nocny spacerek” sprytnie zorganizowały wyprawę całej dwudziestce! To dopiero była frajda - chodzić po skalnym piekełku, czyli wąskich szczelinach, między i pod skałami w kompletnej ciemności, ale mając w myślach fakt, że są obok nas GOPRowcy. Potem podziękowaliśmy im piwem. Spędziłem kilka godzin na rozmowach z nimi i czytaniu jakiś starych czasopism science-fiction z ‘92 roku.&lt;/p&gt;
 
-&lt;p&gt;Niedziela - ostatni dzień wycieczki. No to wiadomo: połazimy, popołudniu autobusik, pociąg, wieczorem w domu. Nie było jednak tak lekko… Najpierw trasa przez drobne polanki, dolinki, aż w końcu weszliśmy w gęsty las. Liści było czasami po kolana, ale jeżeli na koniec życia będę miał zapamiętać jeden obrazek jesieni to zapewne będą to kolory tamtych lasów. Raz po raz, systematycznie, zaczęły rosnąć przed nami kaniony niesamowitych skał. Czułem się jak na innej planecie! Trasa była długa i nie zanosiło się na jej koniec… a my bez jedzenia! Tak też Irek zrobił nas w konia, gdyż skończyliśmy podróż grubo po 19 w jakiejś zagranicznej miejscowości. Wykończeni, głodni, ale ponapawani górami mogliśmy wreszcie (nieznośna lekkość bytu) wracać do domów.&lt;/p&gt;
+&lt;p&gt;Niedziela - ostatni dzień wycieczki. No to wiadomo: połazimy, popołudniu autobusik, pociąg, wieczorem w domu. Nie było jednak tak lekko… Najpierw trasa przez drobne polanki, dolinki, aż w końcu weszliśmy w gęsty las. Liści było czasami po kolana, ale jeżeli na koniec życia będę miał zapamiętać jeden obrazek jesieni to zapewne będą to kolory tamtych lasów. Raz po raz, systematycznie, zaczęły rosnąć przed nami kaniony niesamowitych skał. Czułem się jak na innej planecie!&lt;/p&gt;
 
-&lt;p&gt;I dziś za oknem już biało, ale gdy pomyślę, że było to trochę ponad miesiąc temu to odwołuję wszystkie moje przekleństwa na jesień. Mam z nią sporo nieprzyjemnych spraw do wyjaśnienia, ale jesień 2013. w Górach Sowich łagodzi naszą długą, trudną znajomość. &lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Trasa była długa i nie zanosiło się na jej koniec...&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;…a my bez jedzenia! Tak też Irek zrobił nas w konia, gdyż skończyliśmy podróż grubo po 19 w jakiejś zagranicznej miejscowości. Wykończeni, głodni, ale ponapawani górami mogliśmy wreszcie (nieznośna lekkość bytu) wracać do domów.&lt;/p&gt;
+
+&lt;p&gt;I dziś za oknem już biało, ale gdy pomyślę, że było to trochę ponad miesiąc temu to odwołuję wszystkie moje przekleństwa na jesień. Mam z nią sporo nieprzyjemnych spraw do wyjaśnienia, ale jesień 2013. w Górach Sowich łagodzi naszą długą, trudną znajomość.&lt;/p&gt;
 
         </content>
     </entry>
     
     <entry>
         <title>Przez Albanię... w Bieszczady</title>
-        <link href="//nikodamn.github.io/przez-albani-w-bieszczady/"/>
+        <link href="//nikodamn.github.io/trips/przez-albani-w-bieszczady/"/>
         <updated>2013-11-01T01:26:37+01:00</updated>
-        <id>//nikodamn.github.io/przez-albani-w-bieszczady</id>
+        <id>//nikodamn.github.io/trips/przez-albani-w-bieszczady</id>
         <author>
 					<name>Nikodem Hynek</name>
 					<uri>//nikodamn.github.io/</uri>
@@ -368,9 +547,11 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images//albania/16i17/2.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Po wieczornych imprezach zawsze nadchodzi pokuta w postaci poranka. Górskie powietrze nie oszczędza tych najmnocniej imprezujących. Mimo wspaniałego brzoskwiniowego relaksu na Caryńskiej dzień wcześniej, nadal czuliśmy w kościach trzy dniowy autostop ekspress. Co poradzić.&lt;/p&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Po wieczornych imprezach zawsze nadchodzi pokuta w postaci poranka.&lt;/h3&gt;&lt;/div&gt;
 
-&lt;p&gt;Z wybitnie ciężką głową ruszyliśmy z Cisnej w kierunku Rawek. Większość grupy pojechała autobusem. Ja w raz z Adą i Tomkiem łapaliśmy stopa. Dotarliśmy kilka minut po nich i mogliśmy zacząć trasę. bez plecaka czułem się jakbym latał. Bardzo dobrze szło się rozmawiając z Tomkiem, ciesząc się słońcem i podjadając dojrzałe jagody całym garściami na “trzy, czte-i-ry”.&lt;/p&gt;
+&lt;p&gt;Górskie powietrze nie oszczędza tych najmnocniej imprezujących. Mimo wspaniałego brzoskwiniowego relaksu na Caryńskiej dzień wcześniej, nadal czuliśmy w kościach trzy dniowy autostop ekspress. Co poradzić.&lt;/p&gt;
+
+&lt;p&gt;Z wybitnie ciężką głową ruszyliśmy z Cisnej w kierunku Rawek. Większość grupy pojechała autobusem. Ja z Adą i Tomkiem łapaliśmy stopa. Dotarliśmy kilka minut po nich i mogliśmy zacząć trasę. bez plecaka czułem się jakbym latał. Bardzo dobrze szło się rozmawiając z Tomkiem, ciesząc się słońcem i &lt;b&gt;podjadając dojrzałe jagody całym garściami&lt;/b&gt; na “trzy, czte-i-ry”.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/16i17/1.jpg&quot; /&gt;
@@ -388,14 +569,19 @@ Przejechanych: 782 km&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Niektórzy skończyli na obiedzie w schronisku Pod Małą Rawką my ruszyliśmy stopem do Cisnej. W kilka przesiadek udało się nam to. W końcu czekał mnie upragniony obiad z Ingą. Doskonała pizza w towarzystwie srebrnego kota wyjadającego ketchup.&lt;/p&gt;
 
-&lt;p&gt;Wieczorem oczywiście rura. Pożegnanie rajdu podlewane śliwowicą. Tym razem lżej niż dzień wcześniej, ale równie wesoło. Resztę wieczoru pogrywaliśmy w pokera na zapałki i piliśmy wino Bieszczady. Czas błogo uciekał.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Wieczorem oczywiście rura - pożegnanie rajdu podlewane śliwowicą.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Tym razem lżej niż dzień wcześniej, ale równie wesoło. Resztę wieczoru pogrywaliśmy w pokera na zapałki i piliśmy wino Bieszczady. Czas błogo uciekał.&lt;/p&gt;
 
-&lt;p&gt;Następnego dnia znów szybka pobudka. Autobus całej grupy do Krakowa odjeżdżał o 8. Pożegnaliśmy wszystkich po kolei i stanęliśmy na przystanku aby łapać stopa. Grupa powoli schodziła ze schroniska, a my nadal staliśmy. Staliśmy ponad 30 minut, a tu żadnego samochodu. ‘Spokojnie, jest ranek.’ Podjechał autobus. ‘Zobaczysz, zaraz złapiemy.’ Wszyscy zapakowali się do autobusu, a tu nagle… zatrzymuje się samochód! Możemy? Możemy! To dawaj. Szybko dowiedzieliśmy się, że młoda para, która nas zabrała jedzie aż do Warszawy! To się nazywa fuks!&lt;/p&gt;
+&lt;p&gt;Następnego dnia znów szybka pobudka. Autobus całej grupy do Krakowa odjeżdżał o 8. Pożegnaliśmy wszystkich po kolei i stanęliśmy na przystanku aby łapać stopa. Grupa powoli schodziła ze schroniska, a my nadal staliśmy. Staliśmy ponad 30 minut, a tu żadnego samochodu. ‘Spokojnie, jest ranek.’ Podjechał autobus. ‘Zobaczysz, zaraz złapiemy.’ Wszyscy zapakowali się do autobusu, a tu nagle… zatrzymuje się samochód! Możemy? Możemy! To dawaj. &lt;b&gt;Szybko dowiedzieliśmy się, że młoda para, która nas zabrała jedzie aż do Warszawy!&lt;/b&gt; To się nazywa fuks!&lt;/p&gt;
 
 &lt;p&gt;Byli przeraźliwie nudni, ale co z tego, skoro zawiozą nas tak szybko do samiutkiej Warszawy. Stamtąd planowaliśmy podjechać szybko pociągiem do Inowrocławia oczywiście z przesiadką w Toruniu. Spieszyłem się na imieniny babci, bo obiecałem jej obecność przed wyjazdem do Albanii. Byliśmy o 15 w Warszawie, a w Toruniu około 17:30. W sumie trasa Cisna-Inowrocław zajęła nam niecałe 12 h. Spróbujcie to pobić!&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;
+&lt;div class=&quot;notice&quot;&gt;
+&lt;h2&gt;
 Podsumowanie: &lt;br /&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;
 Dzień 17. &lt;br /&gt;
 Łączny dystans: 688 km &lt;br /&gt;
 Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
@@ -404,16 +590,18 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/16i17/mapa.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;W ten sposób zakończyła się nasza siedemnastodniowa tułaczka po świecie. Ponad 5200 kilometrów, 53 autostopy, a to wciąż mało! Wracając już myśleliśmy, co będzie następne… Zobaczymy!&lt;/p&gt;
+&lt;h3&gt;
+W ten sposób zakończyła się nasza siedemnastodniowa tułaczka po świecie. Ponad 5200 kilometrów, 53 autostopy, a to wciąż mało! Wracając już myśleliśmy, co będzie następne... Zobaczymy!
+&lt;/h3&gt;
 
         </content>
     </entry>
     
     <entry>
         <title>Szybko, szybko w góry!</title>
-        <link href="//nikodamn.github.io/szybko-szybko-w-gry/"/>
+        <link href="//nikodamn.github.io/trips/szybko-szybko-w-gry/"/>
         <updated>2013-10-09T02:54:26+02:00</updated>
-        <id>//nikodamn.github.io/szybko-szybko-w-gry</id>
+        <id>//nikodamn.github.io/trips/szybko-szybko-w-gry</id>
         <author>
 					<name>Nikodem Hynek</name>
 					<uri>//nikodamn.github.io/</uri>
@@ -423,19 +611,18 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
         	&lt;img src=&quot;//nikodamn.github.io/images//albania/14i15/1.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Przez natłok spraw związanych z przeprowadzką do Poznania i nowymi studiami nie potrafiłem usiąść do ostatnich dwóch relacji. Czas najwyższy dokończyć to, co niedokończone. Dzisiaj przedostatni odcinek o najszybszej w historii trasie Sahy - Ustrzyki.&lt;/p&gt;
 
-&lt;p&gt;Obudziliśmy się w słońcu słowackiej granicy. Żwawo zwinęliśmy namiot i przepakowaliśmy plecaki aby ruszyć do pobliskiej restauracji na piwo i frytki. Nie spieszyło nam się do łapania stopa ze świadomością, że ruch dla samochodów ciężarowych jest wstrzymany. Choć zawsze pozostała nadzieja, że zatrzyma się cysterna lub TIR z jedzeniem, których ten przepis nie obowiązuje.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Obudziliśmy się w słońcu słowackiej granicy.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Żwawo zwinęliśmy namiot i przepakowaliśmy plecaki aby ruszyć do pobliskiej restauracji na piwo i frytki. Nie spieszyło nam się do łapania stopa ze świadomością, że ruch dla samochodów ciężarowych jest wstrzymany. Choć zawsze pozostała nadzieja, że zatrzyma się cysterna lub TIR z jedzeniem, których ten przepis nie obowiązuje.&lt;/p&gt;
 
-&lt;p&gt;Nieśmiało stanęliśmy tuż za przydrożną restauracją i po kilku minutach zatrzymał się TIR. Wbiliśmy niezmiernie szczęśliwi do Macedończyka, który jechał do samej Polski! Ponadto świetnie mówił po polsku. Mieliśmy jeszcze tylko wjechać na pobliską stację. Dumni z siebie poszliśmy wydać prawie wszystkie zachowane euro. Obłowieni wbijamy do kabiny, gdy dowiedzieliśmy się, że kierowca niestety nie wiedział o zakazie i musi przeczekać do 22. Krótko: lipa.&lt;/p&gt;
-
-&lt;p&gt;Niezbyt uradowani, ale nadal pełni wigoru (i smakołyków) ustawiliśmy się przy stacji.&lt;/p&gt;
+&lt;p&gt;Nieśmiało stanęliśmy tuż za przydrożną restauracją i po kilku minutach zatrzymał się TIR. Wbiliśmy niezmiernie szczęśliwi do Macedończyka, który jechał do samej Polski! Ponadto świetnie mówił po polsku. Mieliśmy jeszcze tylko wjechać na pobliską stację. Dumni z siebie poszliśmy wydać prawie wszystkie zachowane euro. Obłowieni wbijamy do kabiny, gdy dowiedzieliśmy się, że kierowca niestety nie wiedział o zakazie i musi przeczekać do 22. Krótko: lipa. Niezbyt uradowani, ale nadal pełni wigoru (i smakołyków) ustawiliśmy się przy stacji.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/14i15/2.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Po kilku chwilach zatrzymał się samochód na węgierskiej rejestracji. Podczas natychmiastowego pakowania się do samochodu pochwyciliśmy tylko “Cracow” i byliśmy wmurowani! Kierowcą był Samir - Algierczyk mieszkający w Budapeszcie, który zmierzał przez Kraków na Łotwę (combobreaker!). Było to niesamowicie zabawny, uśmiechnięty i inteligentny facet. Muszę przyznać, że chyba najsympatyczniejszy ze wszystkich dotychczas poznanych. Mówił niesamowicie biegle po angielsku (oprócz tego również w czterech innych). Rozmawialiśmy o Polsce, Algierii, stopowaniu, pracy i wielu, wielu innych. Była to pierwsza podróż Samira do Polski, dlatego daliśmy mu kilka wskazówek jak poruszać się w naszej ojczyźnie.&lt;/p&gt;
+&lt;p&gt;Po kilku chwilach zatrzymał się samochód na węgierskiej rejestracji. Podczas natychmiastowego pakowania się do samochodu pochwyciliśmy tylko “Cracow” i byliśmy wmurowani! &lt;b&gt;Kierowcą był Samir - Algierczyk mieszkający w Budapeszcie&lt;/b&gt;, który zmierzał przez Kraków na Łotwę (combobreaker!). Było to niesamowicie zabawny, uśmiechnięty i inteligentny facet. Muszę przyznać, że chyba najsympatyczniejszy ze wszystkich dotychczas poznanych. Mówił niesamowicie biegle po angielsku (oprócz tego również w czterech innych). Rozmawialiśmy o Polsce, Algierii, stopowaniu, pracy i wielu, wielu innych. Była to pierwsza podróż Samira do Polski, dlatego daliśmy mu kilka wskazówek jak poruszać się w naszej ojczyźnie.&lt;/p&gt;
 
-&lt;p&gt;Mijaliśmy najpierw słowackie kopie węgierskich mieścin, aż urosły lasy i góry. Zaczęło się robić tak zielono, że czuliśmy się niemal jak w Polsce. Samir był zachwycony klimatem. Zrobiliśmy kilka pamiątkowych zdjęć w jakiejś miejscowości górskiej.&lt;/p&gt;
+&lt;p&gt;Mijaliśmy najpierw słowackie kopie węgierskich mieścin, aż urosły lasy i góry. &lt;b&gt;Zaczęło się robić tak zielono, że czuliśmy się niemal jak w Polsce.&lt;/b&gt; Samir był zachwycony klimatem. Zrobiliśmy kilka pamiątkowych zdjęć w jakiejś miejscowości górskiej.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/14i15/3.jpg&quot; /&gt;
@@ -447,7 +634,7 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Podczas jazdy Samir zaproponował byśmy pojechali z nim w wakacje do Algierii. Życie tam jest niesamowicie tanie, bo na przykład za 8 euro można kupić pełen obiad z deserem w restauracji… dla pięciu osób, a litr benzyny kosztuje 0,01 euro. Brzmiało to kusząco, ale najbardziej fascynujące były opowieści o algierskich górach i Saharze. Wymieniliśmy się facebookiem i mailami, jednak wiele wskazuje na to, że Samir nie należy do osób, które sprawdzają facebooka często.&lt;/p&gt;
 
-&lt;p&gt;Dojechaliśmy do Polski koło 14. Szybkie zdjęcie na granicy - oficjalnie dotarliśmy do kraju.&lt;/p&gt;
+&lt;p&gt;Dojechaliśmy do Polski koło 14. &lt;b&gt;Szybkie zdjęcie na granicy - oficjalnie dotarliśmy do kraju.&lt;/b&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/14i15/5.jpg&quot; /&gt;
@@ -455,9 +642,10 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Samir wysadził nas koło Rabki-Zdrój. Tak oto pokonaliśmy około 250 km w jakieś 4 (bardzo przyjemne!) godziny. Obłowiliśmy się polskim piwem i pączkami w pobliskim sklepie i dawaj w Bieszczady!&lt;/p&gt;
 
-&lt;p&gt;W Polsce zaczęło się stopowanie częste, ale krótkie. Najpierw kilka kilometrów w ciężarówce z młodym kierowcą pracującym bodajże piekarni. Powiedział nam, w którą stronę stanąć. Tu nasze szczęście skończyło się na pół godziny. Nic się nie zatrzymało, my staliśmy w środku miasta, a w dodatku zaczął padać deszcz. Zmoknięci szliśmy na pobliski przystanek, aż podjechał po nas samochód. Tata z córką wrócili się po nas, bo zrobiło się im nas żal. Po kolejnych kilku kilometrach zostawili nas na przystanku i kazali się za siebie pomodlić i dali nam ulotkę jakiegoś stowarzyszenia kościelnego. Krzyż na drogę.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;W Polsce zaczęło się stopowanie częste, ale krótkie.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Najpierw kilka kilometrów w ciężarówce z młodym kierowcą pracującym bodajże piekarni. Powiedział nam, w którą stronę stanąć. Tu nasze szczęście skończyło się na pół godziny. Nic się nie zatrzymało, my staliśmy w środku miasta, a w dodatku zaczął padać deszcz. Zmoknięci szliśmy na pobliski przystanek, aż podjechał po nas samochód. Tata z córką wrócili się po nas, bo zrobiło się im nas żal. Po kolejnych kilku kilometrach zostawili nas na przystanku i kazali się za siebie pomodlić i dali nam ulotkę jakiegoś stowarzyszenia kościelnego. Krzyż na drogę.&lt;/p&gt;
 
-&lt;p&gt;Następny stop przyszedł łatwo. Młody trzydziestoletni właściciel firmy przewozowej zabrał nas swoją małą corsą. Gdy dowiedział się, że jedziemy aż z Albanii to podrzucił nas jakieś 20-30 km dalej aż do Limanowej. Wymieniliśmy się kontaktami. Nie zdążyliśmy nawet ubrać kurtek i już kolejna okazja. Miły pan w garniturze podwiózł nas do Nowego Sącza. Chwila rozmowy o polityce i podróżowaniu przerodziła się w kolejne 25 km. Zatrzymaliśmy się na przystanku i sytuacja się powtórzyła - pierwszy samochód staje. Młody chłopak, były autostopowicz, podrzucił nas swoim mercedesem. Po drodze zatrzymaliśmy się w lokalnym browarze, gdzie kupował akurat świeże piwo. Było pyszne.&lt;/p&gt;
+&lt;p&gt;Następny stop przyszedł łatwo. Młody trzydziestoletni właściciel firmy przewozowej zabrał nas swoją małą corsą. Gdy dowiedział się, że jedziemy aż z Albanii to podrzucił nas jakieś 20-30 km dalej aż do Limanowej. Wymieniliśmy się kontaktami. Nie zdążyliśmy nawet ubrać kurtek i już kolejna okazja. Miły pan w garniturze podwiózł nas do Nowego Sącza. Chwila rozmowy o polityce i podróżowaniu przerodziła się w kolejne 25 km. Zatrzymaliśmy się na przystanku i sytuacja się powtórzyła - pierwszy samochód staje. Młody chłopak, były autostopowicz, podrzucił nas swoim mercedesem. &lt;b&gt;Po drodze zatrzymaliśmy się w lokalnym browarze, gdzie kupował akurat świeże piwo. Było pyszne.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Dwadzieścia kilometrów dalej za Grybowem, gdzie wylądowaliśmy trafił się nasz trzeci combos. Trzeci raz z rzędu zatrzymał się pierwszy samochód. Starsza para wioząca jedzenie dla córki na studiach (huehue) zabrała nas kolejne 20 km do Gorlic. Teraz postanowiliśmy chociaż na chwilę odsapnąć i się przebrać. W takim tempie wieczorem bylibyśmy gdzieś na Ukrainie!&lt;/p&gt;
 
@@ -465,13 +653,14 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Była dwudziesta. Droga w kierunku Sanoka prowadziła tuż przed Krosnem, jednak była kompletnie nie oświetlona. Poznaliśmy jednak jakiegoś natręta, który pomógł nam dając numer na San Busa, który kursuje na trasie Kraków - Cisna. To zawsze była opcja! Szybko zrobiło się bardzo ciemno i nasze nadzieje na Bieszczady jeszcze tej nocy zgasły. Mimo tego próbowaliśmy z odblaskowymi opaskami na rękach przykuć uwagę kierowców.&lt;/p&gt;
 
-&lt;p&gt;W końcu zatrzymało się jedno auto. Podbiegłem do niego, ale kierowca nie reagował na moje pukanie w szybę rozmawiając przez telefon. Nie chciałem natrętnie otwierać drzwi… W końcu sam otworzył drzwi i krzyknął: “Wsiadasz czy nie?!”. Prawdę mówiąc wystraszył mnie, no ale ryzyk fizyk.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;W końcu zatrzymało się jedno auto.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Podbiegłem do niego, ale kierowca nie reagował na moje pukanie w szybę rozmawiając przez telefon. Nie chciałem natrętnie otwierać drzwi… W końcu sam otworzył drzwi i krzyknął: “Wsiadasz czy nie?!”. Prawdę mówiąc wystraszył mnie, no ale ryzyk fizyk.&lt;/p&gt;
 
 &lt;p&gt;Wpakowaliśmy się do tego małego wozu i w milczeniu przysłuchiwaliśmy się rozmowie telefonicznej i radiu, którego okazało się być radiem Maryja. Z rozmowy wydedukowaliśmy, że jedziemy z księdzem! Warto dodać, że z wyjątkowo szybko jeżdżącym księdzem! Nie wiedzieliśmy nawet dokąd jedzie, aż gdy skończył rozmawiać przed samym Sanokiem na nasz tekst o trasie Albania - Bieszczady powiedział, że jest proboszczem w Ustrzykach Górnych i właśnie tam zmierza! Nie wierzyliśmy w tego fuksa!&lt;/p&gt;
 
 &lt;p&gt;Przejechaliśmy z nim jakieś 100 km przy czym większość w gęstej mgle i z duszą na ramieniu. Przy tej widoczności nie uspokajało nawet nas to, że pewnie sam Bóg czuwa nad owym księdzem… W końcu dotarliśmy, jednak ksiądz nie był na tyle uprzejmy (generalnie w ogóle nie był rzucając docinki) żeby podrzucić nas już ten kawałek do Cisnej, gdzie czekali na nas wszyscy rajdowcy.&lt;/p&gt;
 
-&lt;p&gt;Usiedliśmy w pobliskiej knajpie i zaczęliśmy dzwonić. Niestety nikt nie był na tyle trzeźwy by po nas przyjechać. Poznaliśmy za to dwóch facetów, którzy pili piwo stół obok. Podsłyszeli opowieść o Albanii i zaprosili nas na piwo.&lt;/p&gt;
+&lt;p&gt;Usiedliśmy w pobliskiej knajpie i zaczęliśmy dzwonić. &lt;b&gt;Niestety nikt nie był na tyle trzeźwy by po nas przyjechać.&lt;/b&gt; Poznaliśmy za to dwóch facetów, którzy pili piwo stół obok. Podsłyszeli opowieść o Albanii i zaprosili nas na piwo.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/14i15/6.jpg&quot; /&gt;
@@ -487,13 +676,13 @@ Liczba autostopów: 1 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Obudził nas nadchodzący deszcz i związany z nim podmuch wiatru. Zeszliśmy na dół i złapaliśmy stopa do samej Cisnej (co w Bieszczadach nie jest żadnym wyczynem). Dotarliśmy do schroniska, gdzie zostaliśmy ciepło przyjęci przez wszystkich znajomych. Cieszyłem się szczególnie ze spotkania Tomka Sęka. Cały wieczór piliśmy piwa, pokazywaliśmy zdjęcia i wygłupialiśmy się przy ognisku. Niby jeszcze przed chwilą kąpaliśmy się w Morzu Jońskim, ale z drugiej strony w te trzy dni działo się tyle rzeczy. Albania wydawała się jednocześnie tak bliska, a tak odległa. Ale najlepsza była satysfakcja z tego, co udało nam się zrobić.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
 Podsumowanie: &lt;br /&gt;
-&lt;/b&gt;
+&lt;/h3&gt;&lt;/div&gt;
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/14i15/mapa.jpg&quot; /&gt;
 &lt;/figure&gt;
-&lt;b&gt;
+&lt;p&gt;&lt;b&gt;
 Dzień czternasty i piętnasty. &lt;br /&gt;
 Łączny dystans: 568 &lt;br /&gt;
 Liczba autostopów: 11 &lt;br /&gt;
@@ -504,9 +693,9 @@ Liczba autostopów: 11 &lt;br /&gt;
     
     <entry>
         <title>Serbia: kanion rzeki Tary</title>
-        <link href="//nikodamn.github.io/serbia-kanion-rzeki-tary/"/>
+        <link href="//nikodamn.github.io/trips/serbia-kanion-rzeki-tary/"/>
         <updated>2013-08-20T03:10:18+02:00</updated>
-        <id>//nikodamn.github.io/serbia-kanion-rzeki-tary</id>
+        <id>//nikodamn.github.io/trips/serbia-kanion-rzeki-tary</id>
         <author>
 					<name>Nikodem Hynek</name>
 					<uri>//nikodamn.github.io/</uri>
@@ -514,13 +703,15 @@ Liczba autostopów: 11 &lt;br /&gt;
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images//albania/12i13/10.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Mimo, że spanie na czarnogórskiej plaży może wydawać się spełnieniem marzeń to bolące od drewnianych leżaków stawy rewidują ten sąd bardzo szybko. Niemrawo przez sztormowe chmury wstawało poranne słońce, a my wyspani wstawaliśmy aby pokonać z powrotem Czarnogórę. Skorzystaliśmy z plażowych pryszniców, gdzie poznałem nawet czwórkę autostopowiczów z Francji. Byli troszkę sprytniejsi od nas, bo spali w zadaszonym pobliskim namiocie, który należał do hotelu. Dowiedziałem się, że byli tylko w Chorwacji, a do Ulcinja wpadli na jeden dzień. Szkoda, że skończyli przygodę tylko tutaj.&lt;/p&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Mimo, że spanie na czarnogórskiej plaży może wydawać się spełnieniem marzeń to bolące od drewnianych leżaków stawy rewidują ten sąd bardzo szybko.&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;Niemrawo przez sztormowe chmury wstawało poranne słońce, a my wyspani wstawaliśmy aby pokonać z powrotem Czarnogórę. Skorzystaliśmy z plażowych pryszniców, gdzie poznałem nawet czwórkę autostopowiczów z Francji. Byli troszkę sprytniejsi od nas, bo spali w zadaszonym pobliskim namiocie, który należał do hotelu. Dowiedziałem się, że byli tylko w Chorwacji, a do Ulcinja wpadli na jeden dzień. Szkoda, że skończyli przygodę tylko tutaj.&lt;/p&gt;
 
 &lt;p&gt;Wyruszyliśmy o 8 spakowani na nowo. Maszerując przez dziwnie opustoszałe już uliczki Ulcinja szukaliśmy kantoru aby wymienić nasze pozostałe chorwackie Kuny. W końcu udało się znaleźć jedyny bank, który zainteresowany był chorwacką walutą. Tutaj rada - nie wiem czy to kwestia prawna czy inny aspekt Czarnogóry, ale w Ulcinje nie istnieją kantory, a jedynie banki. Jeśli nie masz o określonej godzinie euro, ani karty do bankomatu to słabo z Tobą.&lt;/p&gt;
 
 &lt;p&gt;Zrobiliśmy zakupy i stanęliśmy przy pobliskiej drodze na Podgoricę. Po około 10 minutach zatrzymał się mały samochodzik, z którego wyszedł duży, młody człowiek. Mieliśmy szczęście - jechał do samej Podgoricy.&lt;/p&gt;
 
-&lt;p&gt;W samochodzie odsypialiśmy jeszcze. Kierowca nie był zbyt rozmowny, ale to chyba raczej z powodu bariery językowej. Jakieś dwie godziny później byliśmy na przedmieściach Podgoricy. Kierowca powiedział nam, że ta droga prowadzi do granicy z Serbią czyli “na Kolasin”. Wysiedliśmy w deszczyku, który po kilku chwilach zamienił się w ogromną ulewę. Schowaliśmy się w pobliskim barze na kawę i piwo. Po relaksie, przebraniu się i nieudanej próbie przeczytania serbskiej prasy (cyrylica sic!) musieliśmy wyruszyć mimo deszczu. Przed nami cała Serbia…&lt;/p&gt;
+&lt;p&gt;W samochodzie odsypialiśmy jeszcze. Kierowca nie był zbyt rozmowny, ale to chyba raczej z powodu bariery językowej. Jakieś dwie godziny później byliśmy na przedmieściach Podgoricy. Kierowca powiedział nam, że ta droga prowadzi do granicy z Serbią czyli “na Kolasin”. &lt;b&gt;Wysiedliśmy w deszczyku, który po kilku chwilach zamienił się w ogromną ulewę.&lt;/b&gt; Schowaliśmy się w pobliskim barze na kawę i piwo. Po relaksie, przebraniu się i nieudanej próbie przeczytania serbskiej prasy (cyrylica sic!) musieliśmy wyruszyć mimo deszczu. Przed nami cała Serbia…&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/1.jpg&quot; /&gt;
@@ -528,9 +719,10 @@ Liczba autostopów: 11 &lt;br /&gt;
 
 &lt;p&gt;W tej ulewie po jakiś 20 minutach zatrzymaliśmy Pana, który co prawda jechał tylko kawałek, ale to zawsze coś. Podrzucił nas do samej Podgoricy, zaledwie kilka kilometrów, ale na właściwą drogę. To wystarczyło by deszcz przestał padać.&lt;/p&gt;
 
-&lt;p&gt;Miejsce do łapania było świetnie - dobrze widoczna zatoczka, szeroka droga, dużo samochodów. Łapanie jednak szło opornie. Przez dwadzieścia minut zatrzymało się kilka aut, ale jadących gdzie indziej. Raz zatrzymał się srebrny mercedes na serbskich (!) blachach, ale zanim dobiegłem do niego to odjechał. Przeklinaliśmy kierowcę, aż… ten zawrócił! Po minucie przyjechał po nas jeszcze raz. Na imię miał Petar, był z Serbii. Super, jedziemy do samej granicy!&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Miejsce do łapania było świetnie.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Dobrze widoczna zatoczka, szeroka droga, dużo samochodów. Łapanie jednak szło opornie. Przez dwadzieścia minut zatrzymało się kilka aut, ale jadących gdzie indziej. Raz zatrzymał się srebrny mercedes na serbskich (!) blachach, ale zanim dobiegłem do niego to odjechał. Przeklinaliśmy kierowcę, aż… ten zawrócił! Po minucie przyjechał po nas jeszcze raz. Na imię miał Petar, był z Serbii. &lt;b&gt;Super, jedziemy do samej granicy!&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Po tym jak weszliśmy do samochodu Petara ten kupił nam coca-colę i ciastka. Mimo, że nie mówił po angielsku, ani nie za bardzo rozumiał polski to jakoś tam się dogadywaliśmy. Wyjeżdżając za Podgoricę powoli zaczynały się wzniesienia zwiastujące piękny i słynny kanion rzeki Tary.&lt;/p&gt;
+&lt;p&gt;Po tym jak weszliśmy do samochodu Petara ten kupił nam coca-colę i ciastka. Mimo, że nie mówił po angielsku, ani nie za bardzo rozumiał polski to jakoś tam się dogadywaliśmy. Wyjeżdżając za Podgoricę powoli zaczynały się wzniesienia zwiastujące piękny i &lt;b&gt;słynny kanion rzeki Tary.&lt;/b&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/2.jpg&quot; /&gt;
@@ -556,7 +748,8 @@ Liczba autostopów: 11 &lt;br /&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/8.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Milczeliśmy porażeni potęgą przyrody. Co jakiś czas mijaliśmy pomniki upamiętniające ofiary wypadków. Jechaliśmy czasami przez szczyty, a czasami u podnóża gór czyli tuż przy rzece. Niestety nie zatrzymywaliśmy się, bo o postój tam raczej ciężko. Dlatego też zdjęcia są ujęciami zza szyby samochodu.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Milczeliśmy porażeni potęgą przyrody.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Co jakiś czas mijaliśmy pomniki upamiętniające ofiary wypadków. Jechaliśmy czasami przez szczyty, a czasami u podnóża gór czyli tuż przy rzece. Niestety nie zatrzymywaliśmy się, bo o postój tam raczej ciężko. Dlatego też zdjęcia są ujęciami zza szyby samochodu.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/9.jpg&quot; /&gt;
@@ -571,7 +764,7 @@ Liczba autostopów: 11 &lt;br /&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/13.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Kanion Tary trzeba zwiedzić jeszcze raz na spokojnie, ale podejrzewam, że nie da się najeść takimi widokami prze-nigdy. Po godzinie kanion zaczął maleć, a wielkie strzeliste skały poczęły zamieniać się w połoniny. Przejęci pięknem południa Serbii zwiedzaliśmy ‘serbskie Bieszczady’.&lt;/p&gt;
+&lt;p&gt;Kanion Tary trzeba zwiedzić jeszcze raz na spokojnie, ale podejrzewam, że nie da się najeść takimi widokami nigdy. Po godzinie kanion zaczął maleć, a wielkie strzeliste skały poczęły zamieniać się w połoniny. Przejęci pięknem południa Serbii zwiedzaliśmy &lt;b&gt;‘serbskie Bieszczady’.&lt;/b&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/14.jpg&quot; /&gt;
@@ -579,7 +772,7 @@ Liczba autostopów: 11 &lt;br /&gt;
 
 &lt;p&gt;W końcu wypadało się zapytać Petera dokąd jedzie. Okazało się, że 50 km przed Belgrad! Niesamowite, że złapaliśmy stopa na blisko 500 km. Mieliśmy szczęście.&lt;/p&gt;
 
-&lt;p&gt;Zaczęło robić się późno. Rozmowa z Peterem zeszła na serbską jagnięcinę, więc zaprosił nas na obiad do zajazdu. Zjedliśmy kilogram pieczonej, tłustej i tradycyjnej jagnięciny. Najedzeni do syta jechaliśmy dalej… Wylądowaliśmy o 21 na stacji 50 km przed Belgradem. Jeszcze wspólne zdjęcie z Petarem i mieliśmy zacząć łapać.&lt;/p&gt;
+&lt;p&gt;Zaczęło robić się późno. Rozmowa z Peterem zeszła na serbską jagnięcinę, więc zaprosił nas na obiad do zajazdu. &lt;b&gt;Zjedliśmy kilogram pieczonej, tłustej i tradycyjnej jagnięciny.&lt;/b&gt; Najedzeni do syta jechaliśmy dalej… Wylądowaliśmy o 21 na stacji 50 km przed Belgradem. Jeszcze wspólne zdjęcie z Petarem i mieliśmy zacząć łapać.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/15.jpg&quot; /&gt;
@@ -588,31 +781,36 @@ Liczba autostopów: 11 &lt;br /&gt;
 
 &lt;p&gt;Inga chciała rozkładać już namiot znając nasze nieszczęście do łapania stopów po zmroku, ja wierzyłem, że będziemy dziś spać na granicy serbsko-węgierskiej, czyli ponad 200 km od miejsca gdzie aktualnie byliśmy. Wyszliśmy ze stacji na drogę, stanęliśmy na zatoczce, a Inga natychmiastowo zatrzymała TIRa. To serbski kierowca, zabrał nas. Jechaliśmy w ciszy, ponieważ byliśmy zbyt zmęczeni żeby rozmawiać. Zawiózł nas ponad 100 km, około 40 km przed Nowym Sadem. Do granicy 100 km, stacja duża i uczęszczana… złapiemy coś!&lt;/p&gt;
 
-&lt;p&gt;Poszliśmy do baru na stacji na colę i herbatę. Wszędzie było pełno od muzułmanów na niemieckich lub austriackich blachach. Próbowaliśmy jeszcze łapać, ale bezskutecznie. Rozbiliśmy namiot za stacją. Mogłoby wydawać się to dziwne, ale obok tłumów muzułmanów śpiących w śpiworach na chodnikach zamiast w swoich samochodach - nie było.&lt;/p&gt;
+&lt;p&gt;Poszliśmy do baru na stacji na colę i herbatę. Wszędzie było pełno od muzułmanów na niemieckich lub austriackich blachach. Próbowaliśmy jeszcze łapać, ale bezskutecznie. &lt;b&gt;Rozbiliśmy namiot za stacją. Mogłoby wydawać się to dziwne, ale obok tłumów muzułmanów śpiących w śpiworach na chodnikach zamiast w swoich samochodach - nie było.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;O 7 rano TIRów za dużo nie było. Ani pojedyncze ciężarówki, ani częściej widywane osobówki nie chciały zabierać. W końcu zatrzymał się Serb, który jechał do Nowego Sadu. Zdesperowani poprosiliśmy o podwózkę chociażby na kolejną stację. Był to pracownik Gazpromu, który opowiadał nam o swoim zawodzie i o festiwalu rockowym w Nowym Sadzie. Zawiózł nas 40 km.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;O 7 rano TIRów nie było zbyt wiele.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Ani pojedyncze ciężarówki, ani częściej widywane osobówki nie chciały zabierać. W końcu zatrzymał się Serb, który jechał do Nowego Sadu. Zdesperowani poprosiliśmy o podwózkę chociażby na kolejną stację. Był to pracownik Gazpromu, który opowiadał nam o swoim zawodzie i o festiwalu rockowym w Nowym Sadzie. Zawiózł nas 40 km.&lt;/p&gt;
 
-&lt;p&gt;Na następnej stacji było jeszcze gorzej. Wjeżdżały tam praktycznie tylko osobówki, którymi były tego dnia auta w pełni przeładowane muzułmańskimi rodzinami. Jakieś 95% samochodów to wypchane po szwy auta francuskich, niemieckich lub austriackich rodzin. Zlot islamistów czy co? Po dwóch albo trzech godzinach namówiliśmy jednego tureckiego (tja… no, ale desperacja) kierowcę TIRa o podwózkę do granicy. Zgodził się. W ciszy dojechaliśmy do Szeged, gdzie przewędrowaliśmy między tłumem aut na stronę Węgier. Węgry to już jak w domu mówiliśmy po dotychczasowej podróży.&lt;/p&gt;
+&lt;p&gt;Na następnej stacji było jeszcze gorzej. Wjeżdżały tam praktycznie tylko osobówki, którymi były tego dnia auta w pełni przeładowane muzułmańskimi rodzinami. Jakieś 95% samochodów to wypchane po szwy auta francuskich, niemieckich lub austriackich rodzin. Zlot muzułmanów czy co? Po dwóch albo trzech godzinach namówiliśmy jednego tureckiego (tja… no, ale desperacja) kierowcę TIRa o podwózkę do granicy. Zgodził się. W ciszy dojechaliśmy do Szeged, gdzie przewędrowaliśmy między tłumem aut na stronę Węgier. Węgry to już jak w domu mówiliśmy po dotychczasowej podróży.&lt;/p&gt;
 
-&lt;p&gt;Stanęliśmy przy wyjeździe dla TIRów, co było jedyną taktyką przy obecnym stanie osobówek. Po pół godziny rozwiązywania krzyżówek i (czasami) machania palcem złapaliśmy Serba, który jechał na Słowenię przez Budapeszt! Fantastycznie, jedziemy! Stary Serb słabo mówił po angielsku i niemiecku, ledwo słyszał i był dość ekscentryczny. Po chwili rozmowy położyłem się spać na kozetce… Obudziło mnie: Nikodem, chodź, wstawaj! Musimy wysiąść! Otworzyłem oczy - a my byliśmy już na autostradzie. Nie wierzyliśmy, że kolejny kierowca wpadł na to by zatrzymać TIRa na autostradzie i kazać nam iść poboczem do miasta! Wkurwieni znów szliśmy tuż przy barierkach do następnych znaków. Przeklęty Budapest Ring!&lt;/p&gt;
+&lt;p&gt;Stanęliśmy przy wyjeździe dla TIRów, co było jedyną taktyką przy obecnym stanie osobówek. Po pół godziny rozwiązywania krzyżówek i (czasami) machania palcem złapaliśmy Serba, który jechał na Słowenię przez Budapeszt! Fantastycznie, jedziemy! Stary Serb słabo mówił po angielsku i niemiecku, ledwo słyszał i był dość ekscentryczny. Po chwili rozmowy położyłem się spać na kozetce… &lt;b&gt;Obudziło mnie: “Nikodem, chodź, wstawaj! Musimy wysiąść!”&lt;/b&gt; Otworzyłem oczy - a my byliśmy już na autostradzie. Nie wierzyliśmy, że kolejny kierowca wpadł na to by zatrzymać TIRa na autostradzie i kazać nam iść poboczem do miasta! Wkurwieni znów szliśmy tuż przy barierkach do następnych znaków. Przeklęty Budapest Ring!&lt;/p&gt;
 
-&lt;p&gt;Znaki co chwilę wskazywały co innego. No, tak, przecież to Węgry… Weszliśmy w końcu na wiadukt przy leśnej drodze. Jechał tam jeden samochód. Zatrzymaliśmy go,a w nim węgierska para, która nie rozumiała ani jednego słowa po angielsku, niemiecku czy migowemu. Mówili tylko te swoje szgdszgdszgd kiritkiki szgd etc. Czuliśmy się jak z kosmitami. W końcu pojęli, że chcemy trafić do centrum Budapesztu i pomogli nam zawożąc do podmiejskiej miejscowości na autobus. Tu małe sprostowanie: znali jedno angielskie słowo, a mianowicie: ‘facebook’.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Znaki co chwilę wskazywały co innego. No, tak, przecież to Węgry...&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;Weszliśmy w końcu na wiadukt przy leśnej drodze. Jechał tam jeden samochód. Zatrzymaliśmy go,a w nim węgierska para, która nie rozumiała ani jednego słowa po angielsku, niemiecku czy migowemu. Mówili tylko te swoje szgdszgdszgd kiritkiki szgd etc. Czuliśmy się jak z kosmitami. W końcu pojęli, że chcemy trafić do centrum Budapesztu i pomogli nam zawożąc do podmiejskiej miejscowości na autobus. Tu małe sprostowanie: znali jedno angielskie słowo, a mianowicie: ‘facebook’.&lt;/p&gt;
 
 &lt;p&gt;Dzięki uprzejmości pewnego Pana pojechaliśmy autobusem mimo braku forintów. Dojechaliśmy do galerii handlowej, gdzie wymieniliśmy euro na forinty i mogliśmy dojechać metrem na drugi koniec Budapesztu. Jeszcze szybka przesiadka w autobus i… wysiedliśmy nie na tym przystanku, cholera. Czekało nas jakieś 2 km drogi. Jak trzeba iść to trzeba. Wtem zatrzymała się para (sami z siebie!) i powiedzieli nam, że nas podrzucą. Chcieliśmy ustawić się na drogę w stronę Vac. Zawieźli nas kawałek na pobliską stację. Bardzo miły gest!&lt;/p&gt;
 
-&lt;p&gt;Ze stacji, mimo że było już grubo po 21, złapaliśmy młodą parkę która podwiozła nas jakieś 40 km do Vaca. Rozmawialiśmy z tą młodszą od nas parą o Vacu, Albanii i o naszych krajach. Pokazali nam nawet całe swoje miasteczko. Wymieniliśmy się facebookami i musieliśmy łapać dalej. Stanęliśmy na przystanku tuż obok latarni (po uprzednim skonsultowaniu drogi z mieszkańcem pobliskiej chatki). Sytuacja wyglądała beznadziejnie - ciemność, odludzie, chłód i co gorsza - mały ruch na drodze. Po kilkunastu minutach na nasze machanie odblaskami i flagą odpowiedziała pewna Pani. Mówiła, że jedzie kilka kilometrów dalej, ale może nas podrzucić. Gorzej być nie może, pomyśleliśmy, to ruszamy. Jechaliśmy nie rozmawiając, w kompletnej ciemności drogi E77 (właściwej!) i w rytmie poważnej muzyki klasycznej. W głębi serca byliśmy jej dozgonnie wdzięczni za wyrwanie nas stamtąd, ale muzyka i ciemność tworzyły naprawdę przerażający klimat. Przejechaliśmy ponad 30 km autostradą (nadrobiła dla nas!) i wysiedliśmy w jakimś oświetlonym już miasteczku. Tam mimo ujadania psów, pijanych miejscowych łapaliśmy dalej. Do granicy węgiersko-słowackiej było już tylko 30-40 km!&lt;/p&gt;
+&lt;p&gt;Ze stacji, mimo że było już grubo po 21, złapaliśmy młodą parkę która podwiozła nas jakieś 40 km do Vaca. Rozmawialiśmy z tą młodszą od nas parą o Vacu, Albanii i o naszych krajach. Pokazali nam nawet całe swoje miasteczko. Wymieniliśmy się facebookami i musieliśmy łapać dalej. Stanęliśmy na przystanku tuż obok latarni (po uprzednim skonsultowaniu drogi z mieszkańcem pobliskiej chatki). Sytuacja wyglądała beznadziejnie - ciemność, odludzie, chłód i co gorsza - mały ruch na drodze. Po kilkunastu minutach na nasze machanie odblaskami i flagą odpowiedziała pewna Pani. Mówiła, że jedzie kilka kilometrów dalej, ale może nas podrzucić. Gorzej być nie może, pomyśleliśmy, to ruszamy. Jechaliśmy nie rozmawiając, w kompletnej ciemności drogi E77 (właściwej!) i w rytmie poważnej muzyki klasycznej. W głębi serca byliśmy jej dozgonnie wdzięczni za wyrwanie nas stamtąd, ale &lt;b&gt;muzyka i ciemność tworzyły naprawdę przerażający klimat.&lt;/b&gt; Przejechaliśmy ponad 30 km autostradą (nadrobiła dla nas!) i wysiedliśmy w jakimś oświetlonym już miasteczku. Tam mimo ujadania psów, pijanych miejscowych łapaliśmy dalej. Do granicy węgiersko-słowackiej było już tylko 30-40 km!&lt;/p&gt;
 
-&lt;p&gt;Po jakiejśgodzinie, gdy dosięgało nas już zwątpienie, zatrzymaliśmy TIR na blachach… polskich! TIRowiec z Radomia śpieszył się niesłychanie, więc wsiedliśmy nie pytając dokąd jedzie. Okazało się, że do granicy, ale kończy mu się czas na taryfikatorze. To i tak super, bo wiedzieliśmy, że granica = bezpieczeństwo i niezłe perspektywy na następny dzień.&lt;/p&gt;
+&lt;p&gt;Po jakiejś godzinie, gdy dosięgało nas już zwątpienie, zatrzymaliśmy TIR na blachach… polskich! TIRowiec z Radomia śpieszył się niesłychanie, więc wsiedliśmy nie pytając dokąd jedzie. Okazało się, że do granicy, ale kończy mu się czas na taryfikatorze. To i tak super, bo wiedzieliśmy, że granica = bezpieczeństwo i niezłe perspektywy na następny dzień.&lt;/p&gt;
 
 &lt;p&gt;Czekała nas noc na granicy w Sahy. Kolejna, bo raz już tam spaliśmy w TIRze u Turka jadąc w tamtą stronę. Teraz jednak wybraliśmy namiot na polance. Byłoby już w pełni fantastycznie, gdyby nie informacja, że następnego dnia ruch TIRów na Słowacji jest wstrzymany z powodu święta. Sic!&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;
+&lt;div class=&quot;notice&quot;&gt;
+&lt;h2&gt;
 Podsumowanie:
-&lt;/b&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
 &lt;figure class=&quot;&quot;&gt;
 	&lt;img src=&quot;http://nikodamn.github.io/images/albania/12i13/mapa.jpg&quot; /&gt;
 &lt;/figure&gt;
-&lt;b&gt;
+&lt;p&gt;&lt;b&gt;
 Dzień dwunasty i trzynasty. &lt;br /&gt;
 Łączny dystans: 967 km (!!!) &lt;br /&gt;
 Liczba autostopów: 11 &lt;br /&gt;
@@ -623,9 +821,9 @@ Liczba autostopów: 11 &lt;br /&gt;
     
     <entry>
         <title>Albańska gościnność</title>
-        <link href="//nikodamn.github.io/albaska-gocinno/"/>
+        <link href="//nikodamn.github.io/trips/albaska-gocinno/"/>
         <updated>2013-08-13T03:30:54+02:00</updated>
-        <id>//nikodamn.github.io/albaska-gocinno</id>
+        <id>//nikodamn.github.io/trips/albaska-gocinno</id>
         <author>
 					<name>Nikodem Hynek</name>
 					<uri>//nikodamn.github.io/</uri>
@@ -633,9 +831,10 @@ Liczba autostopów: 11 &lt;br /&gt;
 				</author>
         <content type="html">
         	&lt;img src=&quot;//nikodamn.github.io/images//albania/10i11/5.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Wyruszyliśmy z samego rana. Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy… się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.&lt;/p&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Wyruszyliśmy z samego rana.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Ustawiliśmy się na drodze czekając na fart. Zatrzymał się duży i zdezelownay van, który po tym jak do niego weszliśmy… się zepsuł. Poczekaliśmy jeszcze kilkanaście minut i udało się zatrzymać jakiegoś mercedesa (merol ftw!). Wbijamy, Sarande, spoko, nara. Niezbyt rozmowny gość nie zrozumiał, że chcemy jechać autostopem w kierunku Vlore i Durres, bo zawiózł nas do samego centrum Sarande - tam gdzie stacjonują busy. Była 10, zaczynał się upał.&lt;/p&gt;
 
-&lt;p&gt;Wyjście z Sarande zajęło nam trochę ponad godzinę. Pobłądziliśmy prowadzeni przez niezbyt dokładną mapę miasta. W końcu przy drodze wylotowej dość szybko złapaliśmy stopa “w stronę Durres”, a jak później się okazało do samiutkiego Durres! Było to dwóch chłopaków - albański student medycyny Endri i na pół Albańczyk na pół Włoch - Fiore. Zabraliśmy się ich luksusowym mercedesem, choć wtedy jeszcze nie wiedzieliśmy dokładnie gdzie. Fiore nie mówił po angielsku, więc większość rozmowy prowadziliśmy z kierującym Endrim. Dowiedzieliśmy się, że zmierzają na imprezę na plażę w Jali. Pytali czy jedziemy z nimi. Hm, no jasne!&lt;/p&gt;
+&lt;p&gt;Wyjście z Sarande zajęło nam trochę ponad godzinę. Pobłądziliśmy prowadzeni przez niezbyt dokładną mapę miasta. W końcu przy drodze wylotowej dość szybko złapaliśmy stopa “w stronę Durres”, a jak później się okazało do samiutkiego Durres! Było to dwóch chłopaków - albański student medycyny Endri i na pół Albańczyk na pół Włoch - Fiore. Zabraliśmy się ich luksusowym mercedesem, choć wtedy jeszcze nie wiedzieliśmy dokładnie gdzie. Fiore nie mówił po angielsku, więc większość rozmowy prowadziliśmy z kierującym Endrim. Dowiedzieliśmy się, że &lt;b&gt;&lt;/b&gt;zmierzają na imprezę na plażę&amp;lt;/b&amp;gt; w Jali. Pytali czy jedziemy z nimi. Hm, no jasne!&lt;/p&gt;
 
 &lt;p&gt;Przejeżdżając przez drogi na samych szczytach gór tuż obok riwiery obu mórz wietrzyliśmy głowy wychylając się przez okna albo odsypiając ‘na zapas’.&lt;/p&gt;
 
@@ -647,7 +846,7 @@ Liczba autostopów: 11 &lt;br /&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/3.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Wylądowaliśmy w Jali około 14. Idealny czas żeby kąpać się na pięknej plaży! Tamtejsza plaża trochę nas zaskoczyła… Parking zastawiony setkami mercedesów i maybahów oraz wielki szyld informujący o FOAM PARTY. Najpierw wylegiwaliśmy się na pięknej skalistej plaży i kąpaliśmy się w morzu. Poskakaliśmy trochę z pobliskich skałek z kolegami. Andrzej i Fiołek (huehue) chcieli koniecznie z nami iść na piana party. Trzeba przyznać, że impreza pełną parą, ale nie jest to mój ulubiony typ zabawy. #Władysławowo #Sopot Wygrzewanie się w wodzie było lepsze!&lt;/p&gt;
+&lt;p&gt;Wylądowaliśmy w Jali około 14. Idealny czas żeby kąpać się na pięknej plaży! Tamtejsza plaża trochę nas zaskoczyła… Parking zastawiony setkami mercedesów i maybahów oraz wielki szyld informujący o &lt;b&gt;FOAM PARTY&lt;/b&gt;. Najpierw wylegiwaliśmy się na pięknej skalistej plaży i kąpaliśmy się w morzu. Poskakaliśmy trochę z pobliskich skałek z kolegami. Andrzej i Fiołek (huehue) chcieli koniecznie z nami iść na piana party. Trzeba przyznać, że impreza pełną parą, ale nie jest to mój ulubiony typ zabawy. #Władysławowo i #Mielno. Wygrzewanie się w wodzie było lepsze!&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/5.jpg&quot; /&gt;
@@ -662,7 +861,7 @@ Liczba autostopów: 11 &lt;br /&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/6.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Po kilku godzinach najwyższy czas wracać. Endri zaprosił nas do siebie na noc, a mieszkanie miał… w samym Durres! Zaproszenie jakoś wyszło podczas rozmowy o Rakiji, więc wiedzieliśmy, że dzisiaj czeka nas jeszcze wieczorne picie. Nie zwiedzilibyśmy Albanii jeśli nie napilibyśmy się słynnej Rakiji.&lt;/p&gt;
+&lt;p&gt;Po kilku godzinach najwyższy czas wracać. Endri zaprosił nas do siebie na noc, a mieszkanie miał… w samym Durres! Zaproszenie jakoś wyszło podczas rozmowy o Rakiji, więc wiedzieliśmy, że dzisiaj czeka nas jeszcze wieczorne picie. &lt;b&gt;Nie zwiedzilibyśmy Albanii jeśli nie napilibyśmy się słynnej Rakiji.&lt;/b&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/8.jpg&quot; /&gt;
@@ -677,26 +876,29 @@ Liczba autostopów: 11 &lt;br /&gt;
 
 &lt;p&gt;Siedzieliśmy tam pijąc Rakiję i paląc różne dziwne papieroski. Bawiliśmy się przednio, a alkohol sprawił, że nawet z Fiore potrafiliśmy się dobrze komunikować. Toczyliśmy dyskusje na temat albańskich i polskich ludzi, polityki, alkoholi i czego tam się jeszcze da…&lt;/p&gt;
 
-&lt;p&gt;Obudziłem się rano, gdy moja głowa wisiała w toalecie. Endri i Fiore byli w pracy i zostawili nas samych w mieszkaniu. Niestety zamkniętych… Dla mnie to w sumie było bez różnicy, bo wisiałem w tej pozycji do 15. Zdecydowanie nie polecam pić Rakiji w takim tempie jak pije się wódkę! Chcieliśmy udowodnić im jak się pije na północy, a wykończeni podróżą i niezbyt ogarniętą dietą skończyliśmy się.&lt;/p&gt;
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Obudziłem się rano, gdy moja głowa wisiała w toalecie. &lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Endri i Fiore byli w pracy i zostawili nas samych w mieszkaniu. Niestety zamkniętych… Dla mnie to w sumie było bez różnicy, bo wisiałem w tej pozycji do 15. Zdecydowanie nie polecam pić Rakiji w takim tempie jak pije się wódkę! Chcieliśmy udowodnić im jak się pije na północy, a wykończeni podróżą i niezbyt ogarniętą dietą skończyliśmy się.&lt;/p&gt;
 
 &lt;p&gt;Chłopacy przyszli spóźnieni, bo urwali się z pracy. Zawieźli nas na drogę, gdzie powinniśmy autostopować. Wymieniliśmy się kontaktami, pożegnaliśmy i rozstaliśmy w uśmiechach. Mój plecak ważył teraz tonę, a nogi były jak z waty. Po małym posiłku i uzupełnieniu płynów dało się już żyć.&lt;/p&gt;
 
-&lt;p&gt;Złapaliśmy natychmiastowo stopa, jak się okazało prawie pod samą Szkodrę. Ekspress taxi po prostu. Był to przemiły Albańczyk, który mówił (h)amerykańskim angielskim. police, mothafucka’. Podobno jego syn studiuje w Stanach. Miał też dwie żony, a jedna wydzwaniała do niego co minutę. Dosłownie. Dźwięk jego dzwonka tworzył idealne połączenie z moim kacem abym umarł na tortury. Dojechaliśmy do Lezhe 40 km od Szkodry.&lt;/p&gt;
+&lt;p&gt;Złapaliśmy natychmiastowo stopa, jak się okazało prawie pod samą Szkodrę. Ekspress taxi po prostu. Był to przemiły Albańczyk, który mówił (h)amerykańskim angielskim. police, mothafucka’. Podobno jego syn studiuje w Stanach. Miał też dwie żony, a jedna wydzwaniała do niego co minutę. Dosłownie. Dźwięk jego dzwonka tworzył idealne połączenie z moim kacem abym umarł w torturach. Dojechaliśmy do Lezhe 40 km od Szkodry.&lt;/p&gt;
 
-&lt;p&gt;Gdy wjechaliśmy do miasta od razu kupiliśmy sobie po arbuzie, owoce, poszliśmy odpocząć. Przejechaliśmy już prawie całą Albanię w dość szybkim tempie, a była gdzieś 17. Posililiśmy się, a Inga chwilę później natychmiastowo złapała trójkę z Turcji (dwóch Bośniaków i Bośniaczka mieszkających w Turcji - niezłe combo…) jadących do Ulcinja. Zabraliśmy się z nimi do samej granicy. To było miłe, że mimo iż mieli zapakowany bagażnik, a ich była trójka to zabrali nas z plecakami na naszych kolanach. Przykład dla tych, którzy pokazują, że nie mają miejsca w samochodzie. ;-)&lt;/p&gt;
+&lt;p&gt;Gdy wjechaliśmy do miasta od razu kupiliśmy sobie po arbuzie, masę owoców i poszliśmy odpocząć. Przejechaliśmy już prawie całą Albanię w szybkim tempie, a była dopiero 17. Posililiśmy się, a Inga chwilę później natychmiastowo złapała trójkę z Turcji (dwóch Bośniaków i Bośniaczka mieszkających w Turcji - niezłe combo…) jadących do Ulcinja. Zabraliśmy się z nimi do samej granicy. To było miłe, że &lt;b&gt;mimo iż mieli zapakowany bagażnik, a ich była trójka to zabrali nas z plecakami na naszych kolanach.&lt;/b&gt; Przykład dla tych, którzy pokazują, że nie mają miejsca w samochodzie. ;-)&lt;/p&gt;
 
 &lt;p&gt;Dotarliśmy do granicy o 19. Liczyliśmy na złapanie jakiegoś długodystansowego stopa. Zaczęło robić się ciemno, co utrudniało nam łapanie. Postanowiliśmy, że chcemy jechać nawet do samego Ulcinja, że tam przenocujemy sobie na plaży. Po kilkunastu samochodach zatrzymało się audi na kosowskich blachach. Dwóch młodych, ale średnio rozmownych chłopaków podwiozło nas do centrum Ulcinja. Dowiedzieliśmy się o nich tylko, że jeden z nich projektuje torebki. Jak widzieliśmy - dochodowy biznes.&lt;/p&gt;
 
-&lt;p&gt;Dotarliśmy około 21 do Ulcinja. Przywitał nas niesamowity tłum. Myślę, że nigdzie dotychczas nie spotkaliśmy takich tłumów ludzi. Odziani w nasze plecaki szliśmy razem z całym bydłem w stronę morza. Pobłądziliśmy chwilę szukając jakiejś ustronnej plaży, aż w końcu znaleźliśmy jakąś plażę hotelową z leżakami. Zapytana Pani powiedziała nam, że nie będzie żadnego problemu jeśli będziemy się tu wylegiwać. Był sztorm, w nocy lekko padało. Nie obchodziło nas to - wykończonych wczorajszym piciem, długim dystansem i błądzeniem po Ulcinje.&lt;/p&gt;
+&lt;p&gt;Dotarliśmy około 21 do Ulcinja. Przywitał nas niesamowity tłum. Myślę, że nigdzie dotychczas nie spotkaliśmy takich tłumów ludzi. Odziani w nasze plecaki szliśmy razem z całym bydłem w stronę morza. Pobłądziliśmy chwilę szukając jakiejś ustronnej plaży, aż w końcu znaleźliśmy jakąś plażę hotelową z leżakami. Zapytana Pani powiedziała nam, że nie będzie żadnego problemu jeśli będziemy się tu wylegiwać. &lt;b&gt;Był sztorm, w nocy lekko padało.&lt;/b&gt; Nie obchodziło nas to - wykończonych wczorajszym piciem, długim dystansem i błądzeniem po Ulcinje.&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/11.jpg&quot; /&gt;
 &lt;figcaption&gt;Tu spaliśmy. Zdjęcie zrobione rano.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;b&gt;
+&lt;div class=&quot;notice&quot;&gt;
+&lt;h2&gt;
 Podsumowanie:
-&lt;/b&gt;&lt;/p&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
 
 &lt;figure class=&quot;&quot;&gt;
 &lt;img src=&quot;http://nikodamn.github.io/images/albania/10i11/mapa.jpg&quot; /&gt;
@@ -707,6 +909,1023 @@ Dzień dziesiąty i jedenasty.&lt;br /&gt;
 Łączny dystans: 416 km &lt;br /&gt;
 Liczba autostopów: 5 &lt;br /&gt;
 &lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Albańska riwiera i jej historia</title>
+        <link href="//nikodamn.github.io/trips/albanska-riwiera/"/>
+        <updated>2013-08-08T00:33:35+02:00</updated>
+        <id>//nikodamn.github.io/trips/albanska-riwiera</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images//albania/8i9/20.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Od razu po trafieniu do Ksamila postanowiliśmy zrobić sobie dzień leniuchowania.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Dlatego też opis ósmego dnia nie będzie owocował w opisy podróży i wielu nowych miejsc.&lt;/p&gt;
+
+&lt;p&gt;Gdy zwlekliśmy się rano z naszych śpiworów naszym oczom pokazał się widok pięknego wybrzeża, z którego rozciągała się panorama Morza Jońskiego i greckiej wyspy Korfu. Mimo, że siedzieliśmy tam wczorajszej nocy do trzeciej to nie spodziewaliśmy się takiego widoku. Czym prędzej pobiegliśmy na wybrzeże. Ominęliśmy plażę z leżakami aby smażyć się na pobliskich skałach. Wybrzeże jest dzikie pod tym względem, że czasami wystają z niego resztki zabudowań lub większych skał.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/1.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/2.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/3.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Należy dodać, że miejscowość &lt;b&gt;Ksamil jest teraz jednym, wielkim placem budowy. &lt;/b&gt;Wszędzie trwają prace remontowe i to pewnie kwestia kilku lat dopóki wyrośnie tam nowy kompleks hotelowy. Niestety.&lt;/p&gt;
+
+&lt;p&gt;Morze Jońskie jest znacznie cieplejsze i mniej słone niż Adriatyckie, a ponadto ma zdecydowanie ładniejszy kolor, co zapewne czytelnikom może być ciężko stwierdzić po niektórych moich eksperymentach ze zdjęciami. Wylegując się plackiem na słońcu, wcinając arbuzy i pijąc piwko cieszyliśmy się wakacjami.&lt;/p&gt;
+
+&lt;p&gt;Na obiad trafiliśmy do pobliskiej restauracji, która była dość problematyczna. Połowy dań z karty nie dało się zamówić, a na posiłek czekaliśmy ponad godzinę… Ale za to mamy kilka ładnych i kolorowych zdjęć.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/4.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/5.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Resztę dnia spędziliśmy na smakowitych drzemkach i chill out’cie w cieniu pobliskiego drzewka.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/7.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/8.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wieczorem poszliśmy obejrzeć pobliskie sklepy w poszukiwaniu pamiątek. Każdy z nich to mała kanciapa z niewielką ilością produktów. Byliśmy też w jednym większym “markecie”, gdzie zaskoczyły nas chwilowe zaniki w dostawie prądu. To podobne normalne.&lt;/p&gt;
+
+&lt;p&gt;Około godziny dwudziestej miasto (miasteczko!) rodzi się do życia. Pobliscy sklepikarze, farmerzy i inni wychodzą na ulice aby spotykać się w knajpach albo sprzedawać starocie na murkach ulic. Ponadto dopiero wtedy da się zauważyć turystów. Kupiliśmy sobie alkoholowy likier (którego słodycz nie pozwalała go potem wypić) i wieczór spędziliśmy rozłożeni na leżakach słuchając koncertu muzyki albańskiej. Następnego dnia chcieliśmy zwiedzić słynną Gjirokastrę i inne turystyczne perełki.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Z samego rana wyrusziliśmy z niebywałą lekkością.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Spowodowane było to oczywiśćie tym, że mogliśmy zostawić plecaki na polu kampingowym. Złapaliśmy od razu stopa do Sarande. Nie czekaliśmy nawet minuty. Było to dwóch chłopaków oczywiście w mercedesie. Jeden z nich pracował kilka lat w Londynie i perfekcyjnie mówił po angielsku. Jechali do Vlore na imprezę i podrzucili nas kawałek za Sarande - na drogę do Gjirokastry, gdzie zatrzymał się pierwszy samochód - na amerykańskich tablicach Massachusetts. Trafiliśmy idealnie, bo była to para z dzieckiem jadąca do Gjirokastry. Mama pochodziła z Albanii, tata z Irlandii, a mieszkają w Stanach. Niezłe combo!&lt;/p&gt;
+
+&lt;p&gt;Jechaliśmy z nimi ponad 50 km. Rozmawiało nam się fantastycznie podziwiając przy tym widoki rosnących gór. Jest nawet nasz krótki filmik.&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/2sVivpweYT0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Gdzie niegdzie można było zauważyć biedniejsze dzielnice slumsów. Nie jest to częste, choć ogólny standard życia nie jest zbyt wysoki, to nie jest aż tak źle. Poniżej jakieś nierobiące wrażenia domy z robiącymi wrażenie górami.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ta fantastyczna rodzinka pofatygowała nawet swojego kuzyna, który miał za 4 h przyjechać po nas na umówioną stację w Gjiro. Miał podobno przyjechać Hammerem. Poszliśmy zwiedzać stare miasto. Bałkańskie kamienice i wąskie uliczki to już klasyk. Daliśmy im się wciągnąć. Spacer po nich wydawał się nieskończony.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/11.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/12.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/13.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/14.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Dotarliśmy do położonego na wzgórzu zamku.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Była to największa twierdza Albanii i zamek prezydenta Hadży. Dzisiaj jest to zniszczona ruina z muzeum w środku, ale nadal z pięknym widokiem na miasto i pasmo gór. Weszliśmy do środka i zwiedziliśmy najpierw sporą kolekcję armat, dział i artylerii.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/15.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/16.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poniżej znajduje się zdjęcie samolotu stojącego na murach zamku. Był to obiekt komunistycznej propagandy, a przechwycony na granicy transport z samolotem został nazwany szpiegowskim. Postawienie go na twierdzy miało służyć jako przypomnienie o potędze wywiadu albańskiego.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/17.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/18.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/19.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/20.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/21.jpg&quot; /&gt;
+Była dopiero 14:30, a nasz Hammer miał podjechać o 16. Resztę czasu spędziliśmy na spacerze po mieście i jedzeniu (pysznych!) albańskich lodów.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/22.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/23.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Niestety Hammer się spóźniał (co jest domeną południowców), więc zaczęliśmy łapać stopa. Nie wszyscy w Albanii znają ten sposób podróżowania. Świadczyła o tym także sytuacja, gdy mówiąc ‘Sarande, Ksamil’ do zatrzymanego wozu ten zawiózł nas 100 metrów wcześniej w miejsce postoju busów. Dalej udało nam się złapać Ediego - Albańczyka z amerykańskim paszportem. Był bardzo miły i dał nam nawet swój numer. Mieliśmy dzwonić w razie odwiedzin Tirany. Kolejny autostop to milczący młody Albańczyk, który podrzucił nas do innego zabytku - źródeł Blue Eye. Są to tajemnicze źródła wodne, które są nadal niezbadane. Głębokie nawet na 45 metrów pod wodą skały są nieskończonym źródłem zimnej i krystalicznie czystej wody. Co ciekawe, albański rząd sprzedał je Włochom, którzy mają budować tu elektrownie wodne.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/25.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/24.jpg&quot; /&gt;
+	&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/26.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po obejrzeniu źródeł złapaliśmy trójkę Kosowarów, którzy zmierzali w kierunku Sarande. W trakcie ciekawej rozmowy (Kosowo to generalnie ciekawy przypadek!) namówiliśmy ich na poszukanie kwatery w ładniejszym Ksamilu. W ten sposób podrzucili nas pod samo pole kampingowe. Był już wieczór, a jego resztę spędziliśmy kupując pamiątki i dumając sobie przed widokiem na zatokę. Finanse zaczęły się kurczyć, a co ważniejsze - bardzo chcieliśby zdąrzyć na Rajd Trzech Baców w Bieszczadach. Mieliśmy pięć dni do jego końca.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/8i9/podsumowanie.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Dzień dziewiąty. &lt;br /&gt;
+Łączny dystans: 137 km &lt;br /&gt;
+Liczba autostopów: 5 &lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Wybrzeżem dwóch mórz</title>
+        <link href="//nikodamn.github.io/trips/wybrzezem-obu-morz/"/>
+        <updated>2013-08-06T12:01:01+02:00</updated>
+        <id>//nikodamn.github.io/trips/wybrzezem-obu-morz</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images//albania/7/4.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Autostop wymaga wyrzeczeń. &lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;Takim na pewno było łapanie stopa w trzydziestostopniowym upale mając tuż obok piękną plażę i cieplutkie morze. Niestety jeżeli chcieliśmy dotrzeć do Albanii to należało się poświęcić.&lt;/p&gt;
+
+&lt;p&gt;Pole kampingowe służyło naszym snom, a także wymytym już ciałom, wypranym ubraniom i na nowo zapakowanym plecakom. Wydostaliśmy się z Budvy całkiem zręcznie i wyszliśmy na główną drogę krajową biegnącą tuż przy wybrzeżu. Podziwialiśmy widoki mimo, że już po kilku chwilach byliśmy umordowani upałem. Czekała nas dzisiaj ogromna podróż aby dostać się na południe Albanii czyli do Sarande. Tutaj trzeba przyznać, że chyba nie do końca wierzyliśmy w to, że uda się nam jeszcze tego samego dnia dotrzeć na południe Albanii. Myślę, że liczyliśmy na przekroczenie jej połowy, gdzieś na wysokości Tirany.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ustawiliśmy się na pobliskim przystanku autobusowym i czekaliśmy na okazję. Przez kilkanaście minut nie zatrzymał się nikt. W końcu zatrzymał się odziany w albańskie blachy mercedes (a jakże!). Zapytany czy jedzie w kierunku Ulcinja albo Albanii kierowca łamanym angielskim odpowiedział, że to drugie. Jaki fart!&lt;/p&gt;
+
+&lt;p&gt;Jak szybko się okazało kierowca jechał w raz ze swoim ojcem do Tirany. Fuks nie z tej Ziemii. Udało nam się zamienić kilka zdań po angielsku, ponieważ kierujący opowiadał o tym, że mieszkał i pracował przez 5 lat w Manchesterze. &lt;b&gt;W dodatku jest fanem Manchesteru United.&lt;/b&gt; Swój swojemu zawsze pomoże!&lt;/p&gt;
+
+&lt;p&gt;Rozmawiając o różnych aspektach naszych krajów przemierzaliśmy resztę czarnogórskiej riwiery.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Była dopiero 11, gdy dotarliśmy na granicę.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Przekroczyliśmy ją pieszo i poczekaliśmy na wcześniej wspomnianego kierowcę po drugiej stronie bramek. Już po dwóch pierwszych krokach na granicy zahaczyło nas dwóch taksówkarzy z pytaniami o podwózkę. Nie byli natarczywi i uśmiechali się szeroko słysząc o autostopie. Poniżej pamiątkowe pierwsze zdjęcie w Albanii:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pierwsze wrażenia z Albanii to gipsy babies na granicy, a dalej - zadziwiająca płaskość. Nie o tym się naczytałem i lekko zawiedziony czekałem na rozwój wydarzeń. Jechaliśym główną drogą ekspresową do Tirany i szybko dowiedzieliśmy się na czym polega fenomen albańskich dróg. Co drugi samochód to mercedes (naprawdę!). Podobno wynika to z faktu, że samochód jest tam najwyższą miarą pozycji społecznej. Nieważne czy stary czy nowy, ale to mercedes! Dalej - sposób jazdy. Z całym szacunkiem, bo nadal sam nie mam prawo jazdy, ale oni jeżdżą jak popieprzeni! Wyprzedząją na piątego, jeżdżą pod prąd i oczywiście niesamowicie zapierdalają. Ponadto ich hymnem narodowym powinien stać się dźwięk klaksonu, bo podejrzewam, że nie da się jechać minutę po albańskiej drodze bez usłyszenia tego sygnału. Ponadto godna podziwu jest duma narodowa albańczyków. Już po kilku kilometrach jazdy w Albanii można było śmiało stwierdzić, że w połowie domów czy sklepów wywieszona jest narodowa flaga.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Płaskie arbuzowe pola powoli zaczynały rosnąć.
+&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Przy drodze pojawiało się co raz to więcej sklepów i straganów, bo powoli dojeżdżaliśmy do stolicy. Istnieje nawet filmik uwieczniający widniące w dali wzniesienia i niesamowity klimat albańskiego radia.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/Dg22IEZylzQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Nasz kierowca wypytywał nas jak mamy zamiar dotrzeć do Sarande. Powiedzieliśmy, że busem, bo chcieliśmy żeby zostawił nas na dworcu autobusowym skąd wydostalibyśmy się na przedmieścia. Nie wiedzieliśmy jeszcze, że nie istnieje tam coś takiego jak główny dworzec autobusowy.&lt;/p&gt;
+
+&lt;p&gt;Dojechaliśmy do Tirany grubo po 15. Kierowca po rozmowie ze swoim kolegą powiedział nam, że jest już za późno żeby jechać autobusem do Sarande położonego przy granicy z Grecją. Zawiózł nas na busa. Podejrzewam, że z dobroci serca (bo wiedział, że śpimy w namiotach) namawiał nas na kupno dwóch biletów po 11 euro do Sarande. Mówił, że to dobra cena. Byliśmy baaardzo nieprzychylni. Podejrzewam, że gdyby nie godzina i, co gorsza, fakt że byliśmy w samym środku Tirany (klaksony, krzyczące straganiarki, chaos i armagedon, #szok_kulturowy) nie zgodzilibyśmy się na niego. Tak jak nakazują wszystkie relacje z Albanii - targowałem się i z bólem zapłaciliśmy za naszą dwójkę 20 euro. Mieliśmy przynajmniej pewność, że wieczorem dotrzemy do celu wyprawy - obozu autostopowego w Sarande. (Swoją drogą zrobiło mi się trochę głupio, gdy okazało się, że utargowałem cenę, która jednak nie była do targowania. Wszyscy płacili po 11).&lt;/p&gt;
+
+&lt;p&gt;Swoją drogą ciekawy jest sposób prowadzenia busa. W firmie przewozowej zatrudniony jest kierowca i dwóch służących mu nawoływaczy. Wysiadają oni na przystankach i drą ryja np. “SARANDE, SARANDE!”, co spełnia funkcję reklamy. Ponadto podczas jazdy wypatrują ewentualnych chętnych do podróży.&lt;/p&gt;
+
+&lt;p&gt;Bus oczywiście też nie jeździł bezpiecznie, ale przynajmniej szybko. Kilka chwil po wyjechaniu z Tirany zaczęły rosnąć przed nami najpierw małe zielone wzgórza, a później monumentalne góry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Czym dalej na południe tym ciekawiej.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Oprócz cieszących oczy gór raz po raz pojawiały się spacerujące po krajowych drogach krowy, rolnicy jadący na swoich osiołkach albo zaparkowane mercedesy po środku niczego. Nie udało mi się zrobić zdjęcia żadnego z nich, ponieważ nasz bus jechał bardzo szybko nie zważając wcale na stan dróg. Trzymaliśmy się sufitu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/1.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po krótkiej przesiadce w Gjirokastrze czekał nas końcowy etap drogi. Niestety powoli zaczynało robić się ciemno i wiedzieliśmy już, że przywitamy Sarande nocą.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po pokonaniu górskich serpentyn (btw, myślałem, że nie wyrobię…) dojechaliśmy do Sarande po 20. Było ciemno, ale miasto tętniło życiem. Początkowo zawiedzeni stwierdziliśmy, że jest to typowe miasteczko turystyczne. Na nasze zawiedzenie miały wpływ nie tylko tandetne stoiska, ale ciemność i brak upragnionych widoków (bo później nasze zdanie o Sarande uległo poprawie). Mijając tłumy turystów skoczyliśmy po klasyczne zakupy i piwa, a potem na pizzę, która - tu trzeba im oddać - była wybitna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuż po kolacji, gdy rozmyślaliśmy już, gdzie spędzić noc (bo nie mieliśmy żadnych wieści od obozu autostopowego) na ulicy zahaczyła nas właśnie para autostopowiczów! Porozmawialiśmy chwilę i szybko okazało się, że Polacy stacjonują 15 km od Sarande w miejscowośći Ksamil. Niestety nie był to dziki obóz (a tak miało być!) tylko pole kampingowe. Wiedząc tylko, że pole kampingowe opatrzone jest w namalowany farbą napis “CAMPING” postanowiliśmy spróbować tam się dostać. Stanęliśmy na jakiejś uliczce, praktycznie w środku miasta z nadzieją, ale bez jakiejś wielkiej wiary w powodzenie. Auta zatrzymywały się po kolei! Po około 15 minutach dwóch chłopaków z Albanii i ich koleżanka ze Szwecji mimo, że nie jechali w ogóle do Ksamila postanowili nas podwieźć. Ta szalona trójka jeździła razem z nami przez kilkadziesiąt minut szukając tajemniczego napisu. Ja przekręciłem imię właścicielki i jedyne, co wiedzieliśmy o tym polu to wspomniany napis. Zrezygnowani i sfrustrowani (choć w zabawnej atmosferze!) dotarliśmy w końcu, gdy po ustaleniu faktów Inga wypaliła nagle: - Ekhm, guys, I think I know where it is….&lt;/p&gt;
+
+&lt;p&gt;Dotarliśmy na kamping u Laury (który gorąco polecam!), gdzie stacjonowali dosłownie sami polacy! Miejsce było naprawdę ekskluzywne w porównaniu chociażby do standardów w Budvie. Rozbiliśmy namiot w wyznaczonym dla nas miejscu, umyśliśmy się w ciepłej wodzie i poszliśmy z torbą piw moczyć nasze zmęczone nogi w ciepłych falach Morza Jońskiego. Dotarliśmy.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/7/podsumowanie.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Dzień 7. &lt;br /&gt;
+Łączny dystans: 468 km (w tym 270 km busem) &lt;br /&gt;
+Liczba autostopów: 2
+&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Tajemnice twierdzy Kotor</title>
+        <link href="//nikodamn.github.io/trips/dubrovnik-i-kotor/"/>
+        <updated>2013-08-04T12:47:04+02:00</updated>
+        <id>//nikodamn.github.io/trips/dubrovnik-i-kotor</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images//albania/5i6/31.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Szarość wschodu słońca nad zatoką Dubrovnika pozwalała odespać męczącą podróż autobusem.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;O 5-ej rano plaża Grand Hotelu oraz ichnie bagietki są wyjątkowo polecane! Z kojącej drzemki wybudziło nas trzy godziny później ostre już słońce oraz narastający hałas europejskiej turystyki. Chwilę później zapytano nas czy zostajemy na leżakach na których się wylegiwaliśmy. Jako, że kosztowały bagatela 5 euro za leżak postanowiliśmy przenieść się w bardziej ustronne miejsce. Pobliskie skałki były idealne i równie wygodne.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/1.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wygrzewaliśmy się w słońcu i soli Dubrovnika wcinając przy tym przepyszne Burki i arbuzy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/5.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/6.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po całym dniu spędzonym na plaży postanowiliśmy poszukać mniej obleganego turystycznie miejsca. Należało więc się spakować i razem z naszymi wiernymi kompanami w postaci plecaków ruszyć na drogę wylotową. Po drodze zahaczyliśmy oczywiście o lody, zimne piwo i colę oraz podziwialiśmy piękno wąskich, kamiennych uliczek.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/7.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/8.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/9.jpg&quot; /&gt;
+    &lt;figcaption&gt;Po prawej: Tak będzie wyglądał nasz wakacyjny dom.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/10.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Z pomocą mapy łatwo wydostaliśmy się na drogę, gdzie było jednak sporo szybkiego ruchu. Niedługo zatrzymał się tubylec, który zaproponował zawiezienie nas w lepsze miejsce do łapania stopa. Dzięki niemu już chwilę później byliśmy na przystanku autobusowym za Dubrovnikiem i zatrzymaliśmy słoweńca, który wygodnym busikiem podrzucił nas kilkanaście kilometrów do lotniska w Cavtat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/12.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/13.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Będąc już tak blisko granicy nie dawaliśmy za wygraną i chcieliśmy jeszcze tego dnia znaleźć się w Czarnogórze. Pomogli nam w tym zatrzymani Polacy z Białegostoku, którzy nadrobili 30 km drogi żeby zawieźć nas na przejście graniczne. Była 19.&lt;/p&gt;
+
+&lt;p&gt;Przekroczyliśmy chorwackie bramki zdziwieni, że nie sprawdzano nas przez policję Czarnogóry. Kilkanaście metrów za bramkami na pobliskim parkingu ustawiliśmy się z wyciągniętymi kciukami.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/14.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;I znów walka z czasem.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Ciemnieć zaczyna już po 19., ale liczylśmy, że może uda się coś złapać. Niestety nieubłaganie nadeszła ciemność, w której zatrzymanie kogoś miało już nikłe szanse.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/15.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/16.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po ponad dwóch godzinach łapania stopa w tym miejscu przyszła do nas policjantka z Chorwacji pytając z udawanym zdziwieniem co my tutaj robimy. Doskonale widziała nas przez kilka godzin, gdy szwędała się po granicy. Oburzyła się, że w tym miejscu nie można stopować (stać na parkingu z palcem do góry nie można?) i mamy sobie, uwaga, zamówić taksówkę, bo do Czarnogóry są jeszcze dwa kilometry! Tupet tej kobiety był nie wyobrażalny, bo wysłała nas w ciemną noc po nieoświetlonej drodze idącej tuż obok urwiska i skał. Szliśmy powoli machając latarką i odblaskowymi gadżetami. Przy każdym przejeżdżającym (naprawdę szybko!) samochodzie przytulaliśmy się do skał bądź wskakiwaliśmy w krzaki. Przeklinaliśmy tą wrędną biurwę pod naszymi nosami.&lt;/p&gt;
+
+&lt;p&gt;Po pół godziny dostaliśmy się do Czarnogóry, gdzie jeszcze godzinę pytałem kierowców ciężarówek o podwózkę. To nie miało żadnego sensu o tej porze. Położyliśmy się w śpiworach na pobliskiej trawie w towarzystwie miejscowego kota, którego z resztą chciałem zabrać ze sobą. Jakoś po tej stronie nikomu już nie przeszkadzało to, że poczekamy tam bezpiecznie do rana.&lt;/p&gt;
+
+&lt;p&gt;O 6:30 serbski kierowca TIRa sam zaproponował nam podwózkę, bo widział nas na granicy. Był to bardzo miły człowiek, z którym rozmawialiśmy sobie swobodnie po polsku podczas, gdy on mówił po serbsku. To naprawdę podobne języki! Dzięki niemu mieliśmy też okazję przepłynąć się samochodowo-pasażerskim promem tuż przed samym Tivat, dokąd zmierzaliśmy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/17.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/18.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W Tivat jest lotnisko tuż obok drogi. Dowiedzieliśmy się o tym w brutalny sposób, gdy (dosłownie!) dwadzieścia metrów nad nami przeleciał wielki samolot pasażerski. Skorzystaliśmy z dobrodziejstw pobliskiego supermarketu i wyruszyliśmy w poszukiwaniu rzekomej dzikiej plaży. Droga się nie kończyła, a upał rósł. Była jakaś 9. Postanowiliśmy zawrócić i od razu śmigać do Kotoru na plażę.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/19.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Momentalnie złapaliśmy jednego stopa.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;A chwilę później kolejnego. Oba rzęchy zawiozły nas w końcu (przez wspaniałe kilkukilometrowe tunele) do Kotoru. Widok wielkich szczytów tuż przy samym morzu oraz znajdującej się twierdzy na jednej z gór powalił nas. Usiedliśmy na ławce z opuszczonymi koparami.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/20.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/21.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Weszliśmy do starego miasta aby pozwiedzać kamieniczki, kościółki i liczne zabytki. Byliśmy oczarowani.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/25.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/23.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/24.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/22.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Trafiliśmy do uliczki prowadzącej na fortyfikacje miasta i basztę (240 m n.p.m.). Państwo w kasie biletowej (sic!) widząc nasze plecaki sami powiedzieli żebyśmy nie płacili tych 6 euro. To było miłe.&lt;/p&gt;
+
+&lt;p&gt;Wdrapywaliśmy się po schodach i kamiennych szlakach. Była dopiero dziesiąta godzina i nie było tam jeszcze zbyt wiele ludzi. Mogliśmy napawać się widokami z ponad dachów starego miasta.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/26.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/27.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;W pewnym momencie z patosowych rozmyślań wyrwało nas zasłyszane: “Wszędzie kurwa muszą nasrać. Jebie jak chuj.” Cieszyliśmy się, że jednak Polska podróżuje razem z nami!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/28.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/29.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/30.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/31.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wdrapaliśmy się na basztę w tempie ludzi pozbawionych bagażów. Co niektórzy zaczepiali nas jak udaje się nam tu wchodzić z tymi plecakami. (To nie było złe, ale zejście…) Widok u góry był warty całej autostopowej wędrówki.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/32.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/34.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/33.jpg&quot; /&gt;
+    &lt;figcaption&gt;Czy producent Paprykarza Szczecińskiego nie powinien wynagrodzić nas za najlepszą reklamę ich produktu?&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Zakochaliśmy się w Kotorze.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Odpoczęliśmy u góry, zjedliśmy śniadanie i zeszliśmy na dół. Nie było to łatwe, ale udało się. Czym prędzej kroczyliśmy na plażę aby wymoczyć w zatoce nasze zgrzane ciała.&lt;/p&gt;
+
+&lt;p&gt;Wychodząc z Kotoru natrafiliśmy na Autobuską Stanicę, gdzie wzięliśmy za 7 euro (i euro za bagaż, oczywiście!) dwa bilety do Budvy. To znane miejsce na wybrzeżu czarnogórskim. Dojechaliśmy na miejsce około 15. Poszliśmy na kawę, piwo i pizzę. W restauracji rosły nad naszymi głowami kępy kiwi.&lt;/p&gt;
+
+&lt;p&gt;Należało rozejrzeć się za polem kampingowym. Mimo, że posiadaliśmy mapkę miasta to odnalezienie się tam należy do niemożliwych zadań! Brak jakichkolwiek oznaczeń ulic, pełno małych i krętych dojazdówek… Męczyliśmy się ponad godzinę, aż w końcu znaleźliśmy cel. Pole kampingowe nie robiło szału. Tym bardziej, że kosztowało 12 euro. No, ale był prąd, gorąca woda i cień nad namiotem. Umyci i wypoczęci poszliśmy wieczorem na zwiedzanie miasta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/35.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Wieczorem uderzył nas ogrom motłochu na ulicach.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Jeśli szukacie prażonej kukurydzy, magnesów na lodówkę, waty cukrowej, dudniących tandetą klubów i automatów do gier - jedźcie do Budvy. To będzie dla Was raj. Zrozumieliśmy dlaczego jest to tak popularne miejsce - to takie europejskie Przyjezierze. Kupiliśmy sobie wino i cydr, a potem uciekliśmy na jakąś plażę przy starym mieście. Nawet tam nie zaznaliśmy spokoju, ale było już znacznie lepiej.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/36.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wypiliśmy wina i ponapawaliśmy się myślami o planach podróżniczych. Chłód morza wygonił nas później z powrotem do miasta. Poszliśmy jeszcze do knajpy w cichszej dzielnicy, gdzie wypiliśmy po drinku. Wyśmiewając różnice między Kotorem, a Budvą nie mogliśmy doczekać się jutrzejszego celu - nieznanej Albanii.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/5i6/podsumowanie.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Dzień piąty i szósty.&lt;br /&gt;
+Łączny dystans: 83 km (+23 km busem)&lt;br /&gt;
+Liczba autostopów: 6
+&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>O zwiedzaniu Węgier i uciekaniu z Sarajewa</title>
+        <link href="//nikodamn.github.io/trips/sarajewo-i-balaton/"/>
+        <updated>2013-08-03T16:37:33+02:00</updated>
+        <id>//nikodamn.github.io/trips/sarajewo-i-balaton</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/albania/3i4/18.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+O 6:30 opuściliśmy stację benzynową w Erd. Było to jakieś 20 km od Budapesztu.
+&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Odczuwaliśmy spore zmęcznie po spotkaniu naszych pleców z kostką brukową. Naszym celem było kierowanie się stricte na południe drogami M6 lub 6. Stanęliśmy na drodze beznamiętnie wystawiając kciuka. Po kilkunastu minutach złapaliśmy dwóch młodych chłopaków. (Należy wspomnieć, że tutaj rozpoczęliśmy historię naszego rytuału. Gdy tylko zdjąłem kapelusz i Inga zrobiła kanapki - zawsze coś łapaliśmy. Natychmiast.) Czym prędzej wsiedliśmy do ich samochodu nie pytając nawet dokąd tak naprawdę jadą. Mimo, że nie mówili po angielsku to jeden z nich używał translatora w telefonie. Dowiedzieliśmy się, że zamiast na północ jedziemy… nad Balaton!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Balaton był początkowo w naszym planie, ale potem z niego zrezygnowaliśmy mając problemy z wydostaniem się z Budapesztu i jego przedmieść. Dużo słyszałem i czytałem o balatonowych plażach, polach namiotowych i imprezach. Ponadto nasi kierowcy opowiadali nam o tamtejszych festiwalach muzycznych. Szykował się bardzo upalny dzień, a my cieszyliśmy się z perspektywy południa spędzonego nad chłodzącą wodą.&lt;/p&gt;
+
+&lt;p&gt;Koło godziny dziewiątej kąpaliśmy się już na pobliskiej plaży lub zwarzając na tamtejsze brukowe siedziska - “plaży”. Zdziwiła nas płaskość i zwyczajność tego jeziora. No i jego płytkość! Trzeba przyznać, że miłe miejsce, ale historie jego popularności wydawały nam się lekko napompowane tanią turystyczną sensacją.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/1.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wypoczeliśmy po niełatwej nocy, wymoczyliśmy ciałka, ale należało iść! Naszym celem było położone na południu miasteczko Pecs. Niestety droga z Sofiaka (czyli miasteczka, w którym wypoczywaliśmy nad wodą) prowadziła na Zagrzeb. Niosąc przeraźliwie ciężkie po zakupie dodatkowych zapasów wody i wina, plecaki dotarliśmy na dworzec autobusowo-kolejowy. Wymyśliliśmy sobie, że dotrzemy do Pecs pociągami. Nie pociągiem. Pociągami, bo czekały nas cztery przesiadki. Jednak to właśnie była cena zejścia z trasy nad Balaton i koniecznej chęci przejechania przez Bośnię i Hercegowinę.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Słońce, woda, a przede wszystkim poprzednia noc wyciągnęły z nas wszelkie siły. Odsypialiśmy to wszystko przesiadająć się żmudnie najpierw w Fonyod, potem w Kaposvar, następnie już tylko w Dombovar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Znaleźliśmy się w Pecs koło 18.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Okazało się, że aby wyjść na trasę musimy jechać do Mohacz. Do pociągu dwie godziny, a droga do Mohacz daleko… Wzięliśmy taniutkiego busa i jakieś 50 minut później byliśmy w Mohacs. Tutaj znaki prosto wskazywały na oddaloną o 10 km graniczną miejscowość. Tuż obok drogi znajdowały się już tylko pola kukurydzy i znów symbol globalizmu - Tesco! Zrobiliśmy zapasowe zakupy (za ostatnie forinty) na wypadek konieczności rozbicia campingu w polu. Walka z czasem, albo raczej - ze światłem. Z każdą minutą mniej samochodów, z każdą minutą ciemniej.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nie udało się. Próbowaliśmy dwie albo trzy godziny. Przy nikłym oświetleniu drogi łapanie stopa nie miało większego sensu. Nici z opuszczenia Węgier jeszcze tej doby. Rozbiliśmy namiot tuż za Tesco i obok pola kukurydzy. Było to bezpieczne miejsce, odizolowane od parkingu, a nastawione jedynie na odwiedziny pobliskich lisów. Jeden w nocy chyba obwąchiwał nawet nasz namiot, ale udało się go łatwo przegonić. Na polnym podłożu spało się całkiem nieźle.&lt;/p&gt;
+
+&lt;p&gt;Poranek jak zwykle - zbawienny. Wstaliśmy o 6:30 i po oporządzeniu się w toalecie Tesco dość szybko złapaliśmy stopa do granicy. Był to Francuz, który na emeryturę przeprowadził się na Węgry. Kochany nadrobił 10 km specjalnie żeby nas podwieść. Opuściliśmy Węgry!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na przekór stereotypom autostopowania w Chorwacji kolejnę podwózkę złapaliśmy minutę po okazaniu paszportu i przejściu granicy. Anglojęzyczny madziar w raz ze swym ojcem jechali akurat do Osijek, czyli gdzie zmierzaliśmy. Po krótkiej rozmowie o historii Węgier i Jugosławii oraz minięciu kilku upraw winogron dotarliśmy do Osijeka. Tam po chwili szukania odpowiedniego miejsca wybraliśmy rondo tramwajowe tuż przed wjazdem na autostradę. Stalibyśmy tam pewnie godzinę, gdyby nie uprzejmość pewnego kierowcy - Vladymira. Mimo, że jechał niedaleko to podrzucił nas kilkanaście kilometrów w lepsze miejsce. Vladymir był podróżnikiem i wyjątkowo opowiadał o Nordyckich fiordach przemierzonych skuterem, wyprawie do Iranu swoim samochodem (rzeczywiśćie na szybach miał nalepki!) oraz wodospadzie Virginia. Wspaniały człowiek! Zostawił nas na przystanku i pomógł złapać okazję (ekspresowo!) do skrzyżowania drogi jadącej na Dakovo. Zarówno Vladymir jak i kolejny nieznajomy potwierdzali słuszność jazdy drogą przez Dakovo.&lt;/p&gt;
+
+&lt;p&gt;Ustawiliśmy się na przystanku autobusowym i w kilka minut złapaliśmy sportowe bmw z gangsta-chorwatem. Oczywiście wsiedliśmy. Na szczęście gość i jego kolega byli bardzo w porządku. Mimo, że dzieliły nas bariery językowe to łamanym polsko-chorwatskim pogadaliśmy o kilku pierdołach. Wylądowaliśmy na stacji przed Dakovem i znów błyskawicznie złapaliśmy stopa! Tym razem to Denis mimo, że jechał przed granicę i miał tylko jedno miejsce obok kierowcy to zabrał nas do samego przejśćia granicznego w Samac. Spójrzcie tylko jak wyglądała moja podróż:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Podekscytowani dobrą passą przekroczyliśmy granice.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Pierwszy przejeżdżający samochód zatrzymał się na widok naszych kciuków. Dwóch Bośniaków, lecz niestety tylko deutche-spreche’owatych. Po kilku minutach bezowocnej komunikacji wsiedliśmy do ich samochodu. A się zobaczy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Szybko znaleźliśmy wspólny poziom komunikacji (w moim przypadku to raczej eufemizm) i dowiedzieliśmy się, że oni jadą znacznie w bok od naszej trasy. Miłe chłopaki, jadące na wiejską dyskotekę, gdy dowiedzieli się, że chcemy autostopować do Sarajewa poprzez góry złapał się za głowę. Jeden z nich z wielkim uporem wybijał nam to z głowy i nawet zdobył informację o kursujących autobusach. Koszt miał być rzędu 15 euro za osobę. Mieliśmy dojechać do Sarajewa, a stamtąd już autostopować, bo podobno południe jest znacznie bezpieczniejsze niż regiony na północ od stolicy.&lt;/p&gt;
+
+&lt;p&gt;Wiele czytałem o stopowaniu w Bośni i Hercegowinie, a zawsze były to superlatywy. Zdanie tubylców jednak zmieniło mój pogląd w tej sprawie. Zawiezieni 35 km na najbliższy autobus do stolicy zostawiliśmy naszych kolegów. Była niespełna 13.&lt;/p&gt;
+
+&lt;p&gt;Kupiliśmy dwa bilety, co kosztowało nas bagatela 35 euro. Liczyliśmy, że autobus odjeżdżający o 15 dowiezie nas do Sarajewa gdzieś na 18. Sączyliśmy węgierskiego winiacza przez dwie godziny siedząc na tym pustkowiu okraszonym w monopolowy, kasę biletową i jedną restaurację (z sikaniem na Małysza!).&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/11.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/14.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/13.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spotkaliśmy nawet parę z Polski z około 12-letnim dzieckiem. Doradziłem im co do destynacji ich dalszej podróży do Czarnogóry. Niestety nasi kochani rodacy nie zgodzili się podrzucić nas po drodze do Sarajewa. Trudno.&lt;/p&gt;
+
+&lt;p&gt;Bus jest chyba bardzo popularnym środkiem komunikacji w Bośni, a biorąc pod uwagę górzystość terenów pewnie jedynym oprócz własnego auta. Niestety trasa biegła przez wszelkie znajdujące się po drodze wioski i wioseczki, dlatego godzina przyjazdu odwlekała się w nieskończoność. Widok za oknem budził grozę zmieszaną z poczuciem dzikiej cywilizacji. Przepiękne leśne góry i kaniony, a wśród nich schowane dawne zbombardowane domy lub ostrzelane budynki. Jadąc autobustem cieszyliśmy się, że skorzystaliśmy z rady bośniackich kolegów, gdyż na przystankach dało się zauważyć trochę mniej okrzesanych ludzi oraz stare beemki z przyciemnionymi szybami. No i raz stare, urocze babuszki!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/16.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/15.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Gdy dojechaliśmy było już bardzo ciemno, a nas czekała noc w środku miasta.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;W dodatku mówiąc o mieście nie wiedzieliśmy, że będąc w samym centrum stolicy najpierw przywita nas luksusowy hotel, a sekudnę potem żebracy, koty wyjadające jedzenie ze śmietników i dogorywające na ulicy psy. Widok straszliwy.&lt;/p&gt;
+
+&lt;p&gt;Zaczęliśmy kombinować. Marzyliśmy o jakimś tanim busie na przedmieścia, gdzie spędzilibyśmy noc. Niestety o tej godzinie nie mogliśmy na to liczyć. Rano również czekały nas tylko długodystansowe połączenia. Zjedliśmy po Burku niedaleko słynnej Aleji Snajperów i rozejrzeliśmy się po kilku ulicach w okół dworca. Nasze zdanie było jednogłośne - jak najszybciej stąd uciekać. Zobaczcie sami:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/17.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poniższe zdjęcie to najprawdopodobniej jedno z najlepszych jakie mi się kiedykolwiek udały. Przebiegający wygłodzony pies, ciemno i betonowy charakter ulic Sarejwa. Myślę, że zatopione jest tutaj wszystko co zapamiętam z tego miasta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/18.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/19.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zostało nam jedno rozwiązanie - autobus do Dubrovnika, który odjeżdżał o 22:30. Niestety kosztował aż 49 euro (plus standardowe i irytujące “2 euro za bagaż”). Za każdą cenę to za każdą cenę. Dzięki temu połączeniu rozwiązaliśmy wszystkie problemy - spaliśmy w autobusie, nie musieliśmy wydostawać się z Sarajewa, nie skrojono nas, a o 5:30 byliśmy już w chorwackim Dubrovniku.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/20.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/21.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Doszliśmy na plażę tuż przy Grand Hotelu, gdzie zdobyłem nawet bagietkę na nasze śniadanie na molo obok plaży. Poranek był jeszcze blado-szary, ale dla nas był kojący, błogi i spokojny. Cisza zatoki pozwoliła nam dospać to co nie odespane. Oficjalnie zaczął się nowy etap naszej podróży - adriatycka riwiera.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/3i4/podsumowanie.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Dzień trzeci i czwarty&lt;br /&gt;
+Łączny dystans: 940 km (ok. 290 km pociągami, 416 km autobusami)&lt;br /&gt;
+Liczba autostopów: 8
+&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Budapasztet</title>
+        <link href="//nikodamn.github.io/trips/budapasztet/"/>
+        <updated>2013-08-02T17:15:40+02:00</updated>
+        <id>//nikodamn.github.io/trips/budapasztet</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/albania/1i2/24.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Epilog&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Najtrudniej jest zacząć. Dlaczego fotorelacja? Bo czas to wybielacz niektórych wspomnień. Bo trzymanie niektórych zdjęć w hardware’owej szufladzie byłoby dla nich gwałtem. Bo nadal jestem podekscytowany każdą minutą, którą przeżyliśmy.&lt;/p&gt;
+
+&lt;p&gt;Przepraszam jeżeli w opisie będzie nudnawo i aż nazbyt dokładnie, a to przez fakt, że zapisywaliśmy każdą złapaną okazję. Myślę, że za każdy pojedyczny kilometr przejechany dzięki komuś, mogę mu podziękować w postaci małego tribute. Właśnie tutaj.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Byle do granicy.&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Ruszyliśmy 15-ego sierpnia po kilku dniowym przeciąganiu sprawy (przez moje poszukiwania mieszkania) o godzinie 23:43 pociągiem relacji Inowrocław - Tychy. Postawiłem na ten ruch z racji tego, że 30 zł za przejechanie Polski (sic!) w świętym spokoju było ogromnym ułatwieniem. Przecież bycie na Słowacji to już jakaś ciekawsza przygoda niż człapanie się po polskich Orlenach. W ciągu pierwszych minut jazdy pociągiem cały oblałem się winem, ale tłumaczyłem to sobie, że przecież “na szczęście”. Upojeni winem i zagadką jutra przespaliśmy podróż spokojnie.&lt;/p&gt;
+
+&lt;p&gt;W Tychach o 7 rano z trudem (przy użyciu miejskiego trolejbusu) znaleźliśmy drogę wylotową w kierunku Cieszyna. Niestety z powodu remontu dróg nie mogliśmy znaleźć odpowiedniego miejsca do ustawienia się, aż w końcu usiedliśmy na drodze dojazdowej do krajówki. Po ponad godzinnym oczekiwaniu (i niezbyt owocnym telefonie do Jaro) zabrała nas para, która zmierzała do syna w Żywcu, ale my chcieliśmy wysiąść w Bielsko Białej. Gdy wspomnieliśmy, że jedziemy do Albanii okazało się, że byli oni już tam na wakacjach. Szczęśliwy zbieg okoliczności.&lt;/p&gt;
+
+&lt;p&gt;W Bielsko Białej po krótkim piwie pod sklepem na zatoczce szybkiej drogi zatrzymał się Krzysztof, który jechał do Cieszyna przez Żywiec. Odpowiadało nam to, mimo że nadrobiliśmy trasy, bo mieliśmy być już za chwilę na tranzytowej granicy. W Żywcu wykonaliśmy sobie pamiątkowe zdjęcia:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/1.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;O 14 znaleźliśmy się na upragnionej granicy. Chwilę pogadaliśmy ze spotkanym autostopowiczem Januszem, który zmierzał do Turynu. Nastraszył nas trochę, że nikt nie chce zabierać… Na przekór jego słowom po dwóch kanapkach złapaliśmy tureckiego kierowcę, który jechał aż do Budapesztu! Nie posiadaliśmy się z radości, że uda nam się przebyć tak sporą trasę za jednym rzutem. I love transit!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/3.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Pogoda dopisywała, humory także, a widoki robił się co raz ładniejsze. Rosnące góry Słowacji świetnie oglądało się z szerokiej panoramy kabiny kierowcy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/9.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/10.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Na krótkim postoju Metin (wspomniany turecki kierowca) przygotował dla nas oryginalny turecki obiad z mielonego mięsa, papryki, cebuli i pomidorów. Trzeba przyznać, że było to naprawdę dobre po tym jak użył jakiejś tradycyjnej tureckiej przyprawy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/13.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dalej jechaliśmy już do miejscowości Sahy czyli słowacko-węgierskiego przejścia granicznego, gdzie tuż po dotarciu dopadł nas mrok.,, i kociak. Tam spędziliśmy noc (jak się potem okazało - niezbyt przyjemną) w tirze zamiast w namiocie. Wspólnie postanowiliśmy zacisnąć zęby i po prostu dojechać jak najszybciej do Budapesztu.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/14.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/15.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/16.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/17.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Budapest Ring&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;Z samego rana dojechaliśmy na obwodnicę Budapesztu czyli tak zwany Budapest Ring. Ku naszemu zdziwieniu kierowca (który jechał do Turcji, a nie do centrum Budapesztu oczywiście) zamiast zostawić nas wcześniej na stacji benzynowej zatrzymał się na autostradzie (!!!) i wskazał zjazd, którym powinniśmy iść do miasta. Nie muszę chyba wspominać, że autostrady budowane są na największych możliwych zadupiach.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/18.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/19.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/20.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Postawieni w tej no-kurde-raczej-trudnej sytuacji maszerowaliśmy słomianym poboczem mając na plecach ~17-sto kilogramowe plecaki w samo południe. Jednak najgorsze były pędzące po 120 km/h tuż obok nas samochody. Nie będę ukrywał, że miałem serce w przełyku. Na szczęście udało się dotrzeć do jakiejś drogi dojazdowej, jednak przez półtora godziny nikt się nie zatrzymał.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/21.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W końcu zatrzymałem dwójkę madziarów, którzy (JAKIMŚ KURWA CUDEM) znali kilka słów po angielsku. Skierowali nas na inną drogę, gdzie mieliśmy znaleźć busa do centrum Budapestu. Tak też się stało, ale wcześniej po drodze spotkaliśmy garażową wyprzedaż na której dostaliśmy pamiątkę - maskotkę. Był to kot którego nazywaliśmy pierwotnie Katze, a potem przechrzściliśmy na Kotora. Bardzo miły gest ze strony madziarów!&lt;/p&gt;
+
+&lt;p&gt;Mimo, że nie mieliśmy forintów udało nam się dojechać do metra (i galerii handlowej z kantorem) dzięki uprzejmości pewnej Pani, która kupiła nam dwa bilety. Po wymianie pieniędzy ruszyliśmy na zaplanowane zwiedzanie stolicy Madziarlandu.&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Budapasztet&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;Upał był ogromny, ale dobrze znosiliśmy go zwiedzając ciasne i zacienione kamieniczki Budapesztu. Zwiedziliśmy Parlament, który po chwili okazał się Bazyliką Św. Stefana… Zwiedzaliśmy wszystkie najpiękniejsze budynki - Zamek Królewski, Most Łańcuchowy czy Kościół Macieja. To dopiero drugi dzień naszej wyprawy, a już zobaczyliśmy tak wiele! Ponadto zrobiliśmy sobie przerwę na pyszne zimne piwo w jednej z knajp starego miasta.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/22.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/23.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/24.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/25.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/27.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/26.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/28.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/29.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/30.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/31.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/32.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/33.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/34.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Upał minął, siły odpłynęły. Zaczęliśmy rozglądać się za jakimś obiadem. Trafiliśmy na oryginalną węgierską zupę gulaszową, której madziarska nazwa jest niemożłiwa do wymówienia. Jak w sumie wszystko po węgiersku.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/35.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;   
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/36.jpg&quot; /&gt;
+    &lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/37.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nasz Buda-pasztetowy dzień minął. Odnajdując na mapie połączenie do Savoy Park dojechaliśmy tramwajem na przedmieścia Budapesztu, które już nie wyglądały zbyt zachęcająco. Dalej dotarliśmy na poszukiwaną stację OMV, gdzie umyliśmy się i zdjedliśmy prowiantową kolację przy towarzystwie węgierskiego piwa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/38.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jak się okazało stacja OMV nad Dunajcem nie była dobrym rozwiązaniem łapania stopa, ale dzięki uprzejmości pewnego Węgra z polskimi korzeniami (który o dziwo fantastycznie mówił po angielsku!) dotarliśmy do niedalekiej miejscowości Erd.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/39.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;Mały wóz na stacji w Erd&lt;/h3&gt;&lt;/div&gt;
+
+&lt;p&gt;W Erd powinniśmy złapać już stopa w stronę granicy, jednak szybko zaczęło się robić ciemno. Niestety okazało się, że w nocy łapanie stopa nie ma żadnego sensu. Próbowaliśmy jeszcze kilka godzin, aż padliśmy z wykończenia na betonie pobliskiej stacji w raz z naszymi plecakami pod głowami. W sumie to wydawało nam się bezpieczniejsze niż rozbijanie namiotu niedaleko całodobowego Tesco, gdzie zjeżdżało się nadzwyczaj dużo ciapatych madziarów w tuningowanych merolach.&lt;/p&gt;
+
+&lt;p&gt;Z tamtej nocy pamiętam jeszcze, że budząc się raz po raz udowadniałem Indze istnienie małego wozu na nieboskłonie, który to przyniósł nam chyba szczęście, bo już następnego dnia (dość niespodziewanie) kąpaliśmy się w wodzie jeziora Balaton…&lt;/p&gt;
+
+&lt;div class=&quot;notice&quot;&gt;&lt;h3&gt;
+Podsumowanie:
+&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/albania/1i2/podsumowanie.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Dzień pierwszy i drugi&lt;br /&gt;
+Łączny dystans: 477 km (+441 km pociągiem)&lt;br /&gt;
+Liczba autostopów: 4
+&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Pasmo Wielkiej Raczy</title>
+        <link href="//nikodamn.github.io/trips/pasmo-wielkiej-raczy/"/>
+        <updated>2012-08-08T23:15:21+02:00</updated>
+        <id>//nikodamn.github.io/trips/pasmo-wielkiej-raczy</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/WielkaRacza/17.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;W związku z faktem, że Victoria wciąż nie chce przesłać mi zdjęć z lipcowego wypadu w góry, należy opisać tutaj drugą z wypraw górskich. Ostatniego dnia wakacji, jak na złość młodszym rocznikom, ja i Inga wycelowaliśmy nasz wzrok w Beskid Żywiecki. Przedtem należało jednak obrać azymut w kierunku trakcji PKP Inowrocław-Racibórz. Albert, który był naszą taryfą, razem z nami mógł kontemplować sprawność logistyki Polskich Kolei Pociągowych.&lt;/p&gt;
+
+&lt;p&gt;Po kilku godzinach jazdy byliśmy w Tychach. Podróż minęła nam nadzwyczaj dobrze, do czego znacznie przyczynił się prywatny przedział. Bawił nas widok obszczanego dworca Tych (których? haha.), który do połowy był pomnikiem menelstwa HWDP, moczu i upadku cywilizacyjnego, a z drugiej nowoczesnej europeizacji i otwieranych drzwi automatycznych. I patrz, gdzieśmy skończyli. W Tychach…&lt;/p&gt;
+
+&lt;p&gt;Trochę zmęczone, ale podekscytowane blerwiątka z trudem zmieściły się w pociągu do Zwardonia, który był bardziej przeładowany niż wagony zsyłki na Sybir. O 14 byliśmy już na miejscu i po krótkich zakupach mogliśmy zacząć wspinaczkę na szczyty Beskidów. Dopiero zaczęliśmy przyzwyczajać się do naszych siedemnastokilogramowych plecaków, gdy po niecałej godzinie byliśmy na miejscu. To znaczy w pierwszej chatce studenckiej Na Skalance. Ku naszemu zaskoczeniu tego dnia odbywać się tam miały koncerty. Wszystko wyglądało bardzo profesjonalnie - scena, konsoleta, akustyk. Pierwszy zespół wypadł średniawo, bo były to w zasadzie same covery poezji śpiewanej. Na drugi zespół (o podobnej stylistyce) zebrały się już naprawdę tłumy. Jakieś 50 osób w schronisku studenckim to naprawdę masa! Jednak najlepiej wypadł trzeci zespół, który z górami miał tyle wspólnego, że pochodził z Gliwic (wtf?). Sąsiedzi (a było ich sześcioro) grali typowe szanty, co wpasowywało się w nasze upodobania do morskich opowieści… Chłopacy dali czadu, a publiczność bawiła się fantastycznie tańcząc i śpiewając Hey, ho! Flookey Alley! i inne takie brednie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Do czwartego zespołu nie dotrwaliśmy przez mieszankę wcześniejszych pociągów i późniejszego wina. Wylądowaliśmy w naszym (pożyczonym od Famułki) namiocie. Wcześnie rano wyruszyliśmy w stronę szczytu Wielkiej Raczy i dalej Przegibka. Trasa miała być długa - jakieś 7 godzin.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Początek był morderczy. Nie byliśmy jeszcze dobrze wczuci w wędrowanie z plecakami, gdy napotkaliśmy najtrudniejszą część całej wyprawy - podejście na Kikułę. Musieliśmy robić przystanki co chwilę, ale po zdobyciu Kikuły było już tylko lepiej. Trasa pozwoliła nawet na zrobienie jakiegoś zdjęcia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po dotarciu na Wielką Raczę podjeliśmy decyzję, że na Przegibek (2 h) idziemy następnego dnia. Spaliśmy w PTTK, który okazał się świetnym pomysłem. Oprócz pryszniców, łóżek i dachu nad głową w cenie znajdowały się najpiękniejsze widoki jakie mogliśmy sobie tam wyobrazić.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cudownie wyspani, mimo długiego siedzenia przy wieczornej herbacie i piwie, zjedliśmy śniadanie w towarzystwie kota i wyruszyliśmy na Przegibek. Wiedzieliśmy, że trasa będzie krótka i mniej uporczywa, dlatego nie śpieszyło nam się.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po drodze cieszyliśmy się pięknymi widokami, lasem i jagodami. Szło się fantastycznie, nawet z tymi plecakami.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na Przegibku było pięknie. Już wiedzieliśmy, że tutaj spędzimy trzecią noc. Rozbiliśmy namiot w sąsiedztwie konia wyglądającego jak krowa. Rozpoczęliśmy gotowanie obiadu (ach ten szakaron makaron!), leniwe palenie papierosów i spoglądanie na szczyty gór.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wieczorem poznaliśmy dwóch sąsiadów z namiotu - Jacka i Krzyśka. Kolejorze rozpalili ognisko przy którym gawędząc przesiedzieliśmy do późna. Tysiące historii i miliony śmiesznych anegdot potwierdzały cudowny klimat tego miejsca.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/14.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kolejnego dnia, za radą Jacka, postanowiliśmy zostawić sprzęt i plecaki na Przegibku oraz spędzić tutaj kolejną noc. Wolne barki dodawały nam tempa. Zdobyliśmy szybko Rycerzową, a później Młodą Horę. Przepiękne miejsca. Szczególnie to drugie, w którym znaleźliśmy nasz przyszły dom. Ponadto widzieliśmy woody’ego woodpeckera.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/15.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/16.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po tych pięknych trasach będących prawdziwym odprężeniem ugotowaliśmy tradycyjny już obiad. Dalej czekała nas kolejna noc przy ognisku z kolejarzami. Nasze rozmowy, z dobrze już znanymi kumplami, wspomagaliśmy pysznym piwem z sąsiedniego Żywca. Dotarła do nas także trójka poznaniaków. Wyjątkowo dziwnych poznaniaków…&lt;/p&gt;
+
+&lt;p&gt;Rano chłopacy powiedzieli, że podwiozą nas do Tych na dworzec. Nie mogliśmy obejść się ze szczęścia i podziwu dla narodu Ślązaków. Oczekując na luksusowy transport w postaci Volkswagena Polo mogliśmy się lenić.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/WielkaRacza/17.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dojechaliśmy do Tych. Stamtąd mieliśmy 3 godziny do pociągu. Długo zwiedzaliśmy miasto w poszukiwaniu za jedzeniem. W końcu udało się nam posilić i już kilka godzin później byliśmy w Bydgoszczy. Po drodze jednak krążyły plotki (a raczej rozsiewał je pewien staruszek), że pociąg jedzie przez Inowrocław z powodu awarii na torach, a we Francji wybuchła elektrownia atomowa…&lt;/p&gt;
+
+&lt;p&gt;Wylądowaliśmy w Bydgoszczy o 2:30. Pociąg mieliśmy o 5:30. Jak rasowe blerwy zagotowaliśmy sobie gorące kubki przy użyciu butli. Tak. Na dworcu. Później już tylko krótka drzemka i byliśmy w Inowrocławiu. Niestety. Niestety, bo było magicznie, jakby jakaś niesamowita aura wisiała w tamtejszym powietrzu.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Powrót do Polski</title>
+        <link href="//nikodamn.github.io/trips/eurotrip-cz-5/"/>
+        <updated>2012-08-04T22:46:17+02:00</updated>
+        <id>//nikodamn.github.io/trips/eurotrip-cz-5</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/eurotrip/5/1.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Nadszedł czas powrotu. Oczywiście nie wiedzieliśmy jak wydostać się z Amsterdamu. Na polu kampingowym znajdowały się na szczęście porady dla stopowiczów, które wskazały nam kierunek podróży przez miasto. Około 18 załatwiliśmy jeszcze kilka spraw związanych z wyjątkowymi pamiątkami. Spotkaliśmy nawet zastanawiający krojony stolec pilnowany przez królika. (WTF?!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Podmiejskim autobusem dostaliśmy się w okolice autostrady. Udało nam się przejechać dwukrotnie za darmo, a trzeba wiedzieć, że jeden bilet godzinny kosztuje 2,70 Euro. Dla takich absztyfikantów to spora oszczędność. Na stację przy autostradzie doszliśmy naprawdę łatwo, dzięki orientacji przestrzennej Olasa. Oczywiście należało to zwieńczyć (jak każdy nasz mały sukces) blantem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dosłownie minutę po skończeniu jointa obok nas podjechał autobus z napisem Słubice. Niestety kierowcy powiedzieli nam, że jadą w drugą stronę. Po chwili nieoczekiwanie wokół nas zebrała się spora grupa rosyjskich turystów. Porażeni sytuacją, w której się znaleźliśmy nie mogliśmy wstrzymać śmiechu. Porozmawialiśmy chwilę z grupą. Aftostopem?! Toż to bezpiecznije? Maladjec!&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/4.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/5.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/6.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Narody słowiańskie potwierdziły swoją bliskość etniczną. Rosjanie zostawili nam karton soku i kilka kubeczków wina, które zniknęły w krótką chwilę powodując przyjemne mrowienie w naszych zmęczonych umysłach.&lt;/p&gt;
+
+&lt;p&gt;Kilka chwil po tym przemiłym spotkaniu pewien Holender postanowił nas podwieźć jakieś 50 km do Amersfoort. Był to najbardziej interesujący z kierowców, których spotkaliśmy. Pracownik branży IT z naprawdę szerokimi horyzontami umysłowymi. W każdym bądź razie zaszczepił w nas wiarę w karmę, a sam mówiąc o karmie postanowił podrzucić nas “kawałek” dalej do Apeldoorn, czyli kolejne 50 km. Człowiek chciał dobrze, ale wysadził nas na wyjątkowym zadupiu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Był to zamykany po 24 CPN, na który wjeżdżali praktycznie tylko kierowcy z okolicy. Nie złapaliśmy nic od 20 do 1 w nocy. Noc spędziliśmy na ławce. Jednej. We dwóch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W nocy przeszkadzał nam deszcz, ale także miejscowa policja. Dwóch psiaków obudziło nas, sprawdziło dokumenty, pytało się co tutaj robimy. Oczywiście pytali się również o trawę. Wytłumaczyliśmy im nasze autostopowe zamiary. Dali nam spokój, komentując na odchodnę: It’s not very clever to sleep here…&lt;/p&gt;
+
+&lt;p&gt;Rano było ciężko. Nastąpiła w nas kumulacja zmęczenia i braku nadziei. Żaden z przejeżdżających Holendrów czy Niemców nie chciał na nas spojrzeć. Marzyliśmy aby wydostać się chociaż na kolejną stację na autostradzie, gdzie byłoby więcej konkretnych TIRów. W końcu około 10 podjechał Ford Transit na polskich blachach. Jak się okazało kierowca jechał sam i to do… Polski. Zgodził się nas zabrać. Czuliśmy się jak w niebie, gdy powiedział, że będziemy w Stargardzie o… 16! Z trzech dni zaplanowanych na powrót zrobiło się w zasadzie pół dnia. A warunki jazdy były niesamowite. Transit posiada z tyłu trzy wielkie, rozkładane fotele. Było to największe szczęście jakie mogliśmy sobie tylko wyobrazić.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/9.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/10.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Ze Stargardu czuć było Inowrocław w powietrzu. Jako, iż moje pieniądze skończyły się dzień wcześniej, Olas kupił dwa bilety Stargard - Inowrocław przez Poznań. Oczywiście przed tym należało zjeść tradycyjnego polskiego… kebaba.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/11.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/5/12.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I w ten oto sposób dostaliśmy się do Inowrocławia o 22. Zmęczeni, ześwirowani od swojego widoku, uradowani że się udało przywitaliśmy nasze blerwowe gniazdka.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Krótkie podsumowanie: 10 maszyn, 8 dni, dekagramy trawy i tony dobrej zabawy. Time of my life!&lt;/b&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Szalony Amsterdam</title>
+        <link href="//nikodamn.github.io/trips/eurotrip-cz-4/"/>
+        <updated>2012-08-03T22:30:48+02:00</updated>
+        <id>//nikodamn.github.io/trips/eurotrip-cz-4</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/eurotrip/4/17.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Wychodząc w Amsterdam nie sądziliśmy na pewno, że zniszczy on nas aż tak bardzo. Ale o tym za chwilę… Po rozbiciu namiotu nadszedł czas na korzystanie z uroków stolicy Holandii. Postanowiliśmy pozwiedzać miejską komunikację oraz przespacerować się po centrum. Zwiedziliśmy także kilka, a może nawet kilkanaście Coffeeshopów, które przyciągały nas swoimi zróżnicowanymi klimatami. Gdy nadszedł już wieczór, byliśmy w naprawdę niezłych humorach po połączeniu przeróżnych odmian.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Postanowiliśmy wejść na mały chill do Coffeeshopu TOPS. Paląc tam sobie we dwójkę poznaliśmy chłopaka, który posiadał miniaturowy odpowiednik Olasowego Gandalfa - Pippina. Był to Eric i przyleciał ze Stanów na zjarany tour po Europie. Zapowiadało się nieźle. Z Olasem jednoznacznie stwierdziliśmy, że nigdy nie widzieliśmy człowieka, który jest w stanie tyle w siebie wdychać. Niech udowodni to zdjęcie Erica w towarzystwie Ganjalfa i pipe Pippina.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/19.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Z naszym nowym towarzyszem fazy przebyliśmy wszelkie zakątki Amsterdamu. Trzeba dodać, że strasznie nam to podbijało, że mamy tak dobrego przewodnika. Zwiedziliśmy kolejne multum Coffeeshopów, ale także wiele pięknych uliczek. W tym oczywiście ulicę czerwonych latarni, jednak tam zdjęć robić się nie dało.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/3.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/5.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Z Olasem poczuliśmy się zobowiązani zaprosić jankesa do wspólnego spróbowania Kamienia Filozofów, który nabiliśmy wcześniej. Eric mówił, że próbował już go kiedyś, co było dość uspokajające - spróbować u boku kogoś z tym obytego. I w ten sposób o 1 w nocy poznaliśmy Shroomsterdam. Daliśmy się ponieść wizualizacjom i zmysłowym doznaniom Kamienia. Mimo wszystko mieliśmy niezły Chill, chill, yeah, chill. Było naprawdę zabawnie, a szczególnie gdy spotkaliśmy jakiegoś Chorwata, który wciąż powtarzał: Shit, son!.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Shroomsterdam zwiedzaliśmy do 6 rano i jak potem się okazało: zwiedziliśmy całe centrum pieszo! Nawet najlepiej trzymający się Eric (dzięki napojowi energetycznemu) w końcu musiał zrobić sobie drzemkę na jakiejś łajbie. Niestety miałem pół godziny słabości i zimna, ale Olas bacznie czuwał nad rozwojem sytuacji w mojej głowie. Także na dworcu centralnym próbowało nas okraść dwóch murzynów, jednak wszystko skończyło się dobrze, dzięki słabemu już działaniu Kamienia. Ba, skończyło się wręcz zajebiście o 7 rano o wschodzie słońca na moście w euforycznym uniesieniu!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/7.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/8.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W ten oto sposób zakończyła się jedna z najbardziej szalonych nocy naszego życia. Obudziliśmy się dość wcześnie i zaczęliśmy dzień tak samo, jak skończyliśmy poprzedni - w towarzystwie Gandalfa i Pippina. Niestety wiedzieliśmy, że to dzień wyjazdu Erica do Pragi. Mimo wszystko, dobrze się bawiliśmy szwędając się tu i ówdzie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Przybiliśmy sobie piątkę z Ericiem i zaczęliśmy znów we dwójkę szlajać się po Amsterdamie. Szybko we znaki dał nam się kac mózgowy i ogólne zmęczenie po zeszłej nocy. Odespaliśmy kilka godzin i znów wyruszyliśmy na miasto. Byliśmy już znacznie bardziej stoned, jak by to określił każdy prawdziwy barman Coffeeshopu. Do namiotu trafiliśmy dopiero o 4 w nocy, dlatego zrozumiałe, że staraliśmy się przespać chociaż na przystanku tramwajowym. Jak rasowe prostytuty.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Trzeci dzień miał być naszym ostatnim tam. Zaczęliśmy go od porządnego prania i sprzątania naszego namiotu. Wbrew pozorom poszło nam nieźle, a to zadziwiające biorąc pod uwagę ilość brudu na ubraniach i ogrom rozpierdolu w namiocie.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/13.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/15.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po tak efektywnym poranku postanowiliśmy wypożyczyć rowery. Należy tu wspomnieć, że Amsterdam to miasto rowerzystów. Na rowerach jeździ tam każdy, a nawet śmiem twierdzić, że drogi rowerowe obejmują więcej uliczek (szczególnie w centrum) niż drogi samochodowe. Wypożyczenie roweru kosztowało 12 Euro za dzień, co trochę zmroziło nasze blerwowe serduszka. Tym bardziej, że moje pieniądze były już prawie na wyczerpaniu. Zgodnie z etosem absztyfikanta grubej blerwy postanowiliśmy jeździć na połowicznie wypożyczonych rowerach. Jednak ów pożyczony grat leżący w rowie odłożyliśmy w to samo miejsce, tylko wieczorem!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/16.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/17.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po naprawieniu sobie głów dzięki rowerom i podbiciu kilku całkiem przyjemnych faz, powróciliśmy na kemping tuż przed wieczorem. Odpuściliśmy sobie chodzenie po mieście i czerwonych latarniach (lub po prostu: kurwy) i w raz z zasobami nerki Olasa odpoczywaliśmy przy piwku i Gandalfie na polu namiotowym. W sumie to chyba zasnęliśmy z pizdy…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/4/18.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Następny ranek był dniem 7. tej podróży. Skoro trzy dni zajęło nam blerwienie się do Amsterdamu, to trzy dni odłożyliśmy sobie na powrót. Należy również dodać, że ciągłe Coffeeshopowanie, płatny kemping, puby i fast foody opróżniły nasze portfele całkiem zręcznie. Powrót opiszę w ostatniej - 5. części, która będzie znaaacznie krótsza. Obiecuję. I gratuluje tym, którzy dotrwali do końca tego wpisu.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Trasa Berlin - Amsterdam</title>
+        <link href="//nikodamn.github.io/trips/eurotrip-cz-3/"/>
+        <updated>2012-08-02T22:13:17+02:00</updated>
+        <id>//nikodamn.github.io/trips/eurotrip-cz-3</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/eurotrip/3/3.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Wypoczęci i jako-tako umyci w peronowym McDonaldsie wyruszyliśmy w kierunku upragnionego spotu na Hannover. Zręcznie nam poszło dotarcie do miejscowości pod Berlinem - Muchendorfu. Wysiadając czuliśmy się jak na dworcu w Inowrocławiu, co udowodnia poniższe zdjęcie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Z tegoż peronu czekała nas droga w kierunku autostrady przez ulice tej małej miejscowości. Spotkaliśmy pewnego Litwina, który wracał właśnie z miesięcznej podróży stopem do Paryża. Jak się okazało został okradziony w pierwszych minutach pobytu tam, przez co rosła w nas myśl o porzuceniu tego celu podróży. Najtrudniejsze okazało się wydostanie z miejscowości na stację przy autostradzie. Zajęło nam to prawdopodobnie 2 lub 3 męczące godziny z naszymi przyjaciółmi - bagażami na plecach.&lt;/p&gt;
+
+&lt;p&gt;W końcu udało nam się dotrzeć do raju hitchhikerów - stacji z ogromną ilością TIRów i przejeżdżających samochodów. Odpoczęliśmy i chilloutowaliśmy tam dobrą godzinę poznając TIRowców i innych stopowiczów. Większość kierowców powiedziała nam, że z powodu wakacji w Niemczech dojedziemy najdalej do Hannoveru, gdyż obowiązuje zakaz jeżdżenia w niedzielę. Była sobota, godzina 18.&lt;/p&gt;
+
+&lt;p&gt;Nadzieję w naszych blerwowych sercach rozbudziła para z Polski, która leżąc sobie na trawniku powiedziała nam, że umówiła się z pewnym kierowcą na 19:30 i podrzuci ich aż do Amsterdamu. Kolejny pochód po wszystkich stojących TIRach dał owoce w postaci obietnic podwózki, ale dopiero w poniedziałek rano. Postanowiliśmy stanąć przy pompie i łapać osobówki. W końcu o 18:30 ruszył jeden z TIRów na polskich blachach i widząc znak “H” (narysowany na ukradzionym kartonie reklamowym z Muchendorfu) oraz flagi Polski postanowił nas zabrać. Jak się chwilę potem okazało wiózł 20.000 litrów piwa Żywiec… aż do Holandii! Tak oto wiedzieliśmy, że o północy na pewno będziemy już po holenderskiej stronie granicy. Poniżej kilka zdjęć z tego cudownego TIRa, w którym można było palić w radosnym uniesieniu. Humor poprawiał nam kierowca (oraz zdjęcia jego żony na laptopie), który mówił tak cicho, że tylko udawaliśmy zrozumienie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/2.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tuż przed snem należało zrobić rzecz oczywistą - zapalić legalnego blanta. Nie obyło się bez uwiecznienia tegoż pięknego momentu.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/5.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/6.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tak też trzecią noc podróży spędziliśmy na ławkach stacji benzynowej przed Amersfoortem. Rano inny polski kierowca zrobił nam kawę i dał ciastka. Wiedzieliśmy, że to będzie dobry dzień. Dzień Amsterdamu.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/7.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/8.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Pierwszy Holender zapytany: Nie jedzie Pan może do centrum Amersfoortu? od razu powiedział, że jedzie i w zasadzie to nawet nas podrzuci na dworzec centralny. W gwoli wyjaśnienia: byliśmy naprawdę rządni stolicy! Bardzo uprzejmy człowiek odwiózł nas pod sam dworzec skąd zamówiliśmy w miarę tanie bilety do Amsterdamu. Nie przeszkodził nam nawet jakiś wypadek na tejże linii kolejowej, a jedynie zmieniliśmy miejsce przesiadki na Utrecht.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wysiedliśmy na upragnionym (i monumentalnym) dworcu w Amsterdamie. Zabawnie podbudowujące były widoki wszystkich ludzi palących trawę, gdzie się tylko da. Tuż przy stacji w centrum informacyjnym dowiedzieliśmy się gdzie mamy kierować się na campingside, ale nie mogliśmy odeprzeć się pokusie niewstąpienia przedtem do najbliższego coffeeshopu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W Central Coffeeshop urzekł nas barowy, luźny klimat. Daliśmy odpocząć swoim barkom i mózgom. Poznaliśmy także, na chwilę, dwóch chłopaków z Niemiec. Niestety nie byli w stanie za dużo nam opowiedzieć. Sam nie wiem czy z powodu słabego angielskiego czy z przepalenia…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Droga do pola kempingowego prowadziła przez przepiękny, ale także cholernie długi most.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po przekroczeniu tegoż mostu daliśmy odpocząć nogom i zmęczyć się płucom w parku tuż przed kempingiem. Spotkaliśmy tam także kaczych wysłanników, których dzioby nakazałem skierować w Bieszczady.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/13.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/3/14.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Po rozbiciu namiotu i zapłaceniu za miejsce kempingowe (było warto dla samego gorącego prysznica!) mogliśmy rozpocząć pielgrzymkę po Amsterdamie. Jednak to jest opowieść na osobny wpis…&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Odwiedźmy Berlin!</title>
+        <link href="//nikodamn.github.io/trips/eurotrip-cz-2/"/>
+        <updated>2012-08-02T18:52:29+02:00</updated>
+        <id>//nikodamn.github.io/trips/eurotrip-cz-2</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/eurotrip/2/11.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Obudziliśmy się o siódmej rano nadal nie wierząc, że znaleźliśmy się w takiej dupie. Bez wody do picia i wody do mycia zaczęliśmy dopiero uczyć się zawodu blerwy. Krótko potrwała nasza radość, gdy Strefa ujęcia wody okazała się zatęchłym bagienkiem. Od jednego z drwali dowiedzieliśmy się, że najbliższe miasto w kierunku Kostrzyna jest oddalone o jakieś 30 km. Postanowiliśmy cofnąć się do Skwierzyny i szukać szczęścia z powrotem na A2. Szybko pomógł nam kolejny TIRowiec, który wioząc mrożone kurczaki dowiózł nas dalej niż chcieliśmy (ale w kierunku przeciwnym od granicy) - do Miedzichowa. Tutaj jednak znajdował się niezły spot do łapania - spora stacja benzynowa tuż przy A2. Tam mogliśmy jednak skorzystać z takich dobrodziejstw cywilizacyjnych jak woda czy zapiekanka.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Minęły kolejne dwie lub trzy godziny oglądania tylko rejestracji samochodów. Stwierdziliśmy, że ten odcinek jest zbyt hardcore’owy dla początkujących blerw. W zrezygnowaniu szliśmy poboczem autostrady (!) w kierunku Poznania aby trafić do jakiejś miejscowości bogatej w dworzec kolejowy. Tak, los nakazał nam złamać etos blerwy i pojechać do Berlina pociągiem. Tuż po chwili zatrzymał się (ba! specjalnie zawrócił!) młody chłopak, który sam czasami jeździ stopem. Podrzucił nas 15 km pod sam dworzec w Nowym Tomyślu, gdzie kolejna miła osoba - pani w okienku PKP (nieprawdopodobne, racja?) sprzedała nam bilety prosto do Berlina. Był to koszt jakiś 30 zł + 5 Euro, dlatego nasze morale zdecydowanie się podniosły. Odpoczynek na betonie peronu postanowiliśmy umilić sobie małym drinkiem w pobliskiej ruderze. Oczywiście - ruderze, tak jak czynią prawdziwi hitchhik… to znaczy: prawdziwe blerwy.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/2.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/3.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/4.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;O godzinie dwudziestej wysiedliśmy na prze- pięknym i ogromnym dworcu w Berlinie. Od razu poczuliśmy w sobie podniecenie, które po zakupie mapy i zostawieniu plecaku w szafkach, mogliśmy zaspokoić. Oczywiście należało przed tym zrobić rzecz ceremonialną – dopalić w piecu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Szybko daliśmy sobie spokój z chodzeniem według mapy. Jak się potem okazało - i dobrze. Wbudowany w fazę GPS oprowadził nas po wszystkich najważniejszych miejscach Berlina, a przy okazji znalazł się też czas na piwo w pubach, chillout pod Bundestagiem i jedzenie w fast foodzie. Zwiedzaliśmy Berlin do czwartej rano, na koniec trochę (przyjemnie) błądząc. Był to piątek w nocy, więc miasto tętniło życiem. Poniżej tylko kilka (bo całości chyba nawet serwer Google nie wytrzyma) ujęć na szybko:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/9.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/10.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/11.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/2/12.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Podczas poszukiwań drogi powrotnej do dworca centralnego (po niemiecku: Berlin haumpfhfghhh) natrafiliśmy na uprzejmego Niemca, który sam nas zaczepił czy nam pomóc. Okazało się, że również jeździł stopem i wskazał nam jak następnego dnia wyjechać z Berlina i łapać stopa w kierunku Amsterdamu. W końcu trafiliśmy na dworzec centralny, gdzie spędziliśmy noc pod czujnym okiem monitoringu video. Nasze zmęczenie było tak ogromne, że nie obudziły nas nawet przyjeżdżające na peron pociągi ani drzwi mozolnie uderzające raz po raz ciało Olasa.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Do Amsterdamu... przez Kostrzyn?</title>
+        <link href="//nikodamn.github.io/trips/eurotrip-cz-1/"/>
+        <updated>2012-08-01T18:35:44+02:00</updated>
+        <id>//nikodamn.github.io/trips/eurotrip-cz-1</id>
+        <author>
+					<name>Nikodem Hynek</name>
+					<uri>//nikodamn.github.io/</uri>
+					<email>nikodem.hynek@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;//nikodamn.github.io/images/eurotrip/1/2.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Może niezbyt chronologicznie, jednak dopóki wspomnienia są dość żywe warto odnotować najbardziej szalony aspekt tych wakacji - długo planowany eurotrip. Do ostatniego dnia termin ostatecznego wyjazdu w nieznane był przekładany, jednak 16. sierpnia o 10 znaleźliśmy się w końcu na drodze w kierunku Poznania.&lt;/p&gt;
+
+&lt;p&gt;Podobno pierwszego stopa pamięta się całe życie. Jednak w naszym przypadku na pewno regułę tą spełniła druga z maszyn. Pierwsza okazja zawiozła nas jedynie do Strzelna, jednak dzięki niej złapaliśmy najlepszy samochód całej wyprawy. Była to para z Olsztyna, która po trzech minutach wspólnej podróży powitała nas pytaniem: Chłopaki, a ziółko palicie?. I tak w przyjemnym wietrze trasy i dymu dotarliśmy do najbliższego nam ważnego punktu - Poznania. Niestety tutaj brak zdjęć, gdyż byliśmy zbyt zajęci gorączką podróży…&lt;/p&gt;
+
+&lt;p&gt;Z Poznania wydostaliśmy się z trudem, ale w końcu się to udało dzięki komunikacji miejskiej.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Na słynnej A2 Poznaniacy udowodnili, że jako kierowców można mieć ich gdzieś. Przez 3,5 h (w co prawda, niezbyt dogodnej lokalizacji…) nie złapaliśmy nic, aż jakaś para (znów!) podrzuciła nas kawałeczek za Poznań - do Pniew. Tam dopiero poczuliśmy frajdę podróży, będąc w samym środku… niczego.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stamtąd po jakiejś godzinie nadzieję w nas rozbudził kierowca TIRa jadącego do Gorzowa. Ten przemiły człowiek stwierdził, że podrzuci nas do Skwierzyny skąd na pewno złapiemy coś do Kostrzyna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Podekscytowani, że wreszcie ktoś się zatrzymał zgodziliśmy się zejść z A2. Jak okazało się wkrótce po opuszczeniu ciężarówki był to ogromny błąd… W kilkanaście minut zrobiło się ciemno, a w dodatku zaczęło przeraźliwie padać. Opustoszała droga zmusiła nas do poruszania się w kierunku Kostrzynia. Mimo tych okoliczności bawiło nas to i maszerując z ciężarami na plecach nuciliśmy w amoku: “Nie ma, nie ma wody na pustyni…”, bo rzeczywiście żadnej wody ze sobą już nie mieliśmy.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/5.jpg&quot; /&gt;
+&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/6.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikodamn.github.io/images/eurotrip/1/7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zaszliśmy jakieś 5 km, a minęło nas w tym czasie maksymalnie dwadzieścia aut. Oczywiście żadne nie zatrzymało się by pomóc dwóm debilom z plecakami robiącym sobie spacer w kapuśniaczku. Sytuacja zmusiła nas do rozbicia namiotu w środku lasu. Zmęczeni tułaczką nie zwracaliśmy uwagi na niepokojące dźwięki. Nawet jeśli miałby to być dzik lub gwałciciel. I tak właśnie, niezbyt efektywnie, rozpoczęła się nasza podróż podbijania Europy.&lt;/p&gt;
 
         </content>
     </entry>
