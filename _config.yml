@@ -14,7 +14,7 @@ sass:
     style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 gems:
   - jekyll-sitemap
 
@@ -27,7 +27,7 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: "Pasjonat podróżowania, w tym autostopem. Zapalony amator programowania i fan angielskiej piłki nożnej."
+  bio: "Programmer, football and traveling passonate."
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
