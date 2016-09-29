@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Ostatnie wpisy: "
+title: "Last posts: "
 image:
   feature: zima.jpg
 ---

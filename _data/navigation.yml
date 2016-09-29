@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Trips
-  url: /blog/
+- title: Trips map
+  url: /map/
   excerpt: "Diares"
   image: trips.jpg
 
