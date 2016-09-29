@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Jestem Nikodem"
+title: "Hi! I'm Niko(-dem)!"
 date: 
 modified:
 excerpt:
